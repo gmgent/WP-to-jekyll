@@ -2,6 +2,7 @@
 layout: blog
 title: I would answer you with 2am
 permalink: 2006/04/i-would-answer-you-with-2am
+categories: [Poetry]
 ---
 
 <p>I would answer you with 2am<br />

@@ -2,6 +2,7 @@
 layout: blog
 title: police brutality on campus
 permalink: 2011/11/police-brutality-on-campus
+categories: [Politics]
 ---
 
 When I went to college, the security was minimal and I don't think pepper spray was in much use. Fast forward to today. Things are out of hand. You be the judge:

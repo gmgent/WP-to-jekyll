@@ -2,6 +2,7 @@
 layout: blog
 title: prawn for Rails
 permalink: 2011/04/prawn-for-rails
+categories: [Code]
 ---
 
 <br/>

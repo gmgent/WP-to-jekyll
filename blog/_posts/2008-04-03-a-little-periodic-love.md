@@ -2,6 +2,7 @@
 layout: blog
 title: a little periodic love
 permalink: 2008/04/a-little-periodic-love
+categories: [Code]
 ---
 
 <p>Although I didn&#039;t actually end up using it, this little snippet did work like a charm.</p>

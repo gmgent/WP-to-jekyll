@@ -2,6 +2,7 @@
 layout: blog
 title: union square OWS and the million hoodie march
 permalink: 2012/03/union-square-ows-and-the-million-hoodie-march
+categories: [Politics, Random]
 ---
 
 Start getting used to it.

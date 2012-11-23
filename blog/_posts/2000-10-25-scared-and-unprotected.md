@@ -2,6 +2,7 @@
 layout: blog
 title: scared and unprotected
 permalink: 2000/10/scared-and-unprotected
+categories: [Historical]
 ---
 
 10/25/00

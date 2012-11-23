@@ -2,6 +2,7 @@
 layout: blog
 title: test photo nothing to see here
 permalink: 2011/06/test-photo-nothing-to-see-here
+categories: [Journal, Random]
 ---
 
 Don't mind me, I am testing another auto post with custom short link (this time with a photo).

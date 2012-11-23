@@ -2,6 +2,7 @@
 layout: blog
 title: update your Gemfile with one line
 permalink: 2011/01/update-your-gemfile-with-one-line
+categories: [Code]
 ---
 
 <pre>

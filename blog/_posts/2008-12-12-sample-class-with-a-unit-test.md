@@ -2,6 +2,7 @@
 layout: blog
 title: Sample class with a unit test
 permalink: 2008/12/sample-class-with-a-unit-test
+categories: [Code]
 ---
 
 <p>Also from a job interview a while back.</p>

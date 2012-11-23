@@ -2,6 +2,7 @@
 layout: blog
 title: Next Monday at Room 5
 permalink: 2008/07/next-monday-at-room-5
+categories: [Historical]
 ---
 
 <p>I have not been performing a whole lot lately, I'm in the studio doing my thing. Next week will be a rare solo gig for me.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: I had to check in today
 permalink: 2009/12/i-had-to-check-in-today
+categories: [Code]
 ---
 
 <p>What an end of the year it has been. Highs and lows. Mostly highs, I guess. :)</p>

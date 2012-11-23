@@ -2,6 +2,7 @@
 layout: blog
 title: Why I love California
 permalink: 2008/01/why-i-love-california
+categories: [Historical]
 ---
 
 <p><a href="http://www.csmonitor.com/2008/0104/p02s01-usgn.html">more info</a><br />

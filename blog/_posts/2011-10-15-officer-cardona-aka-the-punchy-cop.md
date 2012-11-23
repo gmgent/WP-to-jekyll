@@ -2,6 +2,7 @@
 layout: blog
 title: Officer Cardona aka the punchy cop
 permalink: 2011/10/officer-cardona-aka-the-punchy-cop
+categories: [Politics]
 ---
 
 You may have heard now about Officer Cardona the punchy NYPD officer.

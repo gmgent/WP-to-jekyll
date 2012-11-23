@@ -2,6 +2,7 @@
 layout: blog
 title: Krister Axel on the radio
 permalink: 2007/11/krister-axel-on-the-radio
+categories: [Historical]
 ---
 
 <p>So far, <a href="http://vesuvi.us/products/arms-around-the-river">Arms Around the River</a> is in rotation at these stations around the world:<br />

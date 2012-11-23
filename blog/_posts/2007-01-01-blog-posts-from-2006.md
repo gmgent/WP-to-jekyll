@@ -2,6 +2,7 @@
 layout: blog
 title: Blog posts from 2006
 permalink: 2007/01/blog-posts-from-2006
+categories: [Historical, Journal, Saga]
 ---
 
 <strong>oBriens Pub in Santa Monica<br />

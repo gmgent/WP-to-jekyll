@@ -2,6 +2,7 @@
 layout: blog
 title: comment response from Matt Taibbi article
 permalink: 2009/05/comment-response-from-matt-taibbi-article
+categories: [Historical]
 ---
 
 <p>quote from the article:</p>

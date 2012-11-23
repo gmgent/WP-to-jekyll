@@ -2,6 +2,7 @@
 layout: blog
 title: my stacker class
 permalink: 2010/01/my-stacker-class
+categories: [Code]
 ---
 
 <p>For anyone that uses FusionCharts, this little class may be very helpful.</p>

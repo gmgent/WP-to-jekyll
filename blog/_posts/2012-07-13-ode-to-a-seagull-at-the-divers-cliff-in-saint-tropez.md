@@ -2,6 +2,7 @@
 layout: blog
 title: Ode to a Seagull at the Diver's Cliff in Saint Tropez
 permalink: 2012/07/ode-to-a-seagull-at-the-divers-cliff-in-saint-tropez
+categories: [Poetry]
 ---
 
 <em>I have to post this one too, which is also from my senior thesis.</em>

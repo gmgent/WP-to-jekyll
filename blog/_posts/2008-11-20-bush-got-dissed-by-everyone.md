@@ -2,6 +2,7 @@
 layout: blog
 title: Bush got dissed by everyone
 permalink: 2008/11/bush-got-dissed-by-everyone
+categories: [Historical]
 ---
 
 <p>and it was awesome!<br />

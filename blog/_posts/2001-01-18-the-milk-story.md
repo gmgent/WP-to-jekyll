@@ -2,6 +2,7 @@
 layout: blog
 title: the milk story
 permalink: 2001/01/the-milk-story
+categories: [Historical]
 ---
 
 > -----Original Message-----

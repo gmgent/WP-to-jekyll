@@ -2,6 +2,7 @@
 layout: blog
 title: asynchronous javascript FTW
 permalink: 2008/11/asynchronous-javascript-ftw
+categories: [Code]
 ---
 
 <p>link_to_remote(name, options = {}, html_options = {})</p>

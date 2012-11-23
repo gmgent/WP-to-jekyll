@@ -2,6 +2,7 @@
 layout: blog
 title: through the freeze
 permalink: 1997/04/i-wrote-this-12-years-ago
+categories: [Poetry]
 ---
 
 just this little stash of survival

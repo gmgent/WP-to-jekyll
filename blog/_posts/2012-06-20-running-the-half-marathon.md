@@ -2,6 +2,7 @@
 layout: blog
 title: running the half marathon
 permalink: 2012/06/running-the-half-marathon
+categories: [Journal, Photo, Saga]
 ---
 
 Here is a shot of me from the half marathon a while back. Good times.

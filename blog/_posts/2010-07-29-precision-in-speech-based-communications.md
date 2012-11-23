@@ -2,6 +2,7 @@
 layout: blog
 title: Precision in speech based communications
 permalink: 2010/07/precision-in-speech-based-communications
+categories: [Code]
 ---
 
 <p>Precision in speech-based communications</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: a funny little blog post comment not written by me
 permalink: 2010/01/a-funny-little-blog-post-comment-not-written-by-me
+categories: [Historical]
 ---
 
 <p>Posted by: dsf3g | 05/18/09 | 5:44 am</p>

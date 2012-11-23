@@ -2,6 +2,7 @@
 layout: blog
 title: and they said the recession was over
 permalink: 2009/10/and-they-said-the-recession-was-over
+categories: [Historical]
 ---
 
 <p><a href="http://www.wsws.org/articles/2009/oct2009/pers-o05.shtml" title="http://www.wsws.org/articles/2009/oct2009/pers-o05.shtml">http://www.wsws.org/articles/2009/oct2009/pers-o05.shtml</a></p>

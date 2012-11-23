@@ -2,6 +2,7 @@
 layout: blog
 title: A Ruby View using AJAX
 permalink: 2008/02/a-ruby-view-using-ajax
+categories: [Code]
 ---
 
 <p>There is a lot going on here, perhaps too much, but this serves as a nice example.</p>

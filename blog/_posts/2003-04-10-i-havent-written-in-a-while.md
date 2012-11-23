@@ -1,7 +1,8 @@
 ---
 layout: blog
 title: I haven't written in a while
-permalink: 2003/04/i-haven%e2%80%99t-written-in-a-while
+permalink: 2003/04/i-havent-written-in-a-while
+categories: [Journal, Saga]
 ---
 
 

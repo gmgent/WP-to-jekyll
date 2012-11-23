@@ -2,6 +2,7 @@
 layout: blog
 title: thumbs up for multiple revenue streams
 permalink: 2012/07/thumbs-up-for-multiple-revenue-streams
+categories: [News]
 ---
 
 You know, this is the best kind of email you can get. <br/><br/>

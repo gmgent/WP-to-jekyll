@@ -2,6 +2,7 @@
 layout: blog
 title: A Ruby Rake Task
 permalink: 2008/03/a-ruby-rake-task
+categories: [Code]
 ---
 
 <p>namespace :db do<br />

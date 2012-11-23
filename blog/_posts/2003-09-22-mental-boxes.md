@@ -2,6 +2,7 @@
 layout: blog
 title: Mental Boxes
 permalink: 2003/09/mental-boxes
+categories: [Poetry]
 ---
 
 it occurs to me in hesitation

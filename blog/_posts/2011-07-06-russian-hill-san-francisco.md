@@ -2,6 +2,7 @@
 layout: blog
 title: Russian Hill, San Francisco
 permalink: 2011/07/russian-hill-san-francisco
+categories: [Brave New World, Journal, Saga]
 ---
 
 

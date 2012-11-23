@@ -2,6 +2,7 @@
 layout: blog
 title: Epigrams in programming
 permalink: 2011/11/epigrams-in-programming
+categories: [Code]
 ---
 
 <br>

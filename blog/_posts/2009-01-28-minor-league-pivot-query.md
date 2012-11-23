@@ -2,6 +2,7 @@
 layout: blog
 title: minor league pivot query
 permalink: 2009/01/minor-league-pivot-query
+categories: [Code]
 ---
 
 <p>This would be a pivot query 101 kind of snippet. They teach this in SQL kindergarten - I only imagine, of course, because I never went. </p>

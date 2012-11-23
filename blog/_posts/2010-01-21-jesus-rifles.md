@@ -2,6 +2,7 @@
 layout: blog
 title: jesus rifles
 permalink: 2010/01/jesus-rifles
+categories: [Historical, Politics]
 ---
 
 <p>Say it isn't so! Crusades, anyone?</p>

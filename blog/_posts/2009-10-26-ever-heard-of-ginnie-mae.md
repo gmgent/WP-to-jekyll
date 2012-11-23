@@ -2,6 +2,7 @@
 layout: blog
 title: ever heard of Ginnie Mae?
 permalink: 2009/10/ever-heard-of-ginnie-mae
+categories: [Historical]
 ---
 
 <p><a href="http://online.wsj.com/article/SB125253192129897239.html" title="http://online.wsj.com/article/SB125253192129897239.html">http://online.wsj.com/article/SB125253192129897239.html</a><br />

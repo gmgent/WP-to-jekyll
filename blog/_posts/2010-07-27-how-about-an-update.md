@@ -2,6 +2,7 @@
 layout: blog
 title: how about an update
 permalink: 2010/07/how-about-an-update
+categories: [Historical]
 ---
 
 <p>Well, here I am finally writing an actual blog update. I've been tweeting a lot, and posting code/geek stuff on <a href="http://codeboxer.com" target="_blank">codeboxer.com</a>, but not a lot of personal updates. I'm still preparing to release some new music, but I don't have an album cover yet. I am completely out of touch with almost everyone I know, due to a pretty long string of bad phone experiences (theft, not working, etc.) and some tough times at work that leave me feeling a little too angry about the world to reach out at all. But that seems to be changing, bit by bit. Of course I am still completely enamored with my beautiful wife and next year sometime we are going to start a family, so there is a lot to look forward to.</p>

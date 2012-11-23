@@ -2,6 +2,7 @@
 layout: blog
 title: dog eats carrot
 permalink: 2011/08/dog-eats-carrot
+categories: [Journal, Random, Saga]
 ---
 
 Today in the news:

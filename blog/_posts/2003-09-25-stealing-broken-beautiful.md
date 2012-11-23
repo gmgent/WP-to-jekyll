@@ -2,6 +2,7 @@
 layout: blog
 title: Stealing broken beautiful
 permalink: 2003/09/stealing-broken-beautiful
+categories: [Poetry]
 ---
 
 <p>I have wanted so much<br />

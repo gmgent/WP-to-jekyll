@@ -2,6 +2,7 @@
 layout: blog
 title: fun with closures
 permalink: 2010/07/fun-with-closures
+categories: [Code]
 ---
 
 <p>I got burned by not being able to answer the question -&#039;what are closures?" with much of anything. It was pretty embarrassing, seeing as I use them all day. :)</p>

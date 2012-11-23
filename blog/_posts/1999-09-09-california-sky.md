@@ -2,6 +2,7 @@
 layout: blog
 title: California Sky
 permalink: 1999/09/california-sky
+categories: [Poetry]
 ---
 
 What I never want to say

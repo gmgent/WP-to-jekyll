@@ -2,6 +2,7 @@
 layout: blog
 title: quotes from twitter take 1
 permalink: 2009/09/quotes-from-twitter-take-1
+categories: [Historical]
 ---
 
 <p>"The dog don't like you planting stuff there. It's his backyard. If you're the only one who shits in something, you own it. Remember that."</p>

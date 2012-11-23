@@ -2,6 +2,7 @@
 layout: blog
 title: jamming with John Popper
 permalink: 2011/09/jamming-with-john-popper
+categories: [Historical, Journal, News, Saga]
 ---
 
 This is a great lesson in why one must google oneself every now and again. I do this somewhere between every month and every quarter - both to verify my own SEO efforts but also to eavesdrop on anyone who is posting stuff on the internets about me. Sometimes, you find new things that you don't expect. Like that one time I found a whole album of live shots from a <a href="http://axel.me/3r" target="_blank">Hotel Cafe show</a> that I forget even existed.

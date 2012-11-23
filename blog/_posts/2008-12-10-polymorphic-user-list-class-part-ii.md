@@ -2,6 +2,7 @@
 layout: blog
 title: polymorphic user list class part II
 permalink: 2008/12/polymorphic-user-list-class-part-ii
+categories: [Code]
 ---
 
 <p>This is part II of a series.<br />

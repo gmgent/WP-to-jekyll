@@ -2,6 +2,7 @@
 layout: blog
 title: the two stages of creativity
 permalink: 2011/10/the-two-stages-of-creativity
+categories: [Brave New World, Random]
 ---
 
 This is a reaction to a blog post by <a href="http://www.greggfraley.com/blog/?p=2204" target="_blank">Gregg Fraley</a>.

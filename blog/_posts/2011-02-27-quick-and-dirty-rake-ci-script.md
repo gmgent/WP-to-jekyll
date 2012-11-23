@@ -2,6 +2,7 @@
 layout: blog
 title: quick and dirty rake ci script
 permalink: 2011/02/quick-and-dirty-rake-ci-script
+categories: [Code]
 ---
 
 <p>I know, it doesn&#039;t have all the bells and whistles; you need to add the files to git by hand; and you can move right through with unstaged changes with nary a peep in protest. But it still does the trick and makes my life easier - so here it is: my quick and dirty rake ci script -</p>

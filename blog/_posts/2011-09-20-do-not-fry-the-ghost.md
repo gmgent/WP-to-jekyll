@@ -2,6 +2,7 @@
 layout: blog
 title: do not fry the ghost
 permalink: 2011/09/do-not-fry-the-ghost
+categories: [Random]
 ---
 
 <a href="http://blog.kristeraxel.com/wp-content/uploads/2011/09/chili.jpg"><img src="http://blog.kristeraxel.com/wp-content/uploads/2011/09/chili-300x256.jpg" alt="" title="chili" width="300" height="256" class="aligncenter size-medium wp-image-1276" /></a>

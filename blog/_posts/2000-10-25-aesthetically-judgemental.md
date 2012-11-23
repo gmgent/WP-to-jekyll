@@ -2,6 +2,7 @@
 layout: blog
 title: aesthetically judgemental
 permalink: 2000/10/aesthetically-judgemental
+categories: [Historical]
 ---
 
 > -----Original Message-----

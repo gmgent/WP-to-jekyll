@@ -2,6 +2,7 @@
 layout: blog
 title: Lessons from AIG by Robert Weissman
 permalink: 2009/03/lessons-from-aig-by-robert-weissman
+categories: [Historical]
 ---
 
 <p>I got forwarded this by the FAIR newsletter - it's a good short read.</p>

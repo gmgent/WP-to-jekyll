@@ -2,6 +2,7 @@
 layout: blog
 title: first time in Strasbourg
 permalink: 2011/08/first-time-in-strasbourg
+categories: [Journal, Saga]
 ---
 
 Strasbourg was a total hit. What a great city. We loved the old town, we loved all of the canals and the much lower prices. I even tried the must-have local specialty <em>choucroute</em> (sauerkraut) with '7 different types of meat' -- they do love their butchers over in Alsace -- and it was really good. Surprisingly so. The cathedral is amazing, and second only to the <a href="http://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_(Antwerp)" target="_blank">cathedral in Antwerp</a> which still takes the prize for <a href="http://mostawesomestthingever.com/" target="_blank">most awesomest</a> in my humble opinion.

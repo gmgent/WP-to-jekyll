@@ -2,6 +2,7 @@
 layout: blog
 title: Hot dogs versus sushi
 permalink: 2009/09/hot-dogs-versus-sushi
+categories: [Historical]
 ---
 
 <p>Lesbians like sushi and bisexuals like hot dogs and sushi. Lesbians would never be interested in eating hot dogs. A lesbian can eat sushi all day every day and never consider hot dogs. In fact, lesbians can never eat too much sushi. A bisexual can go without sushi, then really miss the feel and taste of sushi, because there is nothing like sushi. Then they go out and get some sushi. They swear they can go without hot dogs, because sushi is so much better. They start to eat sushi all day every day. The lesbian continues to do the same.</p>

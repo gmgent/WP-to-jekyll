@@ -2,6 +2,7 @@
 layout: blog
 title: polymorphic user list class
 permalink: 2008/12/polymorphic-user-list-class
+categories: [Code]
 ---
 
 <p>I wrote this for a job interview that never panned out. Tune in next week for the matching User class (linked <a href="http://blog.kristeraxel.com/2008/12/polymorphic-user-list-class-part-ii/">here</a>).<br />

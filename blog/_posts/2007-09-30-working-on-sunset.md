@@ -2,6 +2,7 @@
 layout: blog
 title: Working on Sunset
 permalink: 2007/09/working-on-sunset
+categories: [Poetry]
 ---
 
 <p>I work on Sunset now<br />

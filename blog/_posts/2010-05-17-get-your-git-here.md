@@ -2,6 +2,7 @@
 layout: blog
 title: get your git here
 permalink: 2010/05/get-your-git-here
+categories: [Code]
 ---
 
 <p><a href="http://code.google.com/p/git-osx-installer/" title="http://code.google.com/p/git-osx-installer/">http://code.google.com/p/git-osx-installer/</a></p>

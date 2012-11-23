@@ -2,6 +2,7 @@
 layout: blog
 title: launching axel.me
 permalink: 2011/06/launching-axel-me
+categories: [Random]
 ---
 
 This should auto post to Twitter with a custom short link. How sexy.

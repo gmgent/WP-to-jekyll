@@ -2,6 +2,7 @@
 layout: blog
 title: September
 permalink: 1996/10/september
+categories: [Poetry]
 ---
 
   In September I see boots before

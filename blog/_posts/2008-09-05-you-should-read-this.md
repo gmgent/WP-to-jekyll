@@ -2,6 +2,7 @@
 layout: blog
 title: you should read this
 permalink: 2008/09/you-should-read-this
+categories: [Historical]
 ---
 
 <p>if you are thinking about voting for McCain.</p>

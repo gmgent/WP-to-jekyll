@@ -2,6 +2,7 @@
 layout: blog
 title: If I am arrogant so be it
 permalink: 1991/01/if-i-am-arrogant-so-be-it
+categories: [Poetry]
 ---
 
 <blockquote>

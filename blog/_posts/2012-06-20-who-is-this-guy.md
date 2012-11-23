@@ -2,6 +2,7 @@
 layout: blog
 title: who is this guy?
 permalink: 2012/06/who-is-this-guy
+categories: [Random]
 ---
 
 Of course, Klout updates its API and kills its own widget with no warning or support. Yay for progress. So I pulled the whole thing from my blog, and I'm sure I'm not alone. Way to go Klout, way to mess it up. :)

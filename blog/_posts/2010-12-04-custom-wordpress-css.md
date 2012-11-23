@@ -2,6 +2,7 @@
 layout: blog
 title: custom wordpress css
 permalink: 2010/12/custom-wordpress-css
+categories: [Code]
 ---
 
 <p>This is my Wordpress css tweak code and I may need it again later.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: Our police state
 permalink: 2008/08/our-police-state
+categories: [Historical]
 ---
 
 <p>Just in case you haven't seen this already, this is a Critical Mass cyclist getting body checked by a police officer.</p>

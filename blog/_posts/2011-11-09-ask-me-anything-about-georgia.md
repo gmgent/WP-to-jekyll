@@ -2,6 +2,7 @@
 layout: blog
 title: ask me anything about Georgia
 permalink: 2011/11/ask-me-anything-about-georgia
+categories: [Random]
 ---
 
 <a href="http://blog.kristeraxel.com/wp-content/uploads/2011/11/Screen-shot-2011-11-09-at-11.47.24-AM.png"><img src="http://blog.kristeraxel.com/wp-content/uploads/2011/11/Screen-shot-2011-11-09-at-11.47.24-AM-300x187.png" alt="" title="Screen shot 2011-11-09 at 11.47.24 AM" width="300" height="187" class="aligncenter size-medium wp-image-1479" /></a>

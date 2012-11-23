@@ -2,6 +2,7 @@
 layout: blog
 title: running out of isrc codes
 permalink: 2012/06/running-out-of-isrc-codes
+categories: [Journal, Random, Saga]
 ---
 
 ISRC codes and other kinds of meta-information contained within songs allow us to track digital clone-copies across the infinite e-verse while keeping the related information consistent. The ISRC could be considered the primary key for each song and it consist of four codes for a total of 12 digits - country XX + identifier XXX + year XX + song number XXXXX.

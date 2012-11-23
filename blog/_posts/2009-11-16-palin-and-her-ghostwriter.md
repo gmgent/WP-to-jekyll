@@ -2,6 +2,7 @@
 layout: blog
 title: Palin and her ghostwriter
 permalink: 2009/11/palin-and-her-ghostwriter
+categories: [Historical]
 ---
 
 <p>-- below quoted from HuffPo --<br />

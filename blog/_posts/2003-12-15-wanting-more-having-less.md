@@ -2,6 +2,7 @@
 layout: blog
 title: Wanting More, Having Less
 permalink: 2003/12/wanting-more-having-less
+categories: [Poetry]
 ---
 
 It's so seldom that I can put words together 

@@ -2,6 +2,7 @@
 layout: blog
 title: The old INSERT SELECT syntax example
 permalink: 2008/12/the-old-insert-select-syntax-example
+categories: [Code]
 ---
 
 <p>A good example of SQL&#039;s favorite timesaver.</p>

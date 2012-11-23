@@ -2,6 +2,7 @@
 layout: blog
 title: ruby find dup hash on key in array
 permalink: 2012/04/ruby-find-dup-hash-on-key-in-array
+categories: [Code]
 ---
 
 <br><br>

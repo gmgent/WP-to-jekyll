@@ -2,6 +2,7 @@
 layout: blog
 title: setting up a MacBook Air 2011
 permalink: 2011/06/setting-up-a-macbook-air-2011
+categories: [Code]
 ---
 
 <br>This was copied from <a href="http://www.frederico-araujo.com/2010/08/19/installing-rails-enviroment-on-snow-leopard-with-macports-mysql-and-modrails-passenger/">this great post</a> by Frederico Araujo, with some small modifications for my own use case.

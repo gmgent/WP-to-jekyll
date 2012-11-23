@@ -2,6 +2,7 @@
 layout: blog
 title: I love this
 permalink: 2008/06/i-love-this
+categories: [Historical]
 ---
 
 <p>A spoof on the Mac vs. PC controversy. It is possible that this is only amusing for computer geeks. I just love making fun of Bill Gates.<br /></p>

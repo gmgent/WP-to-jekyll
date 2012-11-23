@@ -2,6 +2,7 @@
 layout: blog
 title: Unregulated capital and predatory lending
 permalink: 2008/04/unregulated-capital-and-predatory-lending
+categories: [Historical]
 ---
 
 <p>Oh yeah, and a war that costs a million dollars a minute. <br />

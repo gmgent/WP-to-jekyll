@@ -2,6 +2,7 @@
 layout: blog
 title: why Yahoo news is just like FOX
 permalink: 2009/08/why-yahoo-news-is-just-like-fox
+categories: [Historical]
 ---
 
 <p>Yahoo is quickly becoming the same slobbery propaganda-spewing hate-maw that Fox is. Here's how you know. Of course, this story was 'provided' by the New York Times, which some say is a 'liberal' source - but admittedly, only on 'cosmopolitan' issues like gay marriage, as opposed to 'hard' news like fiscal or domestic policy where most people don't pay attention but the ones that do mostly accuse The Gray Lady of actually being conservative.</p>

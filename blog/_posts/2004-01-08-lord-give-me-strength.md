@@ -2,6 +2,7 @@
 layout: blog
 title: Lord give me strength
 permalink: 2004/01/lord-give-me-strength
+categories: [Journal, Saga]
 ---
 
 My last entry was April of last year.

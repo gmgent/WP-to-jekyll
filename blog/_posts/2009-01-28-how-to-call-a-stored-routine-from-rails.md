@@ -2,6 +2,7 @@
 layout: blog
 title: how to call a stored routine from Rails
 permalink: 2009/01/how-to-call-a-stored-routine-from-rails
+categories: [Code]
 ---
 
 <p>So you wanna call your own stored routine, eh?<br />

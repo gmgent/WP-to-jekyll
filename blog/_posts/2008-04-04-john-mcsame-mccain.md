@@ -2,6 +2,7 @@
 layout: blog
 title: John "McSame" McCain
 permalink: 2008/04/john-mcsame-mccain
+categories: [Historical]
 ---
 
 <p>I have posted previously about Hilary and Barack, so it's only fair to say something about John McCain.<br /><br />

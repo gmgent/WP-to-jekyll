@@ -2,6 +2,7 @@
 layout: blog
 title: My Pandora page
 permalink: 2009/05/my-pandora-page
+categories: [Historical]
 ---
 
 <p>I am up on Pandora finally!</p>

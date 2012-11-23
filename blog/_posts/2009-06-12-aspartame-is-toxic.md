@@ -2,6 +2,7 @@
 layout: blog
 title: aspartame is toxic
 permalink: 2009/06/aspartame-is-toxic
+categories: [Historical]
 ---
 
 <p>But the FDA won't tell you that.<br />

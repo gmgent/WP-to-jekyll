@@ -2,6 +2,7 @@
 layout: blog
 title: April Sonnet
 permalink: 2007/07/april-sonnet
+categories: [Poetry]
 ---
 
 <p>I leave you in your perfect circle<br />

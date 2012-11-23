@@ -2,6 +2,7 @@
 layout: blog
 title: the Chewbacca defense
 permalink: 2009/08/the-chewbacca-defense
+categories: [Historical]
 ---
 
 <p><a href="http://www.southparkstudios.com/episodes/103585" title="http://www.southparkstudios.com/episodes/103585">http://www.southparkstudios.com/episodes/103585</a></p>

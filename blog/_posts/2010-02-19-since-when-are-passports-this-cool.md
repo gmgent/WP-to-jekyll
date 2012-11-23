@@ -2,6 +2,7 @@
 layout: blog
 title: since when are passports this cool
 permalink: 2010/02/since-when-are-passports-this-cool
+categories: [Historical]
 ---
 
 <p>I just got a new passport and was pleasantly surprised by how great it looks. I'd like to think this was an Obama administration move and if it is, I think that is very admirable.</p>

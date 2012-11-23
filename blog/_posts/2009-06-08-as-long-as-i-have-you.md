@@ -2,6 +2,7 @@
 layout: blog
 title: as long as I have you
 permalink: 2009/06/as-long-as-i-have-you
+categories: [Poetry]
 ---
 
 <p>you were always out of town<br />

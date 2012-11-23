@@ -2,6 +2,7 @@
 layout: blog
 title: tunnel of love
 permalink: 2009/04/tunnel-of-love
+categories: [Code]
 ---
 
 <p>This little puppy is my tunnel of love. Connecting to SQL databases just keeps getting more complicated. :)</p>

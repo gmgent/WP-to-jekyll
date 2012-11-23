@@ -2,6 +2,7 @@
 layout: blog
 title: i am not feeling well tell me a story
 permalink: 2000/11/i-am-not-feeling-well-tell-me-a-story
+categories: [Historical]
 ---
 
 > -----Original Message-----

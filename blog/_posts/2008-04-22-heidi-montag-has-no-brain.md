@@ -2,6 +2,7 @@
 layout: blog
 title: Heidi Montag has no brain
 permalink: 2008/04/heidi-montag-has-no-brain
+categories: [Historical]
 ---
 
 <p><i>Much of the rise in oil prices, of course, is only being felt by Americans, because it is an increase in the dollar price for oil. For Europeans and Asians, whose currencies are appreciating against the dollar, oil prices are not rising, and may even be falling.</i></p>

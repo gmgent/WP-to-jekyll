@@ -2,6 +2,7 @@
 layout: blog
 title: the end of theaxelvault.com
 permalink: 2011/03/the-end-of-theaxelvault-com
+categories: [News]
 ---
 
 My latest release.<br/>Take 25% off the price of a cd with this discount code: DIGBOX.

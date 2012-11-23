@@ -2,6 +2,7 @@
 layout: blog
 title: the case for faith
 permalink: 2009/06/the-case-for-faith
+categories: [Historical]
 ---
 
 <p>Two friends who shall remain nameless had this exchange on Facebook today, and I find it to be priceless.</p>

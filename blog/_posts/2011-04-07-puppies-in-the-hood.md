@@ -2,6 +2,7 @@
 layout: blog
 title: puppies in the hood
 permalink: 2011/04/puppies-in-the-hood
+categories: [Journal, Random, Saga]
 ---
 
 Mooshoo is looking quite the gangster.

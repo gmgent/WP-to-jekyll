@@ -2,6 +2,7 @@
 layout: blog
 title: bringing back the oldies
 permalink: 2011/09/bringing-back-the-oldies
+categories: [RockstarAlley]
 ---
 
 <strong>Helpless</strong> from the album <em>Permanent Friday Night</em>.

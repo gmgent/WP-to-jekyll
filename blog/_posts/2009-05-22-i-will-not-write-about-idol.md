@@ -2,6 +2,7 @@
 layout: blog
 title: I will not write about Idol
 permalink: 2009/05/i-will-not-write-about-idol
+categories: [Historical]
 ---
 
 <p>I will not write about American Idol. This post will not be about Adam Lambert or Paula Abdul or whatever.</p>

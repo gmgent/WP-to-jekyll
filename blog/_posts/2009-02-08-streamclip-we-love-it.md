@@ -2,6 +2,7 @@
 layout: blog
 title: Streamclip we love it
 permalink: 2009/02/streamclip-we-love-it
+categories: [Code]
 ---
 
 <p><a href="http://en.wikipedia.org/wiki/MPEG_Streamclip">http://en.wikipedia.org/wiki/MPEG_Streamclip</a></p>

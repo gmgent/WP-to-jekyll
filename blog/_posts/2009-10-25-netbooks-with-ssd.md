@@ -2,6 +2,7 @@
 layout: blog
 title: netbooks with SSD
 permalink: 2009/10/netbooks-with-ssd
+categories: [Code]
 ---
 
 <p>zareason sells netbooks with ssd.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: we need to be talking about Iran
 permalink: 2009/06/we-need-to-be-talking-about-iran
+categories: [Historical]
 ---
 
 <p>This is very serious.</p>

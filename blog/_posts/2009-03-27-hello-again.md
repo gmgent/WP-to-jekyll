@@ -2,6 +2,7 @@
 layout: blog
 title: hello again
 permalink: 2009/03/hello-again
+categories: [Historical]
 ---
 
 <table cellpadding="5">

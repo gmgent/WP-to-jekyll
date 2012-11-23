@@ -2,6 +2,7 @@
 layout: blog
 title: compiling mysql and getting the gem installed correctly
 permalink: 2010/05/compiling-mysql-and-getting-the-gem-installed-correctly
+categories: [Code]
 ---
 
 <p>Download your preferred MYSQL version from the community download site. If you're on Snow Leopard, you may want to install the 64-bit version.</p>

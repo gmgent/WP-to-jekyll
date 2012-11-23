@@ -2,6 +2,7 @@
 layout: blog
 title: trickle down my arse
 permalink: 2009/12/trickle-down-my-arse
+categories: [Historical, Politics]
 ---
 
 <p>quoted from: <a href="http://crookedtimber.org/2009/12/17/bookblogging-the-failure-of-trickle-down/" title="http://crookedtimber.org/2009/12/17/bookblogging-the-failure-of-trickle-down/">http://crookedtimber.org/2009/12/17/bookblogging-the-failure-of-trickle-...</a></p>

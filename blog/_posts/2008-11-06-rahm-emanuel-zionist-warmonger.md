@@ -2,6 +2,7 @@
 layout: blog
 title: Rahm Emanuel - Zionist Warmonger?
 permalink: 2008/11/rahm-emanuel-zionist-warmonger
+categories: [Historical]
 ---
 
 <p>In his own words:</p>

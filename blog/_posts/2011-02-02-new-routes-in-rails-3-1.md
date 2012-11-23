@@ -2,6 +2,7 @@
 layout: blog
 title: new routes in rails 3.1
 permalink: 2011/02/new-routes-in-rails-3-1
+categories: [Code]
 ---
 
 <p>explained here:</p>

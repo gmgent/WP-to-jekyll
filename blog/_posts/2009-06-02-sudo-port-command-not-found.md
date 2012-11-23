@@ -2,6 +2,7 @@
 layout: blog
 title: sudo port command not found
 permalink: 2009/06/sudo-port-command-not-found
+categories: [Code]
 ---
 
 <p>sudo: port: command not found</p>

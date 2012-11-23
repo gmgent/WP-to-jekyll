@@ -2,6 +2,7 @@
 layout: blog
 title: PL SQL split function
 permalink: 2008/01/pl-sql-split-function
+categories: [Code]
 ---
 
 <script src="https://gist.github.com/860981.js?file=pl_sql_split.sql"></script>

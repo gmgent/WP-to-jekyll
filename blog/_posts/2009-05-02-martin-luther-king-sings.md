@@ -2,6 +2,7 @@
 layout: blog
 title: martin luther king sings
 permalink: 2009/05/martin-luther-king-sings
+categories: [Historical]
 ---
 
 <p>I love this.</p>

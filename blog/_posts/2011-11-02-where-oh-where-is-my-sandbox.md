@@ -2,6 +2,7 @@
 layout: blog
 title: where oh where is my sandbox
 permalink: 2011/11/where-oh-where-is-my-sandbox
+categories: [Games]
 ---
 
 It ain't easy being a <strong>Mac</strong> person.

@@ -2,6 +2,7 @@
 layout: blog
 title: tu quoque and the right wing ruse
 permalink: 2012/03/tu-quoque-and-the-right-wing-ruse
+categories: [Politics]
 ---
 
 <strong>tu quoque</strong>:

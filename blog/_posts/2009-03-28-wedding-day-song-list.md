@@ -2,6 +2,7 @@
 layout: blog
 title: wedding day song list
 permalink: 2009/03/wedding-day-song-list
+categories: [Historical]
 ---
 
 <p>shelter - r lamontagne<br />

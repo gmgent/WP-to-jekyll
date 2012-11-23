@@ -2,6 +2,7 @@
 layout: blog
 title: Yahoo geocoder is gone
 permalink: 2011/11/yahoo-geocoder-is-gone
+categories: [Code]
 ---
 
 <br>

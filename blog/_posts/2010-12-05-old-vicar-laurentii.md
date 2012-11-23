@@ -2,6 +2,7 @@
 layout: blog
 title: Old Vicar Laurentii
 permalink: 2010/12/old-vicar-laurentii
+categories: [Origins, Saga]
 ---
 
 <p>So this family tree thing is a total obsession right now. I have been <a href="http://axel.tribalpages.com/" target="_blank">rocking out</a> on it and the coolest thing happened. I got a match. I searched on one of my ancestors in the Swedish <a href="http://disbyt.dis.se/" target="_blank">census</a>, Bond Anders Andersson and got a match. As it turns out, there is a whole <a href="http://olaus-laurentii.liss.pp.se/index_e.htm">society</a> dedicated to the ancestors of this Olaus Laurentii guy. Pretty cool &#8211; we are direct descendants of his, my sisters and I.</p>

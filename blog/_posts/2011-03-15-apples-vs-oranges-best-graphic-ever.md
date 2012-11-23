@@ -2,6 +2,7 @@
 layout: blog
 title: apples vs oranges - best graphic ever
 permalink: 2011/03/apples-vs-oranges-best-graphic-ever
+categories: [Random]
 ---
 
 from http://www.smarter.org/research/apples-to-oranges/

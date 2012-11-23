@@ -2,6 +2,7 @@
 layout: blog
 title: subUrbia part 8
 permalink: 2009/08/suburbia-part-8
+categories: [Historical]
 ---
 
 <p>start it at minute 5:49:</p>

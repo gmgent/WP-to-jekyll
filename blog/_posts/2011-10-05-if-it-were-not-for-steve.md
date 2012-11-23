@@ -2,6 +2,7 @@
 layout: blog
 title: if it were not for Steve
 permalink: 2011/10/if-it-were-not-for-steve
+categories: [Brave New World, Code, Random]
 ---
 
 <br/>

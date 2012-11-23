@@ -2,6 +2,7 @@
 layout: blog
 title: This is my first time
 permalink: 2002/12/this-is-my-first-time
+categories: [Journal, Saga]
 ---
 
 Wednesday, December 04, 2002

@@ -2,6 +2,7 @@
 layout: blog
 title: lyrics to All Tied Up
 permalink: 2009/04/lyrics-to-All-Tied-Up
+categories: [Poetry]
 ---
 
 <p>All tied up<br />

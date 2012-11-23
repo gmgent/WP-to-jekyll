@@ -2,6 +2,7 @@
 layout: blog
 title: thermite found in 911 dust
 permalink: 2009/06/thermite-found-in-911-dust
+categories: [Historical]
 ---
 
 <p><i>As measured using DSC, the material ignites and reacts vigorously at a temperature of approximately 430 °C, with a rather narrow exotherm, matching fairly closely an independent observation on a known super-thermite sample.</i></p>

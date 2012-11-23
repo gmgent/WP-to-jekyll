@@ -2,6 +2,7 @@
 layout: blog
 title: one column liquid layout
 permalink: 2011/02/one-column-liquid-layout
+categories: [Code]
 ---
 
 <p>I am using this for the Android app I&#039;m working on, and it is spot on.</p>

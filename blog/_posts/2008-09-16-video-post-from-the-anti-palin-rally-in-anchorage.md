@@ -2,6 +2,7 @@
 layout: blog
 title: video post from the 'Anti-Palin' rally in Anchorage
 permalink: 2008/09/video-post-from-the-anti-palin-rally-in-anchorage
+categories: [Historical]
 ---
 
 <p>Apparently this was a legendary turn-out for a political rally in Anchorage.<br />

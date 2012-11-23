@@ -2,6 +2,7 @@
 layout: blog
 title: ack in project bundle for Textmate
 permalink: 2012/07/ack-in-project-bundle-for-textmate
+categories: [Code]
 ---
 
 I am setting up a new workstation so I had to add Ack In Project again and I figured I'd post the link here so I don't have to look for it again.

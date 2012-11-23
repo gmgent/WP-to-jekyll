@@ -2,6 +2,7 @@
 layout: blog
 title: Slow Motion
 permalink: 2002/09/slow-motion
+categories: [Historical, Poetry]
 ---
 
 <p>Life in slow motion.<br />

@@ -2,6 +2,7 @@
 layout: blog
 title: you need this to run rails on ubuntu
 permalink: 2010/07/you-need-this-to-run-rails-on-ubuntu
+categories: [Code]
 ---
 
 <pre>

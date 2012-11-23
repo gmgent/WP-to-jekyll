@@ -2,6 +2,7 @@
 layout: blog
 title: Room 5 next week
 permalink: 2010/01/room-5-next-week
+categories: [Historical]
 ---
 
 <p>Hey, I'm doing my first show in FOREVER at Room 5 on Feb 12th (next Friday). You should come because it's a benefit for Haiti relief and I will play at least one new song.</p>

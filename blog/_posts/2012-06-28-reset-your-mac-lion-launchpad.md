@@ -2,6 +2,7 @@
 layout: blog
 title: reset your mac lion launchpad
 permalink: 2012/06/reset-your-mac-lion-launchpad
+categories: [Code, Random]
 ---
 
 You know, because errors happen all the time. Oh Apple, get it together. Steve Jobs is rolling over in his grave right now.

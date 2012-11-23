@@ -2,6 +2,7 @@
 layout: blog
 title: Room 5 again this Sunday
 permalink: 2012/03/room-5-again-this-sunday
+categories: [Journal, News, Saga]
 ---
 
 more fun with guitars and microphones.

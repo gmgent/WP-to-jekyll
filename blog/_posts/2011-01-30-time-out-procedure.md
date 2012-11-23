@@ -2,6 +2,7 @@
 layout: blog
 title: Time out procedure
 permalink: 2011/01/time-out-procedure
+categories: [Parenting, Saga]
 ---
 
 Yeah, I know. We learned this from an episode of SuperNanny.<br/>

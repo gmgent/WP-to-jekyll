@@ -2,6 +2,7 @@
 layout: blog
 title: I'm the guy who doesn't know when to stop
 permalink: 2002/12/im-the-guy-who-doesnt-know-when-to-stop
+categories: [Journal, Saga]
 ---
 
 Monday, December 09, 2002

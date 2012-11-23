@@ -2,6 +2,7 @@
 layout: blog
 title: And it's over just like that
 permalink: 2011/03/and-its-over-just-like-that
+categories: [Journal, Saga]
 ---
 
 Now that I am not doing that many shows any more, I feel like each one means more - which is an illusion. Things are what they are and we infuse them with drama and emotion and we compare to things in our past and we wonder why no one sees anything the same way. It is quite a game we play with ourselves, making sense of the nonsensical.

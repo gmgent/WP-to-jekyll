@@ -2,6 +2,7 @@
 layout: blog
 title: looking for singers who love children
 permalink: 2012/08/looking-for-singers-who-love-children
+categories: [Random]
 ---
 
 I have to say, this is a very interesting and original request. I have an old work acquaintance who contacted me and is putting on a show <em>a la</em> Jackson 5. He is a jazz lover and a detail-oriented person, which is why I think this is worth asking around. Apparently he had two singers already lined up but they didn't show up to practice and just pulled out of the project. The last I heard from him, we met up for a <a href="http://en.wikipedia.org/wiki/Charnett_Moffett">Charnett Moffett</a> show at the Catalina club, and now he is essentially MDing a show for his children and some family friends. They have been practicing for this show since May and need some vocalists to round out their sound.

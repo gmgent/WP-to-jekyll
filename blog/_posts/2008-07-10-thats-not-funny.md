@@ -2,6 +2,7 @@
 layout: blog
 title: That's not funny.
 permalink: 2008/07/thats-not-funny
+categories: [Historical]
 ---
 
 <p>Get this:</p>

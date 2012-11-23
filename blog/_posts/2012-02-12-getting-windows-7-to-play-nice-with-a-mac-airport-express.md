@@ -2,6 +2,7 @@
 layout: blog
 title: getting windows 7 to play nice with a mac airport express
 permalink: 2012/02/getting-windows-7-to-play-nice-with-a-mac-airport-express
+categories: [Code]
 ---
 
 <br><br>

@@ -2,6 +2,7 @@
 layout: blog
 title: it begins again
 permalink: 2009/12/it-begins-again
+categories: [Historical]
 ---
 
 <p>I have been archiving incarnations of my personal web site and blog posts since 2005 now, and I am once again shifting gears in my personal engine of feeds and re-posting mechanisms. :)</p>

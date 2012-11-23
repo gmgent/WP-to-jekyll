@@ -2,6 +2,7 @@
 layout: blog
 title: The brand new day
 permalink: 2011/03/brand-new-day
+categories: [News]
 ---
 
 Welcome to the new Krister Axel blog.

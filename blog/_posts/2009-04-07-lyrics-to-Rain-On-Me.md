@@ -2,6 +2,7 @@
 layout: blog
 title: lyrics to Rain On Me
 permalink: 2009/04/lyrics-to-Rain-On-Me
+categories: [Poetry]
 ---
 
 <p>When I was old enough to dance<br />

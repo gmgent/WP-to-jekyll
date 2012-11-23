@@ -2,6 +2,7 @@
 layout: blog
 title: writer publisher royalties
 permalink: 2012/05/writer-publisher-royalties
+categories: [Journal, Random, Saga]
 ---
 
 Quarterly.

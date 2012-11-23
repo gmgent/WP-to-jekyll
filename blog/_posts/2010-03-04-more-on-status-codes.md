@@ -2,6 +2,7 @@
 layout: blog
 title: more on status codes
 permalink: 2010/03/more-on-status-codes
+categories: [Code]
 ---
 
 <p>Status Codes</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: Let's Take Tomorrow
 permalink: 2011/04/lets-take-tomorrow
+categories: [RockstarAlley]
 ---
 
 Hot off the press. The newest single from Sky Meet Sea due for release in Fall 2011.

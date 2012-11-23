@@ -2,6 +2,7 @@
 layout: blog
 title: Bob Dylan Festival 2008
 permalink: 2008/05/bob-dylan-festival-2008
+categories: [Historical]
 ---
 
 <p>We were joined by my friends Jay and Bosco of 50 Cent Haircut who I sat in with on piano for their rendition of <i>Watching The River Flow</i>.</p>

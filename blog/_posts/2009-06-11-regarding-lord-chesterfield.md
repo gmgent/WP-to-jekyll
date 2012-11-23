@@ -2,6 +2,7 @@
 layout: blog
 title: regarding Lord Chesterfield
 permalink: 2009/06/regarding-lord-chesterfield
+categories: [Historical]
 ---
 
 <p>I found this awesome essay by Virginia Woolf about my man LC:</p>

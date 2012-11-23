@@ -2,6 +2,7 @@
 layout: blog
 title: I am completely cocooned
 permalink: 2004/02/i-am-completely-cocooned
+categories: [Journal, Saga]
 ---
 
 Talk to me, I want to say to myself. What is going on in there?

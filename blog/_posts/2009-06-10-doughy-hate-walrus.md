@@ -2,6 +2,7 @@
 layout: blog
 title: doughy hate walrus
 permalink: 2009/06/doughy-hate-walrus
+categories: [Historical]
 ---
 
 <p>I still love this! Doughy hate-walrus is so <i>a propos</i>.</p>

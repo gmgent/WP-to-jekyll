@@ -2,6 +2,7 @@
 layout: blog
 title: free promo track East of Hollywood by Krister Axel
 permalink: 2012/04/free-promo-track-east-of-hollywood-by-krister-axel
+categories: [News, Random]
 ---
 
 Get your free promo download here from <strong>IODA</strong>. East of Hollywood. Representing.

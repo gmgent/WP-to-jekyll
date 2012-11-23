@@ -2,6 +2,7 @@
 layout: blog
 title: Two More Videos
 permalink: 2007/09/two-more-videos
+categories: [Historical]
 ---
 
 <p>Check out two more live videos from the show on Wednesday. This is a song called <b>Holy Ghost</b>.</p>

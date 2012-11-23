@@ -2,6 +2,7 @@
 layout: blog
 title: etags sample for rails app
 permalink: 2010/05/etags-sample-for-rails-app
+categories: [Code]
 ---
 
 <pre>

@@ -2,6 +2,7 @@
 layout: blog
 title: in the city
 permalink: 1999/11/in-the-city
+categories: [Poetry]
 ---
 
 If there's a future in my hands

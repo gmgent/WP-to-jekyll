@@ -2,6 +2,7 @@
 layout: blog
 title: ruby to_boolean function
 permalink: 2010/06/ruby-to_boolean-function
+categories: [Code]
 ---
 
 <br><br>

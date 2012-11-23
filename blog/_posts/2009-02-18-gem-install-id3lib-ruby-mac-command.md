@@ -2,6 +2,7 @@
 layout: blog
 title: gem install id3lib ruby mac command
 permalink: 2009/02/gem-install-id3lib-ruby-mac-command
+categories: [Code]
 ---
 
 <p>you need this to install the ruby id3lib library under mac if you installed the  actual id3lib library with MacPorts:</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: cognitive dissonance and the Jesus people
 permalink: 2009/09/cognitive-dissonance-and-the-jesus-people
+categories: [Historical]
 ---
 
 <div align="center"><table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/VSiI8Pa64BIinNDkWqO96g?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/_aJ4urxfgN9A/TXXS3pXeR9I/AAAAAAAAIlE/jjZp0cXeV5s/s144/dinosaur-jesus.jpg" height="144" width="104" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/krister.axel/Stuff?feat=embedwebsite">stuff</a></td></tr></table></div>

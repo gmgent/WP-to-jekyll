@@ -2,6 +2,7 @@
 layout: blog
 title: DREAMHOST Worst host evar
 permalink: 2008/12/dreamhost-worst-host-evar
+categories: [Code]
 ---
 
 <p>Dreamhost is also pretty crappy, if you need Ruby on Rails support. Why does everyone advertise RoR and then not support it?</p>

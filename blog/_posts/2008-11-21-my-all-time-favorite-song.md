@@ -2,6 +2,7 @@
 layout: blog
 title: My all-time favorite song
 permalink: 2008/11/my-all-time-favorite-song
+categories: [Historical]
 ---
 
 <p>In a manner of speaking. Click for the video - <a href="http://www.youtube.com/watch?v=buqtdpuZxvk" title="http://www.youtube.com/watch?v=buqtdpuZxvk">http://www.youtube.com/watch?v=buqtdpuZxvk</a></p>

@@ -2,6 +2,7 @@
 layout: blog
 title: enchanted mountain
 permalink: 2012/03/enchanted-mountain
+categories: [Journal, Random, Saga]
 ---
 
 We really can't say enough good things about this breeder. Everyone should consider adopting a rescue dog. But for those who are looking for a responsible breeder of Shih Tzus, especially the imperial size of our little Mooshoo, you should look up <a href="http://www.enchantedmountainshihtzu.com/" target="_blank">Rael</a>. She is great.

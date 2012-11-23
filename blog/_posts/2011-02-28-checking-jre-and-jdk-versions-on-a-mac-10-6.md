@@ -2,6 +2,7 @@
 layout: blog
 title: checking JRE and JDK versions on a mac 10.6
 permalink: 2011/02/checking-jre-and-jdk-versions-on-a-mac-10-6
+categories: [Code]
 ---
 
 <p>I know it&#039;s not rocket science, but it is worth explaining.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: 418 means I am a teapot
 permalink: 2010/05/418-means-I-am-a-teapot
+categories: [Code]
 ---
 
 <div>

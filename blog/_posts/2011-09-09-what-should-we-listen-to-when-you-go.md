@@ -2,6 +2,7 @@
 layout: blog
 title: what should we listen to when you go
 permalink: 2011/09/what-should-we-listen-to-when-you-go
+categories: [Brave New World, Origins, Saga]
 ---
 
 This is an important question. I am am the youngest in my generation and it seems that I am starting to get requests from people in my family for the song they want to be played at their funeral. Being the family musician and songwriter, it is fitting that I be tasked with putting playlists together when the people I love start moving up to heaven. Also, I plan on living forever so that way I'll be around.

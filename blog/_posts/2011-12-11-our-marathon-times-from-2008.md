@@ -2,6 +2,7 @@
 layout: blog
 title: our marathon times from 2008
 permalink: 2011/12/our-marathon-times-from-2008
+categories: [Historical, Random]
 ---
 
 I thought I had this info somewhere, but I guess I don't. Lavinia beat me by about 14 minutes but to be fair she trained and I didn't. Also, the times listed are raw (no offset) and actually we didn't cross the start line until about minute 16. So Lavinia's time was just over 5:38 and I was around 5:52.

@@ -2,6 +2,7 @@
 layout: blog
 title: Other ...ine influenzas to consider
 permalink: 2009/05/other-ine-influenzas-to-consider
+categories: [Historical]
 ---
 
 <p>Other -ine influenzas to consider:</p>

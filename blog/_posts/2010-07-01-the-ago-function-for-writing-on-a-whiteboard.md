@@ -2,6 +2,7 @@
 layout: blog
 title: the ago function for writing on a whiteboard
 permalink: 2010/07/the-ago-function-for-writing-on-a-whiteboard
+categories: [Code]
 ---
 
 <p>So, if you are ever somewhere where they ask you to write code on the wall with dry-erase marker, then you are covered.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: The Axel Clan
 permalink: 2010/12/the-axel-clan
+categories: [Origins, Saga]
 ---
 
 <p>After a great trip to Dallas earlier this year where I grilled my dad on our family tree, I signed up at Tribal Pages today to get started tracking down my ancestors. So far so good.</p>

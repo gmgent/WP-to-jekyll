@@ -2,6 +2,7 @@
 layout: blog
 title: They Were Always Teabaggers To Me
 permalink: 2011/03/they-were-always-teabaggers-to-me
+categories: [Politics, Propaganda]
 ---
 
 <h3>The Strange History of the Teabagger Movement</h3>

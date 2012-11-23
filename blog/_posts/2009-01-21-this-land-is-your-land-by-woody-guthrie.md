@@ -2,6 +2,7 @@
 layout: blog
 title: This Land is Your Land by Woody Guthrie
 permalink: 2009/01/this-land-is-your-land-by-woody-guthrie
+categories: [Historical]
 ---
 
 <p>This land is your land, this land is my land<br />

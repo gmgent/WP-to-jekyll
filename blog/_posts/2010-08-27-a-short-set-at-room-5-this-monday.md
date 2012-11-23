@@ -2,6 +2,7 @@
 layout: blog
 title: a short set at Room 5 this Monday
 permalink: 2010/08/a-short-set-at-room-5-this-monday
+categories: [Historical]
 ---
 
 <p>I'm finally playing a live set for the first time in a long time. I have some new songs I want to try out.</p>

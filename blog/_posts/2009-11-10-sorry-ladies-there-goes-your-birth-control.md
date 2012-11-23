@@ -2,6 +2,7 @@
 layout: blog
 title: sorry ladies there goes your birth control
 permalink: 2009/11/sorry-ladies-there-goes-your-birth-control
+categories: [Historical]
 ---
 
 <p><a href="http://www.thenation.com/blogs/notion/494751/" title="http://www.thenation.com/blogs/notion/494751/">http://www.thenation.com/blogs/notion/494751/</a></p>

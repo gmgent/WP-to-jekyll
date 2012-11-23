@@ -2,6 +2,7 @@
 layout: blog
 title: EVOR review of Sky Meet Sea
 permalink: 2012/11/evor-review-of-sky-meet-sea
+categories: [Brave New World, News, Saga]
 ---
 
 I got my first review for Sky Meet Sea. 10 stars out of 10. He says I'm headed for his top 25 list for this year. Ain't that something.

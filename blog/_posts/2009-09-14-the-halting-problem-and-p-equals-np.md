@@ -2,6 +2,7 @@
 layout: blog
 title: the halting problem and p equals np
 permalink: 2009/09/the-halting-problem-and-p-equals-np
+categories: [Historical]
 ---
 
 <p>from wikipedia:</p>

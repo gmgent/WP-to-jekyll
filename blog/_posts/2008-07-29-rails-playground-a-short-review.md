@@ -2,6 +2,7 @@
 layout: blog
 title: Rails Playground a short review
 permalink: 2008/07/rails-playground-a-short-review
+categories: [Code]
 ---
 
 <p>This will be quick. I just had to put in a few words about Rails Playground.</p>

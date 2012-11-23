@@ -2,6 +2,7 @@
 layout: blog
 title: the internet has ruined me
 permalink: 2009/08/the-internet-has-ruined-me
+categories: [Historical]
 ---
 
 <p>I can't do it.</p>

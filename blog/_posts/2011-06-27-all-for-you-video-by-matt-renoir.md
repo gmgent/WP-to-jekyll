@@ -2,6 +2,7 @@
 layout: blog
 title: All For You video by Matt Renoir
 permalink: 2011/06/all-for-you-video-by-matt-renoir
+categories: [Brave New World, Journal, News, Saga, Videos]
 ---
 
 Thanks to Matt Renoir for doing a great job, <strong>All For You</strong> now has a video and it looks really good. We got digital video in Echo Park and downtown Los Angeles. Good times.

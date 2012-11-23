@@ -2,6 +2,7 @@
 layout: blog
 title: A simple Ruby model
 permalink: 2008/02/a-simple-ruby-model
+categories: [Code]
 ---
 
 <p>class Actor &lt; ActiveRecord::Base<br />

@@ -2,6 +2,7 @@
 layout: blog
 title: Propaganda victims R us
 permalink: 2011/03/propaganda-victims-r-us
+categories: [Politics, Propaganda]
 ---
 
 We really have a problem here.

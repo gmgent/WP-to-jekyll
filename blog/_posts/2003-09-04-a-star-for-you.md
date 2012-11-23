@@ -2,6 +2,7 @@
 layout: blog
 title: A Star for You
 permalink: 2003/09/a-star-for-you
+categories: [Poetry]
 ---
 
 <p>What do I see now?<br />

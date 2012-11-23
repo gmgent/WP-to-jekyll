@@ -2,6 +2,7 @@
 layout: blog
 title: raining in the city
 permalink: 2000/03/raining-in-the-city
+categories: [Poetry]
 ---
 
 The timing of the drops

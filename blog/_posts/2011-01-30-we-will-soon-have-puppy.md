@@ -2,6 +2,7 @@
 layout: blog
 title: We will soon have puppy
 permalink: 2011/01/we-will-soon-have-puppy
+categories: [Journal, Saga]
 ---
 
 <p>And her name will be Mooshoo Panelli.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: Simplicity
 permalink: 2003/12/simplicity
+categories: [Poetry]
 ---
 
 <p>As I pass through this ritual<br />

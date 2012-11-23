@@ -2,6 +2,7 @@
 layout: blog
 title: Before you turn away
 permalink: 2009/04/Before-you-turn-away
+categories: [Poetry]
 ---
 
 <p>I left my broken down in Texas<br />

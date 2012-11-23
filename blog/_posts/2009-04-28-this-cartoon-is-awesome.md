@@ -2,6 +2,7 @@
 layout: blog
 title: this cartoon is awesome
 permalink: 2009/04/this-cartoon-is-awesome
+categories: [Historical]
 ---
 
 <p>Has anything changed?</p>

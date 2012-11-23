@@ -2,6 +2,7 @@
 layout: blog
 title: Mademoiselle de la Dance
 permalink: 2012/07/mademoiselle-de-la-dance
+categories: [Poetry]
 ---
 
 I wrote this for my senior Poetry thesis in college quite some time ago. I am happy to have found it, and I have my mother to thank for that. She keeps everything!

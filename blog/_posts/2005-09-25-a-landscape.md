@@ -2,6 +2,7 @@
 layout: blog
 title: A landscape
 permalink: 2005/09/a-landscape
+categories: [Poetry]
 ---
 
 <p>Somewhere in this chaos lives good fortune<br />

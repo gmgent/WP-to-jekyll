@@ -2,6 +2,7 @@
 layout: blog
 title: the show went well
 permalink: 2010/09/the-show-went-well
+categories: [Historical]
 ---
 
 <p>Room 5 went well, thanks to everyone that came out.</p>

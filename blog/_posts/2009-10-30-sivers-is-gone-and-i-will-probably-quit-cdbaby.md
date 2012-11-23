@@ -2,6 +2,7 @@
 layout: blog
 title: Sivers is gone and I will probably quit CDBaby
 permalink: 2009/10/sivers-is-gone-and-i-will-probably-quit-cdbaby
+categories: [Historical]
 ---
 
 <p><a href="http://www.wired.com/listening_post/2008/08/cd-babys-derek/" title="http://www.wired.com/listening_post/2008/08/cd-babys-derek/">http://www.wired.com/listening_post/2008/08/cd-babys-derek/</a></p>

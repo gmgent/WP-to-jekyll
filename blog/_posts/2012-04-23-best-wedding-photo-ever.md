@@ -2,6 +2,7 @@
 layout: blog
 title: best wedding photo ever
 permalink: 2012/04/best-wedding-photo-ever
+categories: [Journal, Random, Saga]
 ---
 
 Thanks Neil and Stella we had an amazing time at your wedding. We look forward to many more adventures. Also, thanks John and Alice for being such great partners in crime.

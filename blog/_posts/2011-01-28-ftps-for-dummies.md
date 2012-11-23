@@ -2,6 +2,7 @@
 layout: blog
 title: FTPS for dummies
 permalink: 2011/01/ftps-for-dummies
+categories: [Code]
 ---
 
 <p>Yah, I know it&#039;s been a while, but I&#039;ve been busy. Work, family, vacation, video games - it&#039;s a long list.</p>

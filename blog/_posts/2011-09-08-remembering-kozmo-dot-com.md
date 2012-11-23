@@ -2,6 +2,7 @@
 layout: blog
 title: remembering kozmo dot com
 permalink: 2011/09/remembering-kozmo-dot-com
+categories: [Random]
 ---
 
 That was a long time ago. I remember ordering PlayStation games, beer and cigarettes from Kozmo in Los Angeles. Such a great service, so far ahead of it's time. I cannot believe it has been 11 years since they closed their doors. They shut the company down early so as not to screw their employees out of a modest severance. Who would do that now?

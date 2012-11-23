@@ -2,6 +2,7 @@
 layout: blog
 title: The skinny on Lean education
 permalink: 2009/09/the-skinny-on-lean-education
+categories: [Historical]
 ---
 
 <p>Very interesting - quoted from <a href="http://esciencenews.com/articles/2009/09/28/the.skinny.lean.education" title="http://esciencenews.com/articles/2009/09/28/the.skinny.lean.education">http://esciencenews.com/articles/2009/09/28/the.skinny.lean.education</a> :</p>

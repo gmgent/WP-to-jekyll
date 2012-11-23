@@ -2,6 +2,7 @@
 layout: blog
 title: After the Derby
 permalink: 2007/07/after-the-derby
+categories: [Poetry]
 ---
 
 <p>God I've waited for this<br />

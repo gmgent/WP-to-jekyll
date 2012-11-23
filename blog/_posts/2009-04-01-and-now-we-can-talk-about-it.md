@@ -2,6 +2,7 @@
 layout: blog
 title: and now we can talk about it
 permalink: 2009/04/and-now-we-can-talk-about-it
+categories: [Historical]
 ---
 
 <p>Well, the one good thing I'm getting out of this redesign is that I can dump all of these posts out into the vast night and no one will see them. And so I am able to see how this whole thing shakes out.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: cs engineer versus the philosopher
 permalink: 2009/05/cs-engineer-versus-the-philosopher
+categories: [Historical]
 ---
 
 <p>Having once participated in a week-long workshop comprising both philosophers and computer scientists, one difference in disciplinary style quickly became evident: Faced with a description of a new application domain or problem, a typical computer scientist immediately thinks:</p>

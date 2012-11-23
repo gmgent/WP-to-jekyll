@@ -2,6 +2,7 @@
 layout: blog
 title: good stuff on remote rsync
 permalink: 2009/04/good-stuff-on-remote-rsync
+categories: [Code]
 ---
 
 <p>Making remote copies</p>

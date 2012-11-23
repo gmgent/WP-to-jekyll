@@ -2,6 +2,7 @@
 layout: blog
 title: use rails revision as directory for amazon S3 asset upload
 permalink: 2010/05/use-rails-revision-as-directory-for-amazon-s3-asset-upload
+categories: [Code]
 ---
 
 <p>copied from this excellent video - <a href="http://www.bestechvideos.com/2009/06/26/sd-ruby-episode-63-earning-an-a-in-yslow" title="http://www.bestechvideos.com/2009/06/26/sd-ruby-episode-63-earning-an-a-in-yslow">http://www.bestechvideos.com/2009/06/26/sd-ruby-episode-63-earning-an-a-...</a></p>

@@ -2,6 +2,7 @@
 layout: blog
 title: mooshoo pedigree
 permalink: 2012/03/mooshoo-pedigree
+categories: [Random]
 ---
 
 

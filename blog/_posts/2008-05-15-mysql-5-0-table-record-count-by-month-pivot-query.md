@@ -2,6 +2,7 @@
 layout: blog
 title: MySQL 5.0 Table Record Count By Month Pivot Query
 permalink: 2008/05/mysql-5-0-table-record-count-by-month-pivot-query
+categories: [Code]
 ---
 
 <p>So there I was, hanging out at work on my birthday. I had a little time, so I decided to answer some Ruby forum questions (<a href="http://railsforum.com/" title="http://railsforum.com/">http://railsforum.com/</a>). I went through a few on them, and ended up writing a pivot query for someone, out of nostalgia for my last job where I did a lot more straight SQL programming - not like I miss it too much, but it felt good. Anyway, only once I was done did it occur to me that I could use this same query for a lot of things. It&#039;s a very multi-purpose pivot query - it pivots record counts on a single table by month, so one really fast query returns all of the record counts by month of whatever table you are curious about. The original guy on the forum needed it to turn menu buttons on and off according to whether there were records in the table for a given month (as in blog records).<br />

@@ -2,6 +2,7 @@
 layout: blog
 title: my reflection
 permalink: 2012/03/my-reflection
+categories: [Journal, Random, Saga]
 ---
 
 from <a href="http://mirror.me/189e6495">mirror.me</a>

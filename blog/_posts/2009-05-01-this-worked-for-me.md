@@ -2,6 +2,7 @@
 layout: blog
 title: this worked for me
 permalink: 2009/05/this-worked-for-me
+categories: [Code]
 ---
 
 <p>recursevly remove .svn files from an existing repo.</p>

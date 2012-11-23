@@ -2,6 +2,7 @@
 layout: blog
 title: airbnb consumer review ratings at F
 permalink: 2012/03/airbnb-consumer-review-ratings-at-f
+categories: [airbnb, complaint, disaster, host, review, Reviews, scam]
 ---
 
 You should always check ratings before you book with someone new. As it turns out AIRBNB has a horrible track record. I think service is so important and I saw the signs from the beginning. Service was so lazy and unresponsive from the start so that later they could just do nothing because they didn't see anything. Buyer beware.

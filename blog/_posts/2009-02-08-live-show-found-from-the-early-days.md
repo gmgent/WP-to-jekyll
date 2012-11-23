@@ -2,6 +2,7 @@
 layout: blog
 title: Live show found from the early days
 permalink: 2009/02/live-show-found-from-the-early-days
+categories: [Historical]
 ---
 
 <p>Hehe, some classic early Krister Axel footage:</p>

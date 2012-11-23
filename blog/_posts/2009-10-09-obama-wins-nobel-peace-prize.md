@@ -2,6 +2,7 @@
 layout: blog
 title: Obama Wins nobel Peace Prize
 permalink: 2009/10/obama-wins-nobel-peace-prize
+categories: [Historical]
 ---
 
 <p><a href="http://www.cnn.com/2009/WORLD/europe/10/09/nobel.peace.prize/" title="http://www.cnn.com/2009/WORLD/europe/10/09/nobel.peace.prize/">http://www.cnn.com/2009/WORLD/europe/10/09/nobel.peace.prize/</a></p>

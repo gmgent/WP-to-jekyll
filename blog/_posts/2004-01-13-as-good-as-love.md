@@ -2,6 +2,7 @@
 layout: blog
 title: As Good As Love
 permalink: 2004/01/as-good-as-love
+categories: [Poetry]
 ---
 
 <blockquote>

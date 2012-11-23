@@ -2,6 +2,7 @@
 layout: blog
 title: new albums this year
 permalink: 2009/04/new-albums-this-year
+categories: [Historical]
 ---
 
 <p>songs for new album<br />

@@ -2,6 +2,7 @@
 layout: blog
 title: The Arrival
 permalink: 2004/09/the-arrival
+categories: [Poetry]
 ---
 
 Strong words like big rocks

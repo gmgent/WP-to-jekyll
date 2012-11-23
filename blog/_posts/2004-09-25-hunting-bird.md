@@ -2,6 +2,7 @@
 layout: blog
 title: Hunting bird
 permalink: 2004/09/hunting-bird
+categories: [Poetry]
 ---
 
 <p>thoughts of pale colors<br />

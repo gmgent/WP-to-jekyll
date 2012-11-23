@@ -2,6 +2,7 @@
 layout: blog
 title: get your ip from rails console
 permalink: 2010/02/get-your-ip-from-rails-console
+categories: [Code]
 ---
 
 <pre>

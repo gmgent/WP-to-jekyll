@@ -2,6 +2,7 @@
 layout: blog
 title: Gear for sale
 permalink: 2011/04/gear-for-sale
+categories: [Random]
 ---
 
 I just moved and need to get rid of some gear. Message me with any questions.

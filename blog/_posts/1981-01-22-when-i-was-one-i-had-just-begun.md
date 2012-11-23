@@ -2,6 +2,7 @@
 layout: blog
 title: When I was One I had just begun
 permalink: 1981/01/when-i-was-one-i-had-just-begun
+categories: [Historical, Poetry]
 ---
 
 This is the first poem I wrote that I am proud of. I was six years and eight months old. It primarily makes me think of two things. One is that I was clearly first a poet - it was my first natural form of expression, along with possibly art but that is so common for kids of that age that it does not seem noteworthy. The fact that I was writing poems at such an early age means that must be my true calling. I was writing poems as early as 1978, and by 1981 I had a certain facility with it. Of course, I was sort of lacking in big concepts but that's why I like this one - it has a remarkable sense of self-awareness and mortality, which is arguably the richest of deep concepts.

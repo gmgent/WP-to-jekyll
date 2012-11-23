@@ -2,6 +2,7 @@
 layout: blog
 title: to my beautiful wife
 permalink: 2010/08/to-my-beautiful-wife
+categories: [Historical]
 ---
 
 <p>I dedicate my favorite xkcd comic:</p>

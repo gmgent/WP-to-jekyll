@@ -2,6 +2,7 @@
 layout: blog
 title: wordpress audio player plays Illuminate the Sky
 permalink: 2011/08/wordpress-audio-player-plays-illuminate-the-sky
+categories: [Random]
 ---
 
 My sister called me last night to announce that my music is on the Friday Night Lights DVD. I knew that already but it was still nice to hear about it. Here is one of the songs from that DVD. I need to test this audio plug-in.

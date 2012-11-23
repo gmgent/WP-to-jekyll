@@ -2,6 +2,7 @@
 layout: blog
 title: Tonight at Room 5
 permalink: 2007/11/tonight-at-room-5
+categories: [Historical]
 ---
 
 <p>Songwriters in the Round.<br />

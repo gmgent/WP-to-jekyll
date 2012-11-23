@@ -2,6 +2,7 @@
 layout: blog
 title: CSV IllegalFormatError
 permalink: 2010/11/csv-illegalformaterror
+categories: [Code]
 ---
 
 <p><code><br />

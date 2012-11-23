@@ -2,6 +2,7 @@
 layout: blog
 title: A really clean dynamic insert proc for PL SQL ETL packages
 permalink: 2007/11/a-really-clean-dynamic-insert-proc-for-pl-sql-etl-packages
+categories: [Code]
 ---
 
 <p>A really clean dynamic insert proc for PL/SQL ETL packages. Pass in the table name, an array of field names and an array of values. Done.</p>

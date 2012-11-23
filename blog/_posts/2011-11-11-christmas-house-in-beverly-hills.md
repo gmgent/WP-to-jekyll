@@ -2,6 +2,7 @@
 layout: blog
 title: christmas house in Beverly Hills
 permalink: 2011/11/christmas-house-in-beverly-hills
+categories: [Journal, Photo]
 ---
 
 Already, in the second week of November. How embarrassing.

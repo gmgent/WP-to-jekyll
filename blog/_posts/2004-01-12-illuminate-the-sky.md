@@ -2,6 +2,7 @@
 layout: blog
 title: Illuminate the Sky
 permalink: 2004/01/illuminate-the-sky
+categories: [Poetry]
 ---
 
 <blockquote>

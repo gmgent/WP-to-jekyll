@@ -2,6 +2,7 @@
 layout: blog
 title: Got gigs? How about some Farmers' cheese?
 permalink: 2008/05/got-gigs-how-about-some-farmers-cheese
+categories: [Historical]
 ---
 
 <p>These days, I do stealth gigs. You never see it coming, it feels more natural that way. You know, you just make some phone calls a few days out and cross your fingers.<br /><br />

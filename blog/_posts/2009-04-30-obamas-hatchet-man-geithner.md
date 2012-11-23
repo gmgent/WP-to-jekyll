@@ -2,6 +2,7 @@
 layout: blog
 title: Obamas hatchet man Geithner
 permalink: 2009/04/obamas-hatchet-man-geithner
+categories: [Historical]
 ---
 
 <p>There is some good domestic money in the 'rescue package' - but most of it is still secretly lining the pockets of Citigroup. Let us make no mistake - I had a discussion about this yesterday - our financial system is still crumbling, and Obama has TOTALLY sided with the banks. He is only OCCASIONALLY a champion of the people.</p>

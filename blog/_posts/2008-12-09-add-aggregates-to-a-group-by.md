@@ -2,6 +2,7 @@
 layout: blog
 title: add aggregates to a group by
 permalink: 2008/12/add-aggregates-to-a-group-by
+categories: [Code]
 ---
 
 <p>Pull in YTD aggregates, along with the numbers grouped by month - good example of a self-join as well as a &#039;derived table&#039; which in this example is called &#039;counted&#039;.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: the fizzbuzz problem
 permalink: 2011/10/the-fizzbuzz-problem
+categories: [Code]
 ---
 
 <br>

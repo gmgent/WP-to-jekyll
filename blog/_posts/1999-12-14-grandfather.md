@@ -2,6 +2,7 @@
 layout: blog
 title: grandfather
 permalink: 1999/12/grandfather
+categories: [Poetry]
 ---
 
 Some one built this place on top of trash

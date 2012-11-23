@@ -2,6 +2,7 @@
 layout: blog
 title: words to weighty ghost by wintersleep
 permalink: 2009/04/words-to-weighty-ghost-by-wintersleep
+categories: [Poetry]
 ---
 
 <p>I got out of bed today<br />

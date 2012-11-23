@@ -2,6 +2,7 @@
 layout: blog
 title: crossroads
 permalink: 2003/02/crossroads
+categories: [Journal, Saga]
 ---
 
 So maybe this is the crossroads. It does seem that good things like to happen simultaneously, as if to force a difficult decision. That's probably what amounts to resolve, the sense of direction, and fate.

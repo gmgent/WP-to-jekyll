@@ -2,6 +2,7 @@
 layout: blog
 title: fun with rebelmouse
 permalink: 2012/07/fun-with-rebelmouse
+categories: [Random]
 ---
 
 There is always something cool that I am just hearing about. This week it is rebelmouse.

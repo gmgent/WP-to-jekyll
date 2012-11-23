@@ -2,6 +2,7 @@
 layout: blog
 title: gzip for dummies
 permalink: 2010/05/gzip-for-dummies
+categories: [Code]
 ---
 
 <p>GZIP To Compress Files:</p>

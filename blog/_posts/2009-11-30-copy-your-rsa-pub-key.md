@@ -2,6 +2,7 @@
 layout: blog
 title: copy your rsa.pub key
 permalink: 2009/11/copy-your-rsa-pub-key
+categories: [Code]
 ---
 
 <p>cat .ssh/id_rsa.pub | pbcopy </p>

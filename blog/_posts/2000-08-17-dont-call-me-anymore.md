@@ -2,6 +2,7 @@
 layout: blog
 title: don't call me anymore
 permalink: 2000/08/dont-call-me-anymore
+categories: [Historical, Poetry]
 ---
 
 Whatever

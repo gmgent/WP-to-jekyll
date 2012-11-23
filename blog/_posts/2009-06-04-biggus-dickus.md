@@ -2,6 +2,7 @@
 layout: blog
 title: biggus dickus
 permalink: 2009/06/biggus-dickus
+categories: [Historical]
 ---
 
 <p>I don't know why this is funny, but it is.</p>

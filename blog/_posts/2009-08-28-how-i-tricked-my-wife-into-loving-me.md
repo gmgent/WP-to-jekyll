@@ -2,6 +2,7 @@
 layout: blog
 title: how I tricked my wife into loving me
 permalink: 2009/08/how-i-tricked-my-wife-into-loving-me
+categories: [Historical]
 ---
 
 <p>How else? I wrote her a song!</p>

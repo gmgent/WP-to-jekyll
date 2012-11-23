@@ -2,6 +2,7 @@
 layout: blog
 title: the thundering herd and the dining philosophers
 permalink: 2009/09/the-thundering-herd-and-the-dining-philosophers
+categories: [Code]
 ---
 
 <p>The &#039;Thundering Herd&#039;:</p>

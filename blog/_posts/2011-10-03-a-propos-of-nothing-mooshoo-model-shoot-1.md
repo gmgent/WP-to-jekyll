@@ -2,6 +2,7 @@
 layout: blog
 title: a propos of nothing mooshoo model shoot 1
 permalink: 2011/10/a-propos-of-nothing-mooshoo-model-shoot-1
+categories: [Random]
 ---
 
 A propos of nothing here are two good shots of the pup:

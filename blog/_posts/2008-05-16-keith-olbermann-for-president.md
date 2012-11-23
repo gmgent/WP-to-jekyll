@@ -2,6 +2,7 @@
 layout: blog
 title: Keith Olbermann for President
 permalink: 2008/05/keith-olbermann-for-president
+categories: [Historical]
 ---
 
 <p>I'm serious. Move over Barack. You must watch this.<br />

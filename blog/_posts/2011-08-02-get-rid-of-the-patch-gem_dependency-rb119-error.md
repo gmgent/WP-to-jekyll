@@ -2,6 +2,7 @@
 layout: blog
 title: get rid of the patch gem_dependency.rb:119 error
 permalink: 2011/08/get-rid-of-the-patch-gem_dependency-rb119-error
+categories: [Code]
 ---
 
 Hate this error?

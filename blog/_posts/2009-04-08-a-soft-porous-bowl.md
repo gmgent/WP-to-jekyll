@@ -2,6 +2,7 @@
 layout: blog
 title: a soft porous bowl
 permalink: 2009/04/a-soft-porous-bowl
+categories: [Historical]
 ---
 
 <p>I love this. click for <a href="http://gawker.com/news/park-slope/the-park-slope-hat-spat-read-all-the-emails-166214.php">whole thing</a></p>

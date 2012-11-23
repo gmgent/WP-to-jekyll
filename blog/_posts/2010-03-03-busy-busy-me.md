@@ -2,6 +2,7 @@
 layout: blog
 title: busy busy me
 permalink: 2010/03/busy-busy-me
+categories: [Historical]
 ---
 
 <p>I am doing a lot of things right now. Life is awesome. A new job, a few album projects in the works, and the summer en route. We are just moving right along.</p>

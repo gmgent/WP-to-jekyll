@@ -2,6 +2,7 @@
 layout: blog
 title: past positive and future oriented
 permalink: 2011/06/past-positive-and-future-oriented
+categories: [Brave New World, Journal, Saga]
 ---
 
 This is a reaction to an RSA Animate video called <a href="http://www.youtube.com/watch?v=A3oIiH7BLmg">The Secret Powers of Time</a> where:

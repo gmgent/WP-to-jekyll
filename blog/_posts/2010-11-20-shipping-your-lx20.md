@@ -2,6 +2,7 @@
 layout: blog
 title: shipping your LX20
 permalink: 2010/11/shipping-your-lx20
+categories: [Code]
 ---
 
 <p>If you are shipping your XT, LX-20 or XT-20, put it in this "shipping mode." It will secure the transport for safer shipping:</p>

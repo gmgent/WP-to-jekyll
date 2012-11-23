@@ -2,6 +2,7 @@
 layout: blog
 title: pretty darn cool
 permalink: 2012/07/pretty-darn-cool
+categories: [News]
 ---
 
 I met Gavin Lurssen today, he seems like a nice guy. He did a great job with the mastering, that is for sure.

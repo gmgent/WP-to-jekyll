@@ -2,6 +2,7 @@
 layout: blog
 title: The Infinite Once
 permalink: 2000/03/the-infinite-once
+categories: [Poetry]
 ---
 
 Fast friends ex-lovers unite

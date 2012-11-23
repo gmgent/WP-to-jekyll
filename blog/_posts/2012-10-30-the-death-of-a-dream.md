@@ -2,6 +2,7 @@
 layout: blog
 title: the death of a dream 
 permalink: 2012/10/the-death-of-a-dream
+categories: [Brave New World, Journal, Poetry, Saga]
 ---
 
 this road that I have walked on all these years

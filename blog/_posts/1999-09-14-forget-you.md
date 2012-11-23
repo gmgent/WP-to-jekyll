@@ -2,6 +2,7 @@
 layout: blog
 title: Forget You
 permalink: 1999/09/forget-you
+categories: [Poetry]
 ---
 
 In a restless dream you come to me

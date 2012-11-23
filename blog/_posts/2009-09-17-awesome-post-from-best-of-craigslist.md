@@ -2,6 +2,7 @@
 layout: blog
 title: awesome post from best of craigslist
 permalink: 2009/09/awesome-post-from-best-of-craigslist
+categories: [Historical]
 ---
 
 <p>Looking for a Real Bot - b4b<br />

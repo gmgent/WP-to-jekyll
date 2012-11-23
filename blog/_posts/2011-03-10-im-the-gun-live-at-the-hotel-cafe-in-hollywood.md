@@ -2,6 +2,7 @@
 layout: blog
 title: I'm the Gun live - at the Hotel Cafe in Hollywood
 permalink: 2011/03/im-the-gun-live-at-the-hotel-cafe-in-hollywood
+categories: [RockstarAlley]
 ---
 
 <p><a href="http://www.kristeraxel.com/media/2011-0310-itg.mp3">This</a> was recorded live at the Hotel Cafe in Hollywood during one of my favorite live shows, ever.</p>

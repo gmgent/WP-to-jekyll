@@ -2,6 +2,7 @@
 layout: blog
 title: USA first world nation with third world life expectancy
 permalink: 2009/09/usa-first-world-nation-with-third-world-life-expectancy
+categories: [Historical]
 ---
 
 <p>"The United States, with the highest GNP per capita in the world, has a lower life expectancy than nearly all the other rich countries and a few poor ones, despite spending half of the world's health care bill."</p>

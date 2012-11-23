@@ -2,6 +2,7 @@
 layout: blog
 title: A Ruby controller
 permalink: 2008/03/a-ruby-controller
+categories: [Code]
 ---
 
 <p>class GameController &lt; ApplicationController<br />

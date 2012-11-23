@@ -2,6 +2,7 @@
 layout: blog
 title: mac osx screenshots
 permalink: 2010/03/mac-osx-screenshots
+categories: [Code]
 ---
 
 <p>Taking Screenshots in Mac OS X</p>

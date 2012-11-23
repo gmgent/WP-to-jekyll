@@ -2,6 +2,7 @@
 layout: blog
 title: reverse string function
 permalink: 2011/03/reverse-string-function
+categories: [Code]
 ---
 
 <BR/>

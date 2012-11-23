@@ -2,6 +2,7 @@
 layout: blog
 title: my thoughts on mobile gaming for iPhone
 permalink: 2011/11/my-thoughts-on-mobile-gaming-for-iphone
+categories: [Games]
 ---
 
 I finally got an iPhone. I wouldn't dream of developing a Rails app on anything but a Mac, and I had an iPhone 3G a while back, but for the last 2 years I had a Droid phone that synced pretty well with my google account and only froze up the tiniest little bit every now and then. Now that I am actively drawing down my gmail account and moving back to a personal (aka private) email account, it made sense to move back to the iPhone and try out the awesome new camera. It is slightly annoying that you can't use the photo stream on your Mac until you upgrade to Lion (note to anyone like me that was excited for iCloud and the photo stream) and there is literally no way out of the box to get pictures off of your phone without it except by emailing them to yourself, one by one. But the good news is that there are a couple of apps that you can buy that will do that for you.

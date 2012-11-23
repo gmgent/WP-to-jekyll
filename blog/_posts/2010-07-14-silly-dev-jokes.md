@@ -2,6 +2,7 @@
 layout: blog
 title: Silly Dev jokes
 permalink: 2010/07/silly-dev-jokes
+categories: [Code]
 ---
 
 <p>copied from: <a href="http://blogs.adobe.com/charles/2010/05/ill_trade_you_a_joke_for_a_book.html#comments" title="http://blogs.adobe.com/charles/2010/05/ill_trade_you_a_joke_for_a_book.html#comments">http://blogs.adobe.com/charles/2010/05/ill_trade_you_a_joke_for_a_book.h...</a></p>

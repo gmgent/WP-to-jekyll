@@ -2,6 +2,7 @@
 layout: blog
 title: Do the Alexa Dance aka a review of Alexa reviews
 permalink: 2008/12/do-the-alexa-dance-aka-a-review-of-alexa-reviews
+categories: [Code]
 ---
 
 <p>I won&#039;t name names, or link links as it were, but ever since I discovered my own Alexa ranking(s) I have been obsessed with understanding how to optimize them - and as a matter of course I have read quite a few blogs about it. Without succumbing to the cliche of promising &#039;20 Ways to Game Your Ranking&#039;, I will share what I know.</p>

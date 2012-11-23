@@ -2,6 +2,7 @@
 layout: blog
 title: a little scraper rake task
 permalink: 2009/08/a-little-scraper-rake-task
+categories: [Code]
 ---
 
 <p>Written for no good reason, mostly just to play with hpricot. Good times.</p>

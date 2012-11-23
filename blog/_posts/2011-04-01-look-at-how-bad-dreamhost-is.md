@@ -2,6 +2,7 @@
 layout: blog
 title: look at how bad Dreamhost is
 permalink: 2011/04/look-at-how-bad-dreamhost-is
+categories: [Random]
 ---
 
 In the last 7 days, <strong>theaxelvault.com</strong> has been down for almost 4 hours.

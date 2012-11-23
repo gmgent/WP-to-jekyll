@@ -2,6 +2,7 @@
 layout: blog
 title: I'm huge in Canada
 permalink: 2008/01/im-huge-in-canada
+categories: [Historical]
 ---
 
 <p>#17 in Kamloops, BC (that's near Vancouver)</p>

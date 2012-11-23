@@ -2,6 +2,7 @@
 layout: blog
 title: strange delete syntax with join for mysql
 permalink: 2011/12/strange-delete-syntax-with-join-for-mysql
+categories: [Code]
 ---
 
 <br/><br/>

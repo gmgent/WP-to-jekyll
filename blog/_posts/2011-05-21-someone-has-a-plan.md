@@ -2,6 +2,7 @@
 layout: blog
 title: someone has a plan
 permalink: 2011/05/someone-has-a-plan
+categories: [Journal, Random, Saga]
 ---
 
 It has been suggested that Mooshoo and the Brain look somewhat alike. I'm not sure that I disagree.

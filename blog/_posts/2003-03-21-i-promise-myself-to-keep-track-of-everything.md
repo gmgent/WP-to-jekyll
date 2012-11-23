@@ -2,6 +2,7 @@
 layout: blog
 title: I promise myself to keep track of everything
 permalink: 2003/03/i-promise-myself-to-keep-track-of-everything
+categories: [Journal, Saga]
 ---
 
 I promise myself to keep track of everything…

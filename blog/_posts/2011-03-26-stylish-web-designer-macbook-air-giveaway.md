@@ -2,6 +2,7 @@
 layout: blog
 title: Stylish Web Designer - MacBook Air giveaway
 permalink: 2011/03/stylish-web-designer-macbook-air-giveaway
+categories: [News]
 ---
 
 <div style="font-family: Arial,Helvetica,sans-serif;">

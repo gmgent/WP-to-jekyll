@@ -2,6 +2,7 @@
 layout: blog
 title: Dan Ariely kicks ass
 permalink: 2009/05/dan-ariely-kicks-ass
+categories: [Historical]
 ---
 
 <p>That's it.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: Those Lying Eyes
 permalink: 2008/10/those-lying-eyes
+categories: [Historical]
 ---
 
 <p>All the lies from the McCain/Palin campaign, debunked in <a href="http://andrewsullivan.theatlantic.com/the_daily_dish/2008/09/the-lies-and-li.html" target="_blank">one handy place</a>.<br /><br />Say it isn't <a href="http://andrewsullivan.theatlantic.com/the_daily_dish/2008/09/the-lies-and-li.html" target="_blank">so</a>.<br />

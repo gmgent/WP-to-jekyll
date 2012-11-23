@@ -2,6 +2,7 @@
 layout: blog
 title: Krister Axel at the Derby
 permalink: 2007/07/krister-axel-at-the-derby
+categories: [Historical]
 ---
 
 <p>I love the Derby. It is old and rustic like a rundown barn in the middle of a freeway except the roof is built like a bee nest and the shadows fall wherever they can.<br /><br />

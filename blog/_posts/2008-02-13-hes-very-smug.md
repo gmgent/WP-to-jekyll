@@ -2,6 +2,7 @@
 layout: blog
 title: he's very smug
 permalink: 2008/02/hes-very-smug
+categories: [Historical]
 ---
 
 <div align="center">

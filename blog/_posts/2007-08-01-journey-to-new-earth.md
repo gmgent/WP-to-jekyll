@@ -2,6 +2,7 @@
 layout: blog
 title: Journey to New Earth
 permalink: 2007/08/journey-to-new-earth
+categories: [Historical]
 ---
 
 <p>Final tour schedule:</p>

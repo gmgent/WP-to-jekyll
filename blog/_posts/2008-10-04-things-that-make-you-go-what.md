@@ -2,6 +2,7 @@
 layout: blog
 title: things that make you go - what?
 permalink: 2008/10/things-that-make-you-go-what
+categories: [Historical]
 ---
 
 <p>January 2008: Countrywide Financial bank collapses (assets US$ 172 billion)</p>

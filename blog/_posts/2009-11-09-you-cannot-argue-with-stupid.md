@@ -2,6 +2,7 @@
 layout: blog
 title: you cannot argue with stupid
 permalink: 2009/11/you-cannot-argue-with-stupid
+categories: [Historical]
 ---
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/jH9HHhq5mfqyWyzwTWN_4Q?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/_aJ4urxfgN9A/TXXSy0zSBaI/AAAAAAAAIk4/SfSx6CxxsmE/s144/stupid.jpg" height="115" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/krister.axel/Stuff?feat=embedwebsite">stuff</a></td></tr></table>

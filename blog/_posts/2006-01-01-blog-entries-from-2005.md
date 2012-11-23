@@ -2,6 +2,7 @@
 layout: blog
 title: Blog entries from 2005
 permalink: 2006/01/blog-entries-from-2005
+categories: [Historical, Journal, Saga]
 ---
 
 This is from back before I was setting up my blog as an RSS feed, so it's just a big old HTML page that I would update all year. It is really interesting to go back and read all of this stuff. That was a good year. 

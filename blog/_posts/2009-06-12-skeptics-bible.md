@@ -2,6 +2,7 @@
 layout: blog
 title: skeptics bible
 permalink: 2009/06/skeptics-bible
+categories: [Historical]
 ---
 
 <p>Very cool stuff. I love technology! This is one of my favorites:</p>

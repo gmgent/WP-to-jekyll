@@ -2,6 +2,7 @@
 layout: blog
 title: Holy Scheisse
 permalink: 2008/10/holy-scheisse
+categories: [Historical]
 ---
 
 <p>As a result, overall U.S. credit card debt grew by 435% from 2002 to year-end 2007, from $211 billion to approximately $915 billion...<br />

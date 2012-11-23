@@ -2,6 +2,7 @@
 layout: blog
 title: another shot of the pup
 permalink: 2012/06/another-shot-of-the-pup
+categories: [Journal, Photo, Saga]
 ---
 
 She is our little girl. This is her on our new couch.

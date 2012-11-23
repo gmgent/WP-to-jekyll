@@ -2,6 +2,7 @@
 layout: blog
 title: Obama and Clinton Pudding
 permalink: 2008/02/obama-and-clinton-pudding
+categories: [Historical]
 ---
 
 <p>If the proof is in the pudding, then here is some pudding:</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: annemarieke
 permalink: 2000/10/annemarieke
+categories: [Historical]
 ---
 
 A lot to say.

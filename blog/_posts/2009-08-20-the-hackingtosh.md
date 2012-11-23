@@ -2,6 +2,7 @@
 layout: blog
 title: the hackingtosh
 permalink: 2009/08/the-hackingtosh
+categories: [Code]
 ---
 
 <p>I am always intrigued by new slang terms, especially ones that apply to tech.</p>

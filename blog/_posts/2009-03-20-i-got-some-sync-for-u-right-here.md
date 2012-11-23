@@ -2,6 +2,7 @@
 layout: blog
 title: I got some sync for u right here
 permalink: 2009/03/i-got-some-sync-for-u-right-here
+categories: [Historical]
 ---
 
 <table cellpadding="5">

@@ -2,6 +2,7 @@
 layout: blog
 title: solr shell scripting for fun and profit
 permalink: 2008/02/solr-shell-scripting-for-fun-and-profit
+categories: [Code]
 ---
 
 <p>We love Solr. Yes we do.</p>

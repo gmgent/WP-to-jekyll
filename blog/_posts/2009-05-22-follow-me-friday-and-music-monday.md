@@ -2,6 +2,7 @@
 layout: blog
 title: Follow me Friday and music monday
 permalink: 2009/05/follow-me-friday-and-music-monday
+categories: [Historical]
 ---
 
 <p>Aww, isn't Twitter cute?</p>

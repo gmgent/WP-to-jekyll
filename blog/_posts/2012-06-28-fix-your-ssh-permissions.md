@@ -2,6 +2,7 @@
 layout: blog
 title: fix your ssh permissions
 permalink: 2012/06/fix-your-ssh-permissions
+categories: [Code]
 ---
 
 <strong>Permission problems with SSH</strong>

@@ -2,6 +2,7 @@
 layout: blog
 title: Funky Roller Coaster
 permalink: 1999/09/funky-roller-coaster
+categories: [Poetry]
 ---
 
 You push me to my mountain

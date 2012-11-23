@@ -2,6 +2,7 @@
 layout: blog
 title: those lying corporations
 permalink: 2012/03/those-lying-corporations
+categories: [Politics, Propaganda]
 ---
 
 No regulation for business, hmm? Self-regulated is well-regulated, invisible hand and all of that....

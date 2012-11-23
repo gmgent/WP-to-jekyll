@@ -2,6 +2,7 @@
 layout: blog
 title: an open letter to Matt Taibbi and Adam Weinstein
 permalink: 2011/03/an-open-letter-to-matt-taibbi-and-adam-weinstein
+categories: [Politics]
 ---
 
 

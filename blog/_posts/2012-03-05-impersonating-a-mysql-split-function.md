@@ -2,6 +2,7 @@
 layout: blog
 title: impersonating a MySQL split function
 permalink: 2012/03/impersonating-a-mysql-split-function
+categories: [Code]
 ---
 
 <br><br>

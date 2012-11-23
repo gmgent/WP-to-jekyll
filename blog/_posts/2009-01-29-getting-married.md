@@ -2,6 +2,7 @@
 layout: blog
 title: getting married
 permalink: 2009/01/getting-married
+categories: [Historical]
 ---
 
 <p>Just so y'all know, I'm getting married soon.</p>

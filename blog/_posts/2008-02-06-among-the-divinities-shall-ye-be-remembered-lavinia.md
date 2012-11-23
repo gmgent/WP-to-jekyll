@@ -2,6 +2,7 @@
 layout: blog
 title: Among the Divinities Shall Ye Be Remembered Lavinia
 permalink: 2008/02/among-the-divinities-shall-ye-be-remembered-lavinia
+categories: [Poetry]
 ---
 
 <p>I thought to buy you a trinket<br />

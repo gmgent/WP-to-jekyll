@@ -2,6 +2,7 @@
 layout: blog
 title: Natalie Portman being hot in Your Highness
 permalink: 2012/07/natalie-portman-being-hot-in-your-highness
+categories: [Random]
 ---
 
 I may catch a lot of flack from my wife for posting this, but I think it's ok because I never really do this very male thing of posting pictures of Hollywood babes. For the record, although NP looks pretty great in this movie I honestly find my wife to be more attractive. You may disagree but that only means you haven't met my wife. :)

@@ -2,6 +2,7 @@
 layout: blog
 title: the cover of Sky Meet Sea
 permalink: 2012/01/the-cover-of-sky-meet-sea
+categories: [News]
 ---
 
 <br><br>The cover for my next album is done. More info at <a href="http://SkyMeetSea.com" title="SkyMeetSea.com" target="_blank">SkyMeetSea.com</a>.

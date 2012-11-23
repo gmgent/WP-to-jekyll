@@ -2,6 +2,7 @@
 layout: blog
 title: prehistoric beer
 permalink: 2010/01/prehistoric-beer
+categories: [Historical]
 ---
 
 <p>Lacking any knowledge of chemistry, prehistoric humans eager for the intoxicating effects of alcohol apparently mixed clumps of rice with saliva in their mouths to break down the starches in the grain and convert them into malt sugar.</p>

@@ -2,6 +2,7 @@
 layout: blog
 title: messengers
 permalink: 2003/02/messengers
+categories: [Poetry]
 ---
 
 <p>I write with obscene distractions<br />

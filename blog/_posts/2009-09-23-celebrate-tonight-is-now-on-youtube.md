@@ -2,6 +2,7 @@
 layout: blog
 title: Celebrate Tonight is now on Youtube
 permalink: 2009/09/celebrate-tonight-is-now-on-youtube
+categories: [Historical]
 ---
 
 <p>Behold:</p>

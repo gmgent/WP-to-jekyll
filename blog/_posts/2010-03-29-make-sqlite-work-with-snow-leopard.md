@@ -2,6 +2,7 @@
 layout: blog
 title: make sqlite work with snow leopard
 permalink: 2010/03/make-sqlite-work-with-snow-leopard
+categories: [Code]
 ---
 
 <script src="https://gist.github.com/860770.js?file=snow-leopard-sqlite.sh"></script><p>

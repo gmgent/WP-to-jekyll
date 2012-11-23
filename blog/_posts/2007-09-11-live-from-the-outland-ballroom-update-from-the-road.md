@@ -2,6 +2,7 @@
 layout: blog
 title: live from the Outland Ballroom - update from the road
 permalink: 2007/09/live-from-the-outland-ballroom-update-from-the-road
+categories: [Historical]
 ---
 
 <div align="center"><table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/3nLrcijLwUNuD_WtxjtgGw?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/_aJ4urxfgN9A/TXXnPudtIPI/AAAAAAAAIn8/6vtk88GWZ2c/s288/testim.png" height="222" width="288" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/krister.axel/Stuff?feat=embedwebsite">stuff</a></td></tr></table></div>

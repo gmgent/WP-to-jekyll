@@ -2,6 +2,7 @@
 layout: blog
 title: Read this if you dare
 permalink: 2007/12/read-this-if-you-dare
+categories: [Historical]
 ---
 
 <p>These are ominous developments that suggest a likely real or contrived homeland terror attack severe enough to warrant suspending the Constitution and declaring martial law with the public acquiescing out of fear.<br />

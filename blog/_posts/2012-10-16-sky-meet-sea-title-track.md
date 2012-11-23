@@ -2,6 +2,7 @@
 layout: blog
 title: Sky Meet Sea album title track
 permalink: 2012/10/sky-meet-sea-title-track
+categories: [RockstarAlley]
 ---
 
 <a href="http://kristeraxel.com/media/2012-kristeraxel-SkyMeetSea.mp3">This</a> (Sky Meet Sea) is the title track from the album. I love how it turned out.

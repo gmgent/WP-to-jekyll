@@ -2,6 +2,7 @@
 layout: blog
 title: Obama calls out Fox
 permalink: 2009/10/obama-calls-out-fox
+categories: [Historical]
 ---
 
 <p><a href="http://www.pbs.org/newshour/bb/media/july-dec09/fox1_10-19.html" title="http://www.pbs.org/newshour/bb/media/july-dec09/fox1_10-19.html">http://www.pbs.org/newshour/bb/media/july-dec09/fox1_10-19.html</a></p>

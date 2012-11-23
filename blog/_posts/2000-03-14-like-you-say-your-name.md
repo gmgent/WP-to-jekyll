@@ -2,6 +2,7 @@
 layout: blog
 title: like you say your name
 permalink: 2000/03/like-you-say-your-name
+categories: [Poetry]
 ---
 
 Almost midnight and I don't know

@@ -2,6 +2,7 @@
 layout: blog
 title: Another Ruby model
 permalink: 2008/02/another-ruby-model
+categories: [Code]
 ---
 
 <p>class State &lt; ActiveRecord::Base<br />

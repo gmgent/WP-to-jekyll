@@ -2,6 +2,7 @@
 layout: blog
 title: sarah palin gives dumb a bad name
 permalink: 2009/08/sarah-palin-gives-dumb-a-bad-name
+categories: [Historical]
 ---
 
 <p>This is funny:</p>

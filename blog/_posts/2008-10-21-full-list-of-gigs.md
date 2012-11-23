@@ -2,6 +2,7 @@
 layout: blog
 title: Full list of gigs
 permalink: 2008/10/full-list-of-gigs
+categories: [Historical]
 ---
 
 <p>added: Farmers Market - May 09</p>

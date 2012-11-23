@@ -2,6 +2,7 @@
 layout: blog
 title: Calling Bullshit on Sarah 'Fake Picture' Palin
 permalink: 2008/09/calling-bullshit-on-sarah-fake-picture-palin
+categories: [Historical]
 ---
 
 <p>I've got to call bullshit on this one.</p>

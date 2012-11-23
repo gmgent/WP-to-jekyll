@@ -2,6 +2,7 @@
 layout: blog
 title: untitiled
 permalink: 1999/08/untitiled
+categories: [Poetry]
 ---
 
 

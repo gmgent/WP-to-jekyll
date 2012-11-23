@@ -2,6 +2,7 @@
 layout: blog
 title: more priceless commentary from the blogosphere
 permalink: 2009/05/more-priceless-commentary-from-the-blogosphere
+categories: [Historical]
 ---
 
 <p>Where did this idea come from that NPR is "liberal"? Are we talking Phil Ochs's definition, "five degrees left of center mostly, but ten degrees right of center when it affects them personally"? I hope so, because that's the only sense of "liberal" I can see applying to NPR. During eight years of the worst presidency in history, they bent so far over backwards to be "fair" to the Bushies that they were usually left chewing on their own pubic hair.</p>

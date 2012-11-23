@@ -2,6 +2,7 @@
 layout: blog
 title: And everyone is just doing their thing
 permalink: 2003/01/and-everyone-is-just-doing-their-thing
+categories: [Journal, Saga]
 ---
 
 Tuesday, January 07, 2003
