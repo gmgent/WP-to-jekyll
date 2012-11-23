@@ -1,0 +1,14 @@
+<p>this is why I love eval. Because it makes my life easy.</p>
+
+<p><code>
+  <pre></p>
+
+<pre><code>    Gmg.list_of_optional_redemption_fields.each do |new_field|
+      underscored_field = new_field.underscore
+      value = original_line.field(new_field).strip
+      eval "return_items.#{underscored_field} = '#{value}'"
+    end
+</code></pre>
+
+<p>  </pre>
+</code></p>
