@@ -7,6 +7,7 @@ inputname = "kristeraxel.wordpress.2012-11-23.xml"
 
 puts "processing #{inputname}"
 
+#using regex to strip the post name from the url with already added dashes and no spaces
 regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
 
 @input = XmlSimple.xml_in(File.open(inputname, "r"))
@@ -44,6 +45,7 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
         
         physical_file_name = "#{jekyll_post_name}.md"
         
+        #remove from current dir if file is there for any reason
         if File.exist?(physical_file_name) then
           File.delete(physical_file_name)
         end
@@ -63,7 +65,7 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
           
           f.puts post_text
         end
-        #deploy file at the end and add "_"
+        #deploy file at the end and add "_" - forced overwrite
         FileUtils.mv("#{physical_file_name}", "blog/_posts/#{physical_file_name}", :force => true)
       end      
     end
