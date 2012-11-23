@@ -28,12 +28,17 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
         puts 
         puts post_item["title"]
         puts post_item["encoded"]
-        puts post_item["category"].each do |cat|
-          puts cat.inspect
+        
+        #get categories
+        cats = []
+        post_item["category"].each do |cat|
+          cats << cat["content"]
         end
         
+        
+        
         re = Regexp.new regex
-        puts "fix #{post_item["link"]}"
+        puts "strip from #{post_item["link"]}"
         linkname = post_item["link"].to_s.scan(/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//)
         if linkname.to_s.size == 0
           linkname = post_item["title"].to_s.gsub!(" ", "-")
@@ -56,7 +61,7 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
           f.puts "layout: blog\n"
           f.puts "title: #{post_item["title"]}\n"
           f.puts "permalink: #{filename}\n"
-          #f.puts "categories: ['test', '']\n"
+          f.puts "categories: [#{cats.join(', ')}]\n"
           
           f.puts "---"
           f.puts            
