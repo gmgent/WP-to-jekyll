@@ -396,6 +396,11 @@ h6 a:hover {
   content: '@';
   text-shadow: 1px 1px 0 #fff;
 }
+#sub-rss-image {
+  margin-top: 0.41em;
+  margin-left: 14em;
+}
+
 /* Post Tags */
 .post p.tags:before {
   content: ',';
