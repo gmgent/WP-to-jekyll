@@ -57,7 +57,9 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
           #f.puts "categories: ['test', '']\n"
           
           f.puts "---"
-          f.puts          
+          f.puts            
+            
+          post_text = post_item["encoded"][0].to_s
           
           f.puts post_text
         end
