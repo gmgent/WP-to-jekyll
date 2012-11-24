@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Krister Axel</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
+		
+        <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+        <!--  Mobile viewport scale -->
+        <meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"/>
+
+        <!-- Custom Favicon -->
+        <link rel="shortcut icon" href="http://blog.kristeraxel.com/wp-content/uploads/2012/11/favicon.ico"/>
+
+
+    </head>
+    <body class="home blog gecko boxed-layout two-col-left width-820 two-col-left-820">
+        <div id="wrapper">
+	    
+	        <div id="header" class="col-full">
+
+   
+    <div id="logo">
+        <a href="/" title="spotlights in the wild">
+            <img src="http://blog.kristeraxel.com/wp-content/uploads/2012/11/header11.jpg" alt="Krister Axel" />
+        </a>
+        <h1 class="site-title"><a href="/">Krister Axel</a></h1>
+        <span class="site-description">spotlights in the wild</span>
+   </div><!-- /#logo -->
+
+   <h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+
+   
+</div><!-- /#header -->
+<div id="navigation" class="col-full">
+	<a href="/"><img id="sub-rss-image" src="/img/feed-icon-32x32.png"></a>
+	<ul id="main-nav" class="nav fl">
+		<li id="menu-item-2302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2302">
+		    <a href="http://blog.kristeraxel.com/info/" >Info</a>
+		</li>
+        <li id="menu-item-2255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255">
+            <a href="http://blog.kristeraxel.com/archive/" >Archive</a>
+        </li>
+        <li id="menu-item-2211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211">
+            <a href="http://blog.kristeraxel.com/banners/" >Banners</a></li>
+        <li id="menu-item-2212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2212">
+            <a href="http://blog.kristeraxel.com/contact/" >Contact</a></li>
+        <li id="menu-item-2213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213">
+            <a href="http://blog.kristeraxel.com/press/" >Press</a></li>
+    </ul>	
+</div><!-- /#navigation -->
+      
+            <!-- #content Starts -->
+	        <div id="content" class="col-full">
+    
+    	        <div id="blog-main">
+		
+                <!-- #main Starts -->
+                    <div id="main" class="col-left">
+            	
+			
+                        <div class="post type-post status-publish format-standard">
+                            <h2 class="title">
+	                            A Ruby View using AJAX
+	                        </h2>
+	                        <div class="post-meta">
+		                        <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
+		                        <span class="small">on</span> <abbr class="date time published" title="2012-11-22T01:45:46+0000">November 22, 2012</abbr>  <span class="small">in</span> <span class="categories"><a href="http://blog.kristeraxel.com/topics/random/" title="View all posts in Random">Random</a></span>
+		                    </div>
+	                        <div class="entry">
+	                            <p><p>There is a lot going on here, perhaps too much, but this serves as a nice example.</p>
+
+
+<p>&lt;% i=0 %&gt;</p>
+
+
+<p>&lt;% for l in @hood.locations %&gt;</p>
+
+
+<p>     &lt;% i=i+1 %&gt;<br />
+        &lt;% if l == @location then %&gt;<br />
+          &lt;% lmain = l.name %&gt;<br />
+          &lt;%= image_tag("http://www.noonchild.com/art/rockstaralley2_41.png") %&gt;<br />
+        &lt;% else %&gt;<br />
+          &lt;%= link_to image_tag("#{l.graflink}", :border=&gt;0, :title =&gt; l.name), :action =&gt; &#039;move&#039;, :id =&gt; l %&gt;<br />
+        &lt;% end %&gt;<br />
+&lt;% end %&gt;&lt;%= lmain %&gt;</p>
+
+
+<p>&lt;% for o in @options -%&gt;<br />
+    &lt;%= link_to_remote( image_tag("#{o.graflink}", :border =&gt; 0, :title =&gt; o.description), {<br />
+        :update =&gt; "current_message",<br />
+        :url =&gt;{ :action =&gt; o.link, :controller =&gt; o.controller },<br />
+        :complete =&gt; {"document.getElementById(&#039;message_answer&#039;).style.display = &#039;block&#039;; document.getElementById(&#039;current_message&#039;).style.display = &#039;block&#039;;Element.update(&#039;option_message&#039;,&#039;#{o.name}&#039;);",<br />
+        remote_function(:update =&gt; &#039;x&#039;,<br />
+                 :url =&gt; { :action =&gt; :set_option, :id =&gt; o })}<br />
+                 },{<br />
+        :onmouseover =&gt; {"Element.update(&#039;option_preview&#039;,&#039;#{o.name}&#039;);<br />
+                    document.getElementById(&#039;option_message&#039;).style.display = &#039;none&#039;; ",<br />
+                    visual_effect(:fade,"flashmessage", :duration =&gt; 2.5 )},<br />
+        :onmouseout =&gt; "Element.update(&#039;option_preview&#039;,&#039;&#039;);document.getElementById(&#039;option_message&#039;).style.display = &#039;block&#039;;"      }<br />
+        ) -%&gt;<br />
+&lt;% end -%&gt;</p>
+
+
+<p>&lt;% start_form_tag :action =&gt; &#039;optin&#039; do |f| -%&gt;<br />
+&lt;%= submit_tag &#039;Say yes.&#039;, :onclick =&gt; "document.getElementById(&#039;ajaxsubmit&#039;).style.display = &#039;inline&#039;;"  %&gt;<br />
+    &lt;% end_form_tag %&gt;&lt;%= image_tag("http://digbox.net/art/ajax-loader.gif", :border=&gt;0) %&gt;<br />
+&lt;% end -%&gt;<br />
+&lt;%= image_tag("http://digbox.net/art/ajax-loader.gif", :border=&gt;0) %&gt;</p>
+
+
+<p><em>Places to go, things to do</em></p>
+
+
+<p>    &lt;% for h in Hood.find(:all) %&gt;<br />
+      &lt;% if h != @hood then %&gt;<br />
+        &lt;%= link_to image_tag("#{h.graflink}", :border=&gt;0), {:action =&gt; &#039;move_hood&#039;, :id =&gt; h}, :onclick =&gt; visual_effect(:Fade,"enthusiasm") %&gt;</p>
+
+
+<p>        &lt;%= h.name %&gt;<br />
+      &lt;% end %&gt;<br />
+    &lt;% end %&gt;</p>
+
+
+<p>     &lt;%= render :partial =&gt; &#039;form&#039; %&gt;</p>
+
+
+<p><a href="http://www.digbox.net/index.php/RoR/a-ruby-view-using-ajax">Original post</a> blogged on <a href="http://codeboxer.com">codeboxer.com</a>.</p>
+
+</p>
+	                        </div><!-- /.entry -->
+		                    <div class="post-more">     
+				                <span class="post-comments comments"><a href="/">
+					            <span class="dsq-postid" rel="2333 http://blog.kristeraxel.com/?p=2333">Comments { 0 }</span></a></span>		
+					        </div>                        	
+	                    </div><!-- /.post -->
+                
+                    </div><!-- /#main -->
+                
+    
+		        </div><!-- /#main-sidebar-container -->         
+
+		       
+
+            </div><!-- /#content -->
+			
+	
+	
+	    <div id="footer" class="col-full">
+
+    <div id="copyright" class="col-left">
+	    <p>&copy; 23 November 2012 Krister Axel. All Rights Reserved. </p>		
+    </div>
+
+    <div id="credit" class="col-right">
+	    <p>powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> and designed by <a href="http://kristeraxel.com">Krister Axel</a></p>		
+    </div>
+
+</div><!-- /#footer  -->
+	
+	    
+	
+	    </div><!-- /#wrapper -->
+	
+	
+
+	</body>
+</html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Krister Axel</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
+		
+        <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+        <!--  Mobile viewport scale -->
+        <meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"/>
+
+        <!-- Custom Favicon -->
+        <link rel="shortcut icon" href="http://blog.kristeraxel.com/wp-content/uploads/2012/11/favicon.ico"/>
+
+
+    </head>
+    <body class="home blog gecko boxed-layout two-col-left width-820 two-col-left-820">
+        <div id="wrapper">
+	    
+	        <div id="header" class="col-full">
+
+   
+    <div id="logo">
+        <a href="/" title="spotlights in the wild">
+            <img src="http://blog.kristeraxel.com/wp-content/uploads/2012/11/header11.jpg" alt="Krister Axel" />
+        </a>
+        <h1 class="site-title"><a href="/">Krister Axel</a></h1>
+        <span class="site-description">spotlights in the wild</span>
+   </div><!-- /#logo -->
+
+   <h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+
+   
+</div><!-- /#header -->
+<div id="navigation" class="col-full">
+	<a href="/"><img id="sub-rss-image" src="/img/feed-icon-32x32.png"></a>
+	<ul id="main-nav" class="nav fl">
+		<li id="menu-item-2302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2302">
+		    <a href="http://blog.kristeraxel.com/info/" >Info</a>
+		</li>
+        <li id="menu-item-2255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255">
+            <a href="http://blog.kristeraxel.com/archive/" >Archive</a>
+        </li>
+        <li id="menu-item-2211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211">
+            <a href="http://blog.kristeraxel.com/banners/" >Banners</a></li>
+        <li id="menu-item-2212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2212">
+            <a href="http://blog.kristeraxel.com/contact/" >Contact</a></li>
+        <li id="menu-item-2213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213">
+            <a href="http://blog.kristeraxel.com/press/" >Press</a></li>
+    </ul>	
+</div><!-- /#navigation -->
+      
+            <!-- #content Starts -->
+	        <div id="content" class="col-full">
+    
+    	        <div id="blog-main">
+		
+                <!-- #main Starts -->
+                    <div id="main" class="col-left">
+            	
+			
+                        <div class="post type-post status-publish format-standard">
+                            <h2 class="title">
+	                            Inexpensive MAX queries in PL SQL
+	                        </h2>
+	                        <div class="post-meta">
+		                        <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
+		                        <span class="small">on</span> <abbr class="date time published" title="2012-11-22T01:45:46+0000">November 22, 2012</abbr>  <span class="small">in</span> <span class="categories"><a href="http://blog.kristeraxel.com/topics/random/" title="View all posts in Random">Random</a></span>
+		                    </div>
+	                        <div class="entry">
+	                            <p><p>This was a trick that one of our contractors showed me here at Monstertrak today. Basically, here&#039;s the gist. you&#039;ve got a join that you need to make, but you only ever want one record to return - you need to restrict the join to return one - and only one - sister record.<br />
+Common logic would have you doing a group by query against said table as a derived table, on the primary key and whatever other field encompasses the info you need to enforce your logic, and doing a self-join against that same table to pull in the rest of the fields you need, and then joining that back against the table you needed to join to in the first place.</p>
+
+
+<p>Here&#039;s what that looks like -</p>
+
+
+<p>SELECT MAIN_TABLE.*, JOIN_TABLE.*<br />
+FROM MAIN_TABLE<br />
+     ,JOIN_TABLE<br />
+     ,(SELECT MAX(ID) ID, USERNAME FROM JOIN_TABLE GROUP BY ID, USERNAME) JOIN_TABLE_GROUP_BY<br />
+WHERE MAIN_TABLE.ID = JOIN_TABLE.FOREIGN_KEY<br />
+AND JOIN_TABLE.ID = JOIN_TABLE_GROUP_BY.ID</p>
+
+
+<p>There is a better way. You can save yourself the self-join by concatenating all of your needed fields into one calculated field, and doing the MAX() calculation with only ONE field in the GROUP BY. You put your criteria field far left, pad it enough to not chop any digits, concatenate in the rest of what you want, and then SUBSTR it back out in the end. Genius.</p>
+
+
+<p>select c.id,<br />
+c.email,<br />
+trim(substr(v.val,13,10)) eaid,<br />
+trim(substr(v.val,23)) username<br />
+from MAIN_TABLE c,<br />
+(select max(rpad(company_id,12)||rpad(id,10)||username) val from JOIN_TABLE ea<br />
+where ea.LAST_LOGIN &gt; &#039;1-JAN-2006&#039;<br />
+group by ea.company_id) v<br />
+where c.id = trim(substr(v.val,1,12))<br />
+and length(c.email) &gt; 3<br />
+order by c.email asc, c.id desc;</p>
+
+</p>
+	                        </div><!-- /.entry -->
+		                    <div class="post-more">     
+				                <span class="post-comments comments"><a href="/">
+					            <span class="dsq-postid" rel="2333 http://blog.kristeraxel.com/?p=2333">Comments { 0 }</span></a></span>		
+					        </div>                        	
+	                    </div><!-- /.post -->
+                
+                    </div><!-- /#main -->
+                
+    
+		        </div><!-- /#main-sidebar-container -->         
+
+		       
+
+            </div><!-- /#content -->
+			
+	
+	
+	    <div id="footer" class="col-full">
+
+    <div id="copyright" class="col-left">
+	    <p>&copy; 23 November 2012 Krister Axel. All Rights Reserved. </p>		
+    </div>
+
+    <div id="credit" class="col-right">
+	    <p>powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> and designed by <a href="http://kristeraxel.com">Krister Axel</a></p>		
+    </div>
+
+</div><!-- /#footer  -->
+	
+	    
+	
+	    </div><!-- /#wrapper -->
+	
+	
+
+	</body>
+</html>
