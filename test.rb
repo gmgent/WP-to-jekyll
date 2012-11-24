@@ -61,12 +61,14 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
           f.puts "layout: blog\n"
           f.puts "title: #{post_item["title"]}\n"
           f.puts "permalink: #{filename}\n"
+          f.puts "postday: #{datearray[1]}/#{datearray[2].to_s[0..1]} #{datearray[0]}\n"
+          f.puts "posttime: #{datearray[2].to_s[3..7].to_s.gsub(':', '_')}\n"
           f.puts "categories: [#{cats.join(', ')}]\n"
           
           f.puts "---"
           f.puts            
             
-          post_text = post_item["encoded"][0].to_s
+          post_text = post_item["encoded"][0]
           
           f.puts post_text
         end

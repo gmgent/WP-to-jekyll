@@ -340,6 +340,21 @@ h6 a:hover {
 /* 1.3 @font-face */
 /* Setup Web Symbols Font */
 
+.archives {
+  margin-top:30px;
+}
+
+/* default is 1em on all */
+.archives > ul {
+  margin-top:0.25em;
+  margin-bottom:1.8em;
+}
+
+.archives > h2 {
+  font-weight: normal;
+  font-size: 14px;
+}
+
 .icon:before,
 .icon:after {
   font-size: 1em;
