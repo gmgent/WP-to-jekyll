@@ -1749,8 +1749,8 @@ img.ui-datepicker-trigger {
   width: 100%;
 }
 
-#blog-main {margin: 0 1.4em 1em 1.4em}
-#main {margin: 0 0 0 2.2em}
+#blog-main {margin: 0 1.4em 1em 0}
+#main {margin: 0 0 0 4.2em}
 
 #connect h3 {
   margin-bottom: 10px;
