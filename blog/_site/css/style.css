@@ -230,7 +230,7 @@ html body * dd.clear {
 /* 1.1 Defaults */
 body {
   padding: 0 1.618em;
-  font: 13px/20px Helvetica, Arial, Sans-serif;
+  font: 15px/20px Georgia, Sans-serif;
   color: #555;
   background-color: #fff;
   -webkit-font-smoothing: antialiased;
@@ -242,7 +242,7 @@ h4,
 h5,
 h6 {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Georgia, sans-serif;
   color: #222;
   font-weight: bold;
 }
@@ -266,7 +266,7 @@ h6 {
 }
 p {
   margin: 0;
-  font: 13px/22px Helvetica, Arial, sans-serif;
+  font: 15px/22px Georgia, sans-serif;
 }
 hr {
   background-color: #e6e6e6;
@@ -360,7 +360,7 @@ h6 a:hover {
   font-size: 1em;
   line-height: 1;
   display: inline-block;
-  font-family: "WebSymbolsRegular";
+  font-family: "Georgia";
 }
 .icon:before {
   margin-right: 0.618em;
@@ -419,12 +419,12 @@ h6 a:hover {
   position: relative;
   top: -0.2em;
   font-size: 0.7em;
-  font-family: "WebSymbolsRegular";
+  font-family: "Georgia";
 }
 /* Sliders */
 .feedback .flex-prev:before,
 .feedback .flex-next:before {
-  font-family: "WebSymbolsRegular";
+  font-family: "Georgia";
 }
 a.flex-prev:before,
 #post-gallery .pagination .jcarousel-prev:before {
@@ -696,7 +696,7 @@ ul.nav ul li.current-menu-item a {
 }
 .post .title,
 .page .title {
-  font: normal bold 26px/26px Helvetica, Arial sans-serif;
+  font: normal bold 26px/26px Georgia, sans-serif;
   margin: 0 0 0.5em;
 }
 .post .title a:link,
@@ -709,7 +709,7 @@ ul.nav ul li.current-menu-item a {
   margin: 0 0 1.8em 0;
   font: 1em/1em sans-serif;
   color: #999;
-  font: 11px/11px Helvetica, Arial, sans-serif;
+  font: 11px/11px Georgia, sans-serif;
 }
 .post-meta .small {
   text-transform: lowercase;
@@ -859,7 +859,7 @@ img.aligncenter {
 .entry .wp-caption-text {
   margin: 0 0 0.3em;
   padding: 0;
-  font: bold 11px/22px Arial, Helvetica, sans-serif;
+  font: bold 11px/22px Georgia, sans-serif;
   text-align: center;
 }
 .entry .wp-caption a {
@@ -1009,12 +1009,12 @@ img.aligncenter {
 .widget h3 {
   margin: 0 0 0.3em 0;
   padding: 0 0 15px;
-  font: normal bold 14px Helvetica, Arial, sans-serif;
+  font: normal bold 14px Georgia, sans-serif;
   color: #555;
   border-bottom: 1px solid #e6e6e6;
 }
 .widget p {
-  font: 12px/20px Arial, Helvetica, sans-serif;
+  font: 12px/20px Georgia, sans-serif;
   margin-bottom: 15px;
 }
 .widget ul {
@@ -1331,12 +1331,12 @@ table#wp-calendar th {
 }
 #tabs .inside li a {
   color: #555;
-  font: bold 13px/18px Helvetica, Arial, sans-serif;
+  font: bold 13px/18px Georgia, sans-serif;
   padding: 0;
 }
 #tabs .inside li span.meta {
   display: block;
-  font: 11px/20px Helvetica, Arial, sans-serif;
+  font: 11px/20px Georgia, sans-serif;
   text-transform: uppercase;
   color: #777;
 }
@@ -1489,7 +1489,7 @@ table#wp-calendar th {
 }
 #commentform input.txt,
 #commentform textarea {
-  font: 14px/14px Arial, Helvetica, sans-serif;
+  font: 14px/14px Georgia, sans-serif;
 }
 #commentform input.txt {
   width: 170px;
@@ -1530,7 +1530,7 @@ body #wrapper #content .button,
 body #wrapper #content .button:visited,
 body #wrapper #content .reply a,
 body #wrapper #content #respond .form-submit input#submit {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Georgia, sans-serif;
   font-weight: bold;
   display: inline-block;
   padding: 9px 14px 9px;

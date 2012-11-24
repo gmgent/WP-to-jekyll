@@ -6,7 +6,7 @@ layout: blog
 <html dir="ltr" lang="en-US">
     <head>
         <meta charset="UTF-8" />
-        <title>Krister Axel</title>
+        <title>Krister Axel | {{ page.title }}</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 		
@@ -39,7 +39,12 @@ layout: blog
                             <h2 class="title">
 	                            {{ page.title }}
 	                        </h2>
-	                        <div class="post-meta">
+	                        
+	                        <div class="entry">
+	                            <p>{{ content }}</p>
+	                        </div><!-- /.entry -->
+	
+							<div class="post-meta">
 		                        <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
 		                        <span class="small">on</span> <abbr class="date time published">{{page.postday}} at {{page.posttime}}</abbr> 
 		                        <span class="small">in</span> 
@@ -48,14 +53,9 @@ layout: blog
 										<a href="/category/{{cat}}/">{{cat}}</a> 
 			                        {% endfor %}
 			                    </span>
-		                    </div>
-	                        <div class="entry">
-	                            <p>{{ content }}</p>
-	                        </div><!-- /.entry -->
-		                    <div class="post-more">     
-				                <span class="post-comments comments"><a href="/">
-					            <span class="dsq-postid" rel="2333 http://blog.kristeraxel.com/?p=2333">Comments { 0 }</span></a></span>		
-					        </div>                        	
+		                    </div>                     	
+
+
 	                    </div><!-- /.post -->
                 
                     </div><!-- /#main -->
