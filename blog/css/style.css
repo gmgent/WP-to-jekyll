@@ -579,7 +579,7 @@ ul.nav ul li.current-menu-item a {
 }
 /* 2.3 Header */
 #header {
-  padding: 5px 0 45px;
+  padding: 5px 0 15px;
   clear: both;
   position: relative;
   background-size: cover;

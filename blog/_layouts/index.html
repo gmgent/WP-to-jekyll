@@ -34,15 +34,24 @@ layout: index
                 <!-- #main Starts -->
                     <div id="main" class="col-left">
             	
-			
-                        <div class="post-2333 post type-post status-publish format-standard hentry category-random">
-                            <h2 class="title">
+						<div class="post type-post status-publish format-standard">
+							<h2 class="title">
 	                            the latest
 	                        </h2>
-	                        <div class="entry">
-	                            <p>{{ content }}</p>
-	                        </div><!-- /.entry -->
-		                                        	
+	
+                            {% for post in site.posts limit:15 %}
+                                <div id="cat_listing" style="padding: 10px;">
+							        <h3><a href="/{{ post.url }}">{{ post.title }}</a></h3>
+							        <p class="teaser_info">{{ post.content }}</p><br/>
+							        <div style="float: right;"><small><em>{{ post.date | date_to_html_string }}</em></small></div>
+							        <div class="categories">
+									    Filed under 
+									    {% for cat in post.categories %}
+										    <a href="/category/{{cat}}/">{{cat}}</a> 
+							            {% endfor %}<hr>
+							        </div>
+								</div>
+							{% endfor %}                        	
 	                    </div><!-- /.post -->
                 
                     </div><!-- /#main -->
