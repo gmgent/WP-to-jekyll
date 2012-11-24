@@ -2,6 +2,8 @@
 layout: blog
 title: sorry ladies there goes your birth control
 permalink: 2009/11/sorry-ladies-there-goes-your-birth-control
+postday: 11/10 2009
+posttime: 22_36
 categories: [Historical]
 ---
 

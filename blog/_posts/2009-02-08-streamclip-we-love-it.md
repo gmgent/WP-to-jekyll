@@ -2,6 +2,8 @@
 layout: blog
 title: Streamclip we love it
 permalink: 2009/02/streamclip-we-love-it
+postday: 02/08 2009
+posttime: 20_49
 categories: [Code]
 ---
 

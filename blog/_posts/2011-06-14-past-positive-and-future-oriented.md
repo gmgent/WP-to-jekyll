@@ -2,6 +2,8 @@
 layout: blog
 title: past positive and future oriented
 permalink: 2011/06/past-positive-and-future-oriented
+postday: 06/14 2011
+posttime: 13_44
 categories: [Brave New World, Journal, Saga]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Back in the studio
 permalink: 2008/02/back-in-the-studio
+postday: 02/20 2008
+posttime: 19_11
 categories: [Historical]
 ---
 

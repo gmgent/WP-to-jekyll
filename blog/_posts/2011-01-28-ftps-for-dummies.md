@@ -2,6 +2,8 @@
 layout: blog
 title: FTPS for dummies
 permalink: 2011/01/ftps-for-dummies
+postday: 01/28 2011
+posttime: 01_29
 categories: [Code]
 ---
 

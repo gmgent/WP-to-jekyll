@@ -2,6 +2,8 @@
 layout: blog
 title: A landscape
 permalink: 2005/09/a-landscape
+postday: 09/25 2005
+posttime: 03_45
 categories: [Poetry]
 ---
 

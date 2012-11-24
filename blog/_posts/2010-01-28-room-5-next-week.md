@@ -2,6 +2,8 @@
 layout: blog
 title: Room 5 next week
 permalink: 2010/01/room-5-next-week
+postday: 01/28 2010
+posttime: 19_56
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: those lying corporations
 permalink: 2012/03/those-lying-corporations
+postday: 03/13 2012
+posttime: 12_26
 categories: [Politics, Propaganda]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: I'll Take It
 permalink: 2008/01/ill-take-it
+postday: 01/07 2008
+posttime: 19_44
 categories: [Historical]
 ---
 

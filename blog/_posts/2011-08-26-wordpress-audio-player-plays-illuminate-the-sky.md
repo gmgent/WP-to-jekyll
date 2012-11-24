@@ -2,6 +2,8 @@
 layout: blog
 title: wordpress audio player plays Illuminate the Sky
 permalink: 2011/08/wordpress-audio-player-plays-illuminate-the-sky
+postday: 08/26 2011
+posttime: 15_28
 categories: [Random]
 ---
 

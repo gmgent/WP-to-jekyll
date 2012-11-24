@@ -2,6 +2,8 @@
 layout: blog
 title: can you believe this?
 permalink: 2008/12/can-you-believe-this
+postday: 12/01 2008
+posttime: 22_22
 categories: [Historical]
 ---
 

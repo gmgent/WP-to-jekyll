@@ -2,6 +2,8 @@
 layout: blog
 title: puppies in the hood
 permalink: 2011/04/puppies-in-the-hood
+postday: 04/07 2011
+posttime: 06_41
 categories: [Journal, Random, Saga]
 ---
 

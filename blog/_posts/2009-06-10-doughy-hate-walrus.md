@@ -2,6 +2,8 @@
 layout: blog
 title: doughy hate walrus
 permalink: 2009/06/doughy-hate-walrus
+postday: 06/10 2009
+posttime: 19_26
 categories: [Historical]
 ---
 

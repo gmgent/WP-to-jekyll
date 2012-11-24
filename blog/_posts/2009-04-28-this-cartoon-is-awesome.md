@@ -2,6 +2,8 @@
 layout: blog
 title: this cartoon is awesome
 permalink: 2009/04/this-cartoon-is-awesome
+postday: 04/28 2009
+posttime: 21_37
 categories: [Historical]
 ---
 

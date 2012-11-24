@@ -2,6 +2,8 @@
 layout: blog
 title: Slow Motion
 permalink: 2002/09/slow-motion
+postday: 09/25 2002
+posttime: 03_41
 categories: [Historical, Poetry]
 ---
 

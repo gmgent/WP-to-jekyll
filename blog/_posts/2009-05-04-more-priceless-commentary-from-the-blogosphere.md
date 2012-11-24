@@ -2,6 +2,8 @@
 layout: blog
 title: more priceless commentary from the blogosphere
 permalink: 2009/05/more-priceless-commentary-from-the-blogosphere
+postday: 05/04 2009
+posttime: 21_38
 categories: [Historical]
 ---
 

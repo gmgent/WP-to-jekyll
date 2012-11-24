@@ -2,6 +2,8 @@
 layout: blog
 title: Another good article to read
 permalink: 2008/09/another-good-article-to-read
+postday: 09/16 2008
+posttime: 17_58
 categories: [Historical]
 ---
 

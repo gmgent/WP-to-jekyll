@@ -2,6 +2,8 @@
 layout: blog
 title: Jeremy Scahill talk about Obama
 permalink: 2009/03/jeremy-scahill-talk-about-obama
+postday: 03/06 2009
+posttime: 01_37
 categories: [Historical]
 ---
 

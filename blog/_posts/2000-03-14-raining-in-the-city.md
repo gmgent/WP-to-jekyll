@@ -2,6 +2,8 @@
 layout: blog
 title: raining in the city
 permalink: 2000/03/raining-in-the-city
+postday: 03/14 2000
+posttime: 16_55
 categories: [Poetry]
 ---
 

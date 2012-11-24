@@ -2,6 +2,8 @@
 layout: blog
 title: a little periodic love
 permalink: 2008/04/a-little-periodic-love
+postday: 04/03 2008
+posttime: 07_18
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Read this if you dare
 permalink: 2007/12/read-this-if-you-dare
+postday: 12/17 2007
+posttime: 23_28
 categories: [Historical]
 ---
 

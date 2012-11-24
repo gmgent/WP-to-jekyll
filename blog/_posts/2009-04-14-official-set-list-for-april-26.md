@@ -2,6 +2,8 @@
 layout: blog
 title: Official set list for April 26
 permalink: 2009/04/official-set-list-for-april-26
+postday: 04/14 2009
+posttime: 17_40
 categories: [Historical]
 ---
 

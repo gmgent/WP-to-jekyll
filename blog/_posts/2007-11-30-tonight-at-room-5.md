@@ -2,6 +2,8 @@
 layout: blog
 title: Tonight at Room 5
 permalink: 2007/11/tonight-at-room-5
+postday: 11/30 2007
+posttime: 20_43
 categories: [Historical]
 ---
 

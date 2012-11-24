@@ -2,6 +2,8 @@
 layout: blog
 title: Perl linux and database backups
 permalink: 2009/01/perl-linux-and-database-backups
+postday: 01/22 2009
+posttime: 00_52
 categories: [Code]
 ---
 

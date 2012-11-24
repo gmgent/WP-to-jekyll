@@ -2,6 +2,8 @@
 layout: blog
 title: And it's over just like that
 permalink: 2011/03/and-its-over-just-like-that
+postday: 03/15 2011
+posttime: 09_50
 categories: [Journal, Saga]
 ---
 

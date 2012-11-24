@@ -2,6 +2,8 @@
 layout: blog
 title: April Sonnet
 permalink: 2007/07/april-sonnet
+postday: 07/17 2007
+posttime: 09_13
 categories: [Poetry]
 ---
 

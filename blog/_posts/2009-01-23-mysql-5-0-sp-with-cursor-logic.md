@@ -2,6 +2,8 @@
 layout: blog
 title: MySQL 5.0 SP with Cursor Logic
 permalink: 2009/01/mysql-5-0-sp-with-cursor-logic
+postday: 01/23 2009
+posttime: 19_43
 categories: [Code]
 ---
 

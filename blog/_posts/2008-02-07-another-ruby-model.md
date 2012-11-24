@@ -2,6 +2,8 @@
 layout: blog
 title: Another Ruby model
 permalink: 2008/02/another-ruby-model
+postday: 02/07 2008
+posttime: 07_47
 categories: [Code]
 ---
 

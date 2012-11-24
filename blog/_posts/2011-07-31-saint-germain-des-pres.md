@@ -2,6 +2,8 @@
 layout: blog
 title: Saint Germain Des Pres
 permalink: 2011/07/saint-germain-des-pres
+postday: 07/31 2011
+posttime: 10_22
 categories: [Journal, Saga]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: regarding Lord Chesterfield
 permalink: 2009/06/regarding-lord-chesterfield
+postday: 06/11 2009
+posttime: 18_48
 categories: [Historical]
 ---
 

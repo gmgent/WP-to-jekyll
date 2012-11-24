@@ -2,6 +2,8 @@
 layout: blog
 title: new EP and web site soon
 permalink: 2010/04/new-ep-and-web-site-soon
+postday: 04/04 2010
+posttime: 22_32
 categories: [Historical]
 ---
 

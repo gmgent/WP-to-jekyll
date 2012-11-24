@@ -2,6 +2,8 @@
 layout: blog
 title: Follow me Friday and music monday
 permalink: 2009/05/follow-me-friday-and-music-monday
+postday: 05/22 2009
+posttime: 18_48
 categories: [Historical]
 ---
 

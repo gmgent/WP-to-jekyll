@@ -2,6 +2,8 @@
 layout: blog
 title: mooshoo pedigree
 permalink: 2012/03/mooshoo-pedigree
+postday: 03/18 2012
+posttime: 17_30
 categories: [Random]
 ---
 

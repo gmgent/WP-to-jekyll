@@ -2,6 +2,8 @@
 layout: blog
 title: Officer Cardona aka the punchy cop
 permalink: 2011/10/officer-cardona-aka-the-punchy-cop
+postday: 10/15 2011
+posttime: 15_30
 categories: [Politics]
 ---
 

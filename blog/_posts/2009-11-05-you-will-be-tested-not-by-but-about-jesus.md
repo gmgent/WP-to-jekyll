@@ -2,6 +2,8 @@
 layout: blog
 title: you will be tested not by but about Jesus
 permalink: 2009/11/you-will-be-tested-not-by-but-about-jesus
+postday: 11/05 2009
+posttime: 23_31
 categories: [Historical]
 ---
 

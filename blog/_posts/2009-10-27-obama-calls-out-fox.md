@@ -2,6 +2,8 @@
 layout: blog
 title: Obama calls out Fox
 permalink: 2009/10/obama-calls-out-fox
+postday: 10/27 2009
+posttime: 18_00
 categories: [Historical]
 ---
 

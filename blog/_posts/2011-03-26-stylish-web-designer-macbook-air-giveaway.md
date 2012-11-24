@@ -2,6 +2,8 @@
 layout: blog
 title: Stylish Web Designer - MacBook Air giveaway
 permalink: 2011/03/stylish-web-designer-macbook-air-giveaway
+postday: 03/26 2011
+posttime: 07_30
 categories: [News]
 ---
 

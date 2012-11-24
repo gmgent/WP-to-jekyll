@@ -2,6 +2,8 @@
 layout: blog
 title: fan video for Georgia Rain
 permalink: 2012/04/fan-video-for-georgia-rain
+postday: 04/13 2012
+posttime: 13_11
 categories: [News]
 ---
 

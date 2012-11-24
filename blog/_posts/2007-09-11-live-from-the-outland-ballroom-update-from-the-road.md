@@ -2,6 +2,8 @@
 layout: blog
 title: live from the Outland Ballroom - update from the road
 permalink: 2007/09/live-from-the-outland-ballroom-update-from-the-road
+postday: 09/11 2007
+posttime: 02_56
 categories: [Historical]
 ---
 

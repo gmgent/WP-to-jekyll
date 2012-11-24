@@ -2,6 +2,8 @@
 layout: blog
 title: fingers crossed
 permalink: 2012/02/fingers-crossed
+postday: 02/28 2012
+posttime: 16_27
 categories: [Brave New World, Random]
 ---
 

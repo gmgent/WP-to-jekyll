@@ -2,6 +2,8 @@
 layout: blog
 title: Sivers is gone and I will probably quit CDBaby
 permalink: 2009/10/sivers-is-gone-and-i-will-probably-quit-cdbaby
+postday: 10/30 2009
+posttime: 20_12
 categories: [Historical]
 ---
 

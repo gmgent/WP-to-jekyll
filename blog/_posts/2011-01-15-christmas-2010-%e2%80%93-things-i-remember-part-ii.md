@@ -2,6 +2,8 @@
 layout: blog
 title: Christmas 2010 - things I remember part II
 permalink: 2011/01/christmas-2010-%e2%80%93-things-i-remember-part-ii
+postday: 01/15 2011
+posttime: 20_50
 categories: [Journal, Saga]
 ---
 

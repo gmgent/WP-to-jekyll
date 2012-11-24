@@ -2,6 +2,8 @@
 layout: blog
 title: polymorphic user list class
 permalink: 2008/12/polymorphic-user-list-class
+postday: 12/04 2008
+posttime: 10_15
 categories: [Code]
 ---
 

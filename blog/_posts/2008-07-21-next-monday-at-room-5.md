@@ -2,6 +2,8 @@
 layout: blog
 title: Next Monday at Room 5
 permalink: 2008/07/next-monday-at-room-5
+postday: 07/21 2008
+posttime: 22_20
 categories: [Historical]
 ---
 

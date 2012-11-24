@@ -2,6 +2,8 @@
 layout: blog
 title: I am completely cocooned
 permalink: 2004/02/i-am-completely-cocooned
+postday: 02/08 2004
+posttime: 18_36
 categories: [Journal, Saga]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: add aggregates to a group by
 permalink: 2008/12/add-aggregates-to-a-group-by
+postday: 12/09 2008
+posttime: 23_02
 categories: [Code]
 ---
 

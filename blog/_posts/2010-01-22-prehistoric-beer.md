@@ -2,6 +2,8 @@
 layout: blog
 title: prehistoric beer
 permalink: 2010/01/prehistoric-beer
+postday: 01/22 2010
+posttime: 01_34
 categories: [Historical]
 ---
 

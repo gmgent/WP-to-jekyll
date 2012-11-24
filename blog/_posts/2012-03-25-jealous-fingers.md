@@ -2,6 +2,8 @@
 layout: blog
 title: jealous fingers
 permalink: 2012/03/jealous-fingers
+postday: 03/25 2012
+posttime: 23_28
 categories: [Poetry]
 ---
 

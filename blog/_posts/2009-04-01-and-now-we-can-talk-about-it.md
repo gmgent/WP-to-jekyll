@@ -2,6 +2,8 @@
 layout: blog
 title: and now we can talk about it
 permalink: 2009/04/and-now-we-can-talk-about-it
+postday: 04/01 2009
+posttime: 11_01
 categories: [Historical]
 ---
 

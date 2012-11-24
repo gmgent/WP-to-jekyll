@@ -2,6 +2,8 @@
 layout: blog
 title: east of hollywood relinked for the podcast
 permalink: 2012/04/east-of-hollywood-relinked-for-the-podcast
+postday: 04/24 2012
+posttime: 00_16
 categories: [RockstarAlley]
 ---
 

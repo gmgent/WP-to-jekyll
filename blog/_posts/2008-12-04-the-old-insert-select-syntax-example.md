@@ -2,6 +2,8 @@
 layout: blog
 title: The old INSERT SELECT syntax example
 permalink: 2008/12/the-old-insert-select-syntax-example
+postday: 12/04 2008
+posttime: 10_29
 categories: [Code]
 ---
 

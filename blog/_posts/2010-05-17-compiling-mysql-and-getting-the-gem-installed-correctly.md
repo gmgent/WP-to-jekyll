@@ -2,6 +2,8 @@
 layout: blog
 title: compiling mysql and getting the gem installed correctly
 permalink: 2010/05/compiling-mysql-and-getting-the-gem-installed-correctly
+postday: 05/17 2010
+posttime: 22_45
 categories: [Code]
 ---
 

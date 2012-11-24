@@ -2,6 +2,8 @@
 layout: blog
 title: Krister Axel at the Derby
 permalink: 2007/07/krister-axel-at-the-derby
+postday: 07/08 2007
+posttime: 00_13
 categories: [Historical]
 ---
 

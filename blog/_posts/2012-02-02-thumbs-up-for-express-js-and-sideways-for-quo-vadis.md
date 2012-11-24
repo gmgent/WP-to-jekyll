@@ -2,6 +2,8 @@
 layout: blog
 title: thumbs up for express js and sideways for quo vadis
 permalink: 2012/02/thumbs-up-for-express-js-and-sideways-for-quo-vadis
+postday: 02/02 2012
+posttime: 14_11
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: cap and trade is bollocks
 permalink: 2009/12/cap-and-trade-is-bollocks
+postday: 12/15 2009
+posttime: 18_37
 categories: [Historical]
 ---
 

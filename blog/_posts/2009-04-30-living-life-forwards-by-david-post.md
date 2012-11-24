@@ -2,6 +2,8 @@
 layout: blog
 title: Living Life Forwards by David Post
 permalink: 2009/04/living-life-forwards-by-david-post
+postday: 04/30 2009
+posttime: 08_29
 categories: [Historical]
 ---
 

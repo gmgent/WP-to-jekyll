@@ -2,6 +2,8 @@
 layout: blog
 title: As Good As Love
 permalink: 2004/01/as-good-as-love
+postday: 01/13 2004
+posttime: 08_54
 categories: [Poetry]
 ---
 

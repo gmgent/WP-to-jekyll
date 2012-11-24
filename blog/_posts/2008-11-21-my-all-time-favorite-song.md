@@ -2,6 +2,8 @@
 layout: blog
 title: My all-time favorite song
 permalink: 2008/11/my-all-time-favorite-song
+postday: 11/21 2008
+posttime: 23_43
 categories: [Historical]
 ---
 

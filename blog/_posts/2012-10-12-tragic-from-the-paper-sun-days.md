@@ -2,6 +2,8 @@
 layout: blog
 title: Tragic from the Paper Sun days
 permalink: 2012/10/tragic-from-the-paper-sun-days
+postday: 10/12 2012
+posttime: 13_20
 categories: [RockstarAlley]
 ---
 

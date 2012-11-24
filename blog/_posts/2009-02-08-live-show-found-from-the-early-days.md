@@ -2,6 +2,8 @@
 layout: blog
 title: Live show found from the early days
 permalink: 2009/02/live-show-found-from-the-early-days
+postday: 02/08 2009
+posttime: 21_37
 categories: [Historical]
 ---
 

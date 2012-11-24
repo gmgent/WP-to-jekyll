@@ -2,6 +2,8 @@
 layout: blog
 title: scared and unprotected
 permalink: 2000/10/scared-and-unprotected
+postday: 10/25 2000
+posttime: 17_09
 categories: [Historical]
 ---
 

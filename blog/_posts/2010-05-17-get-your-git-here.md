@@ -2,6 +2,8 @@
 layout: blog
 title: get your git here
 permalink: 2010/05/get-your-git-here
+postday: 05/17 2010
+posttime: 22_46
 categories: [Code]
 ---
 

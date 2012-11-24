@@ -2,6 +2,8 @@
 layout: blog
 title: more discussion of faith
 permalink: 2009/06/more-discussion-of-faith
+postday: 06/15 2009
+posttime: 08_30
 categories: [Historical]
 ---
 

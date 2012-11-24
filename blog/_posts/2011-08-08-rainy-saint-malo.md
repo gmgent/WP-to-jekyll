@@ -2,6 +2,8 @@
 layout: blog
 title: rainy Saint Malo
 permalink: 2011/08/rainy-saint-malo
+postday: 08/08 2011
+posttime: 17_51
 categories: [Journal, Saga]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: greshams dynamic
 permalink: 2009/08/greshams-dynamic
+postday: 08/17 2009
+posttime: 20_14
 categories: [Historical]
 ---
 

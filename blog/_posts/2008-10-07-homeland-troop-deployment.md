@@ -2,6 +2,8 @@
 layout: blog
 title: Homeland Troop Deployment
 permalink: 2008/10/homeland-troop-deployment
+postday: 10/07 2008
+posttime: 08_10
 categories: [Historical]
 ---
 

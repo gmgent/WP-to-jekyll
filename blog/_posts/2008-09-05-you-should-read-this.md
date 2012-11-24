@@ -2,6 +2,8 @@
 layout: blog
 title: you should read this
 permalink: 2008/09/you-should-read-this
+postday: 09/05 2008
+posttime: 07_32
 categories: [Historical]
 ---
 

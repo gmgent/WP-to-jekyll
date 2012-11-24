@@ -2,6 +2,8 @@
 layout: blog
 title: Obamas hatchet man Geithner
 permalink: 2009/04/obamas-hatchet-man-geithner
+postday: 04/30 2009
+posttime: 23_56
 categories: [Historical]
 ---
 

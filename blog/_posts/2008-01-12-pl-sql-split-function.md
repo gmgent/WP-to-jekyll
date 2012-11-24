@@ -2,6 +2,8 @@
 layout: blog
 title: PL SQL split function
 permalink: 2008/01/pl-sql-split-function
+postday: 01/12 2008
+posttime: 07_29
 categories: [Code]
 ---
 

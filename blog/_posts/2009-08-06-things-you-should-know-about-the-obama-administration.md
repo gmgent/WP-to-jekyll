@@ -2,6 +2,8 @@
 layout: blog
 title: things you should know about the Obama administration
 permalink: 2009/08/things-you-should-know-about-the-obama-administration
+postday: 08/06 2009
+posttime: 18_46
 categories: [Historical]
 ---
 

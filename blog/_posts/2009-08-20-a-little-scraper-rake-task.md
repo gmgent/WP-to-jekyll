@@ -2,6 +2,8 @@
 layout: blog
 title: a little scraper rake task
 permalink: 2009/08/a-little-scraper-rake-task
+postday: 08/20 2009
+posttime: 20_16
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: javascript for fun and profit
 permalink: 2010/08/javascript-for-fun-and-profit
+postday: 08/13 2010
+posttime: 19_19
 categories: [Code]
 ---
 

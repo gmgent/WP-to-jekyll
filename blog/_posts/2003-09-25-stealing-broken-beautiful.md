@@ -2,6 +2,8 @@
 layout: blog
 title: Stealing broken beautiful
 permalink: 2003/09/stealing-broken-beautiful
+postday: 09/25 2003
+posttime: 03_48
 categories: [Poetry]
 ---
 

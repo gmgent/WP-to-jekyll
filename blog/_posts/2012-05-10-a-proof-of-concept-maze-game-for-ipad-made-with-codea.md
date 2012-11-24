@@ -2,6 +2,8 @@
 layout: blog
 title: a proof of concept maze game for ipad made with codea
 permalink: 2012/05/a-proof-of-concept-maze-game-for-ipad-made-with-codea
+postday: 05/10 2012
+posttime: 11_48
 categories: [Code]
 ---
 

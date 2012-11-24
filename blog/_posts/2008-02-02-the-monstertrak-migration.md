@@ -2,6 +2,8 @@
 layout: blog
 title: the Monstertrak migration
 permalink: 2008/02/the-monstertrak-migration
+postday: 02/02 2008
+posttime: 07_37
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Mademoiselle de la Dance
 permalink: 2012/07/mademoiselle-de-la-dance
+postday: 07/13 2012
+posttime: 23_30
 categories: [Poetry]
 ---
 

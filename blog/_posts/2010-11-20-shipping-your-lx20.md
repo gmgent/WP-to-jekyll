@@ -2,6 +2,8 @@
 layout: blog
 title: shipping your LX20
 permalink: 2010/11/shipping-your-lx20
+postday: 11/20 2010
+posttime: 01_40
 categories: [Code]
 ---
 

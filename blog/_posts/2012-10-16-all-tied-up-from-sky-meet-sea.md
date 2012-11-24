@@ -2,6 +2,8 @@
 layout: blog
 title: All Tied Up from Sky Meet Sea
 permalink: 2012/10/all-tied-up-from-sky-meet-sea
+postday: 10/16 2012
+posttime: 09_46
 categories: [RockstarAlley]
 ---
 

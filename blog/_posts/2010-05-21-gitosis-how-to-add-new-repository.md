@@ -2,6 +2,8 @@
 layout: blog
 title: gitosis and how to add new repository
 permalink: 2010/05/gitosis-how-to-add-new-repository
+postday: 05/21 2010
+posttime: 17_41
 categories: [Code]
 ---
 

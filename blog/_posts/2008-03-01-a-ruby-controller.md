@@ -2,6 +2,8 @@
 layout: blog
 title: A Ruby controller
 permalink: 2008/03/a-ruby-controller
+postday: 03/01 2008
+posttime: 07_49
 categories: [Code]
 ---
 

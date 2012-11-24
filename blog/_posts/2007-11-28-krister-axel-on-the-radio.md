@@ -2,6 +2,8 @@
 layout: blog
 title: Krister Axel on the radio
 permalink: 2007/11/krister-axel-on-the-radio
+postday: 11/28 2007
+posttime: 02_44
 categories: [Historical]
 ---
 

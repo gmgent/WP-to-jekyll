@@ -2,6 +2,8 @@
 layout: blog
 title: Heidi Montag has no brain
 permalink: 2008/04/heidi-montag-has-no-brain
+postday: 04/22 2008
+posttime: 19_25
 categories: [Historical]
 ---
 

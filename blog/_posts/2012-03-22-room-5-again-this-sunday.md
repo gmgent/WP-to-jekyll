@@ -2,6 +2,8 @@
 layout: blog
 title: Room 5 again this Sunday
 permalink: 2012/03/room-5-again-this-sunday
+postday: 03/22 2012
+posttime: 16_04
 categories: [Journal, News, Saga]
 ---
 

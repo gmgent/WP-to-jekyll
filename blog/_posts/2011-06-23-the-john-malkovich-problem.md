@@ -2,6 +2,8 @@
 layout: blog
 title: The John Malkovich problem
 permalink: 2011/06/the-john-malkovich-problem
+postday: 06/23 2011
+posttime: 16_35
 categories: [Random]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Jeremy Scahill - read this
 permalink: 2008/11/jeremy-scahill-read-this
+postday: 11/21 2008
+posttime: 01_13
 categories: [Historical]
 ---
 

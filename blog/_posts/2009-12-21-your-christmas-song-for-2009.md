@@ -2,6 +2,8 @@
 layout: blog
 title: your christmas song for 2009
 permalink: 2009/12/your-christmas-song-for-2009
+postday: 12/21 2009
+posttime: 22_39
 categories: [RockstarAlley]
 ---
 

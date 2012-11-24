@@ -2,6 +2,8 @@
 layout: blog
 title: Obama and Clinton Pudding
 permalink: 2008/02/obama-and-clinton-pudding
+postday: 02/19 2008
+posttime: 19_35
 categories: [Historical]
 ---
 

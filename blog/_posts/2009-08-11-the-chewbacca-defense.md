@@ -2,6 +2,8 @@
 layout: blog
 title: the Chewbacca defense
 permalink: 2009/08/the-chewbacca-defense
+postday: 08/11 2009
+posttime: 08_43
 categories: [Historical]
 ---
 

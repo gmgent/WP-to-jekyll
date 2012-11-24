@@ -2,6 +2,8 @@
 layout: blog
 title: Hunting bird
 permalink: 2004/09/hunting-bird
+postday: 09/25 2004
+posttime: 03_50
 categories: [Poetry]
 ---
 

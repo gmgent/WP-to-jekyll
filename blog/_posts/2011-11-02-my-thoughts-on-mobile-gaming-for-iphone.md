@@ -2,6 +2,8 @@
 layout: blog
 title: my thoughts on mobile gaming for iPhone
 permalink: 2011/11/my-thoughts-on-mobile-gaming-for-iphone
+postday: 11/02 2011
+posttime: 16_42
 categories: [Games]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: who is this guy?
 permalink: 2012/06/who-is-this-guy
+postday: 06/20 2012
+posttime: 12_26
 categories: [Random]
 ---
 

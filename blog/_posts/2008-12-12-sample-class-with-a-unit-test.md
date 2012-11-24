@@ -2,6 +2,8 @@
 layout: blog
 title: Sample class with a unit test
 permalink: 2008/12/sample-class-with-a-unit-test
+postday: 12/12 2008
+posttime: 18_40
 categories: [Code]
 ---
 

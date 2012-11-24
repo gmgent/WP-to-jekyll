@@ -2,6 +2,8 @@
 layout: blog
 title: he's very smug
 permalink: 2008/02/hes-very-smug
+postday: 02/13 2008
+posttime: 18_59
 categories: [Historical]
 ---
 

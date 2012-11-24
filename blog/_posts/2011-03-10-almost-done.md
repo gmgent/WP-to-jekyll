@@ -2,6 +2,8 @@
 layout: blog
 title: almost done
 permalink: 2011/03/almost-done
+postday: 03/10 2011
+posttime: 06_22
 categories: [News]
 ---
 

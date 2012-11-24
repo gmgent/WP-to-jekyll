@@ -2,6 +2,8 @@
 layout: blog
 title: good stuff on remote rsync
 permalink: 2009/04/good-stuff-on-remote-rsync
+postday: 04/23 2009
+posttime: 01_15
 categories: [Code]
 ---
 

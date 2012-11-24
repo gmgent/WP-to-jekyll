@@ -2,6 +2,8 @@
 layout: blog
 title: this is all we need to know
 permalink: 2009/12/this-is-all-we-need-to-know
+postday: 12/13 2009
+posttime: 18_37
 categories: [Historical]
 ---
 

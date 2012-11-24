@@ -2,6 +2,8 @@
 layout: blog
 title: Just in case you're still not aware
 permalink: 2007/12/just-in-case-youre-still-not-aware
+postday: 12/17 2007
+posttime: 18_45
 categories: [Historical]
 ---
 

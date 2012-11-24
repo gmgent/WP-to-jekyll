@@ -2,6 +2,8 @@
 layout: blog
 title: Rails Playground a short review
 permalink: 2008/07/rails-playground-a-short-review
+postday: 07/29 2008
+posttime: 08_06
 categories: [Code]
 ---
 

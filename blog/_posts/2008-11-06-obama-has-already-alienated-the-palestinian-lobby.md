@@ -2,6 +2,8 @@
 layout: blog
 title: Obama has already alienated the Palestinian lobby
 permalink: 2008/11/obama-has-already-alienated-the-palestinian-lobby
+postday: 11/06 2008
+posttime: 23_32
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: fun with closures
 permalink: 2010/07/fun-with-closures
+postday: 07/09 2010
+posttime: 00_20
 categories: [Code]
 ---
 

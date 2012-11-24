@@ -2,6 +2,8 @@
 layout: blog
 title: running the half marathon
 permalink: 2012/06/running-the-half-marathon
+postday: 06/20 2012
+posttime: 12_22
 categories: [Journal, Photo, Saga]
 ---
 

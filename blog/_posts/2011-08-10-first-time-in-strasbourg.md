@@ -2,6 +2,8 @@
 layout: blog
 title: first time in Strasbourg
 permalink: 2011/08/first-time-in-strasbourg
+postday: 08/10 2011
+posttime: 16_11
 categories: [Journal, Saga]
 ---
 

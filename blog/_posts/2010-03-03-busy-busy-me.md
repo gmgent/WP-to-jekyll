@@ -2,6 +2,8 @@
 layout: blog
 title: busy busy me
 permalink: 2010/03/busy-busy-me
+postday: 03/03 2010
+posttime: 03_18
 categories: [Historical]
 ---
 

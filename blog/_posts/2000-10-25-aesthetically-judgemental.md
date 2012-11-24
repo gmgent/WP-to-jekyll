@@ -2,6 +2,8 @@
 layout: blog
 title: aesthetically judgemental
 permalink: 2000/10/aesthetically-judgemental
+postday: 10/25 2000
+posttime: 16_16
 categories: [Historical]
 ---
 

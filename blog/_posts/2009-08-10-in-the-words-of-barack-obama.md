@@ -2,6 +2,8 @@
 layout: blog
 title: in the words of barack obama
 permalink: 2009/08/in-the-words-of-barack-obama
+postday: 08/10 2009
+posttime: 18_33
 categories: [Historical]
 ---
 

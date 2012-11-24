@@ -2,6 +2,8 @@
 layout: blog
 title: the end of theaxelvault.com
 permalink: 2011/03/the-end-of-theaxelvault-com
+postday: 03/22 2011
+posttime: 00_15
 categories: [News]
 ---
 

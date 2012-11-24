@@ -2,6 +2,8 @@
 layout: blog
 title: fascinating scientology documentary
 permalink: 2009/06/fascinating-scientology-documentary
+postday: 06/04 2009
+posttime: 20_11
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: They Were Always Teabaggers To Me
 permalink: 2011/03/they-were-always-teabaggers-to-me
+postday: 03/13 2011
+posttime: 07_39
 categories: [Politics, Propaganda]
 ---
 

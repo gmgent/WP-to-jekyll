@@ -2,6 +2,8 @@
 layout: blog
 title: Hollywood half marathon 2012
 permalink: 2012/04/hollywood-half-marathon-2012
+postday: 04/08 2012
+posttime: 13_45
 categories: [News, Random]
 ---
 

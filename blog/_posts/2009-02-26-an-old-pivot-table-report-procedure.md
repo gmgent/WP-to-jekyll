@@ -2,6 +2,8 @@
 layout: blog
 title: an old pivot table report procedure
 permalink: 2009/02/an-old-pivot-table-report-procedure
+postday: 02/26 2009
+posttime: 18_24
 categories: [Code]
 ---
 

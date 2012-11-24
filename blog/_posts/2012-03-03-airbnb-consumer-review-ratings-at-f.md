@@ -2,6 +2,8 @@
 layout: blog
 title: airbnb consumer review ratings at F
 permalink: 2012/03/airbnb-consumer-review-ratings-at-f
+postday: 03/03 2012
+posttime: 17_23
 categories: [airbnb, complaint, disaster, host, review, Reviews, scam]
 ---
 

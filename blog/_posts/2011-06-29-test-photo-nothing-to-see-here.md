@@ -2,6 +2,8 @@
 layout: blog
 title: test photo nothing to see here
 permalink: 2011/06/test-photo-nothing-to-see-here
+postday: 06/29 2011
+posttime: 17_37
 categories: [Journal, Random]
 ---
 

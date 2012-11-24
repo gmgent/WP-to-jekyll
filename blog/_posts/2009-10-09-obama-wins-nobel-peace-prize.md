@@ -2,6 +2,8 @@
 layout: blog
 title: Obama Wins nobel Peace Prize
 permalink: 2009/10/obama-wins-nobel-peace-prize
+postday: 10/09 2009
+posttime: 18_57
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Natalie Portman being hot in Your Highness
 permalink: 2012/07/natalie-portman-being-hot-in-your-highness
+postday: 07/03 2012
+posttime: 00_59
 categories: [Random]
 ---
 

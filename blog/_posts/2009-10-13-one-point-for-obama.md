@@ -2,6 +2,8 @@
 layout: blog
 title: one point for Obama
 permalink: 2009/10/one-point-for-obama
+postday: 10/13 2009
+posttime: 18_59
 categories: [Historical]
 ---
 

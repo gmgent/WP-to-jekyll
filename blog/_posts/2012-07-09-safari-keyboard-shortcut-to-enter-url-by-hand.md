@@ -2,6 +2,8 @@
 layout: blog
 title: safari keyboard shortcut to enter url by hand
 permalink: 2012/07/safari-keyboard-shortcut-to-enter-url-by-hand
+postday: 07/09 2012
+posttime: 15_32
 categories: [Code]
 ---
 

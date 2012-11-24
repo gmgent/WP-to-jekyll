@@ -2,6 +2,8 @@
 layout: blog
 title: the cover of Sky Meet Sea
 permalink: 2012/01/the-cover-of-sky-meet-sea
+postday: 01/24 2012
+posttime: 19_24
 categories: [News]
 ---
 

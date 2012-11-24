@@ -2,6 +2,8 @@
 layout: blog
 title: gzip for dummies
 permalink: 2010/05/gzip-for-dummies
+postday: 05/18 2010
+posttime: 21_13
 categories: [Code]
 ---
 

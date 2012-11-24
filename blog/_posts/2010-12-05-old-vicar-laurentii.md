@@ -2,6 +2,8 @@
 layout: blog
 title: Old Vicar Laurentii
 permalink: 2010/12/old-vicar-laurentii
+postday: 12/05 2010
+posttime: 22_57
 categories: [Origins, Saga]
 ---
 

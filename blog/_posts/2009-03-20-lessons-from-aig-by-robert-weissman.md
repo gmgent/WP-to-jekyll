@@ -2,6 +2,8 @@
 layout: blog
 title: Lessons from AIG by Robert Weissman
 permalink: 2009/03/lessons-from-aig-by-robert-weissman
+postday: 03/20 2009
+posttime: 21_30
 categories: [Historical]
 ---
 

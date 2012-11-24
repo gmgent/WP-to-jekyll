@@ -2,6 +2,8 @@
 layout: blog
 title: we need to be talking about Iran
 permalink: 2009/06/we-need-to-be-talking-about-iran
+postday: 06/16 2009
+posttime: 04_04
 categories: [Historical]
 ---
 

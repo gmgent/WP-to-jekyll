@@ -2,6 +2,8 @@
 layout: blog
 title: thumbs up for multiple revenue streams
 permalink: 2012/07/thumbs-up-for-multiple-revenue-streams
+postday: 07/16 2012
+posttime: 14_18
 categories: [News]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: USA first world nation with third world life expectancy
 permalink: 2009/09/usa-first-world-nation-with-third-world-life-expectancy
+postday: 09/01 2009
+posttime: 01_37
 categories: [Historical]
 ---
 

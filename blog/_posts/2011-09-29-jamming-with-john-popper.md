@@ -2,6 +2,8 @@
 layout: blog
 title: jamming with John Popper
 permalink: 2011/09/jamming-with-john-popper
+postday: 09/29 2011
+posttime: 18_45
 categories: [Historical, Journal, News, Saga]
 ---
 

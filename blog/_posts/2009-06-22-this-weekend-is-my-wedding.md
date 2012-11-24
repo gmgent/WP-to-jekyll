@@ -2,6 +2,8 @@
 layout: blog
 title: This weekend is my wedding
 permalink: 2009/06/this-weekend-is-my-wedding
+postday: 06/22 2009
+posttime: 18_16
 categories: [Historical]
 ---
 

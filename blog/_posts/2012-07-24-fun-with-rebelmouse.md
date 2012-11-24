@@ -2,6 +2,8 @@
 layout: blog
 title: fun with rebelmouse
 permalink: 2012/07/fun-with-rebelmouse
+postday: 07/24 2012
+posttime: 13_10
 categories: [Random]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Jackson Browne kicks ass
 permalink: 2010/02/jackson-browne-kicks-ass
+postday: 02/14 2010
+posttime: 07_48
 categories: [Historical]
 ---
 

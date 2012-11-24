@@ -2,6 +2,8 @@
 layout: blog
 title: Ruby find_by_sql and a select statement
 permalink: 2008/12/ruby-find_by_sql-and-a-select-statement
+postday: 12/04 2008
+posttime: 10_05
 categories: [Code]
 ---
 

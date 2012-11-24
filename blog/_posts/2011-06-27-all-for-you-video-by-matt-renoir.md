@@ -2,6 +2,8 @@
 layout: blog
 title: All For You video by Matt Renoir
 permalink: 2011/06/all-for-you-video-by-matt-renoir
+postday: 06/27 2011
+posttime: 12_23
 categories: [Brave New World, Journal, News, Saga, Videos]
 ---
 

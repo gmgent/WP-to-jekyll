@@ -2,6 +2,8 @@
 layout: blog
 title: things that make you go - what?
 permalink: 2008/10/things-that-make-you-go-what
+postday: 10/04 2008
+posttime: 06_12
 categories: [Historical]
 ---
 

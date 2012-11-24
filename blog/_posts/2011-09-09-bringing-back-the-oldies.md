@@ -2,6 +2,8 @@
 layout: blog
 title: bringing back the oldies
 permalink: 2011/09/bringing-back-the-oldies
+postday: 09/09 2011
+posttime: 15_29
 categories: [RockstarAlley]
 ---
 

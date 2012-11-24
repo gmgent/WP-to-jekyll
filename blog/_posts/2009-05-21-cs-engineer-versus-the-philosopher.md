@@ -2,6 +2,8 @@
 layout: blog
 title: cs engineer versus the philosopher
 permalink: 2009/05/cs-engineer-versus-the-philosopher
+postday: 05/21 2009
+posttime: 23_03
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: the milk story
 permalink: 2001/01/the-milk-story
+postday: 01/18 2001
+posttime: 16_19
 categories: [Historical]
 ---
 

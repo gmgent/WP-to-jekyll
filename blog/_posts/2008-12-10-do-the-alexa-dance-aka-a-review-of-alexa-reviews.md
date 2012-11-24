@@ -2,6 +2,8 @@
 layout: blog
 title: Do the Alexa Dance aka a review of Alexa reviews
 permalink: 2008/12/do-the-alexa-dance-aka-a-review-of-alexa-reviews
+postday: 12/10 2008
+posttime: 22_22
 categories: [Code]
 ---
 

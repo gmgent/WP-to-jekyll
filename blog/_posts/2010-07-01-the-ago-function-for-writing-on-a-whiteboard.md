@@ -2,6 +2,8 @@
 layout: blog
 title: the ago function for writing on a whiteboard
 permalink: 2010/07/the-ago-function-for-writing-on-a-whiteboard
+postday: 07/01 2010
+posttime: 23_08
 categories: [Code]
 ---
 

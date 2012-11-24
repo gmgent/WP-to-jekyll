@@ -2,6 +2,8 @@
 layout: blog
 title: Reductio ad Absurdum
 permalink: 2010/08/reductio-ad-absurdum
+postday: 08/27 2010
+posttime: 00_16
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Top 5 sql query with other included
 permalink: 2009/03/top-5-sql-query-with-other-included
+postday: 03/20 2009
+posttime: 23_25
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Gear for sale
 permalink: 2011/04/gear-for-sale
+postday: 04/12 2011
+posttime: 01_25
 categories: [Random]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: i missed writing sql
 permalink: 2009/03/i-missed-writing-sql
+postday: 03/25 2009
+posttime: 07_17
 categories: [Code]
 ---
 

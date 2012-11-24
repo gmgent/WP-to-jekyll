@@ -2,6 +2,8 @@
 layout: blog
 title: Working on Sunset
 permalink: 2007/09/working-on-sunset
+postday: 09/30 2007
+posttime: 08_10
 categories: [Poetry]
 ---
 

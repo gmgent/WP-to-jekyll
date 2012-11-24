@@ -2,6 +2,8 @@
 layout: blog
 title: iphone wallet case christmas ideas
 permalink: 2011/11/iphone-wallet-case-christmas-ideas
+postday: 11/21 2011
+posttime: 23_47
 categories: [Random]
 ---
 

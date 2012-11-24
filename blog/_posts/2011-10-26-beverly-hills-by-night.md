@@ -2,6 +2,8 @@
 layout: blog
 title: beverly hills by night
 permalink: 2011/10/beverly-hills-by-night
+postday: 10/26 2011
+posttime: 01_19
 categories: [Journal, Photo]
 ---
 

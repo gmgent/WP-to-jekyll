@@ -2,6 +2,8 @@
 layout: blog
 title: I had to check in today
 permalink: 2009/12/i-had-to-check-in-today
+postday: 12/14 2009
+posttime: 19_45
 categories: [Code]
 ---
 

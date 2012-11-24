@@ -2,6 +2,8 @@
 layout: blog
 title: you cannot argue with stupid
 permalink: 2009/11/you-cannot-argue-with-stupid
+postday: 11/09 2009
+posttime: 19_34
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: yeah right
 permalink: 2012/04/yeah-right
+postday: 04/13 2012
+posttime: 02_18
 categories: [Politics, Propaganda, Random]
 ---
 

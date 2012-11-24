@@ -2,6 +2,8 @@
 layout: blog
 title: the twevolution
 permalink: 2009/05/the-twevolution
+postday: 05/20 2009
+posttime: 21_49
 categories: [Historical]
 ---
 

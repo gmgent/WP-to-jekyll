@@ -2,6 +2,8 @@
 layout: blog
 title: Paulson the Reverse Robin Hood
 permalink: 2008/10/paulson-the-reverse-robin-hood
+postday: 10/26 2008
+posttime: 20_27
 categories: [Historical]
 ---
 

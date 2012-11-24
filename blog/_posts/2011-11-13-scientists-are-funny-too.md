@@ -2,6 +2,8 @@
 layout: blog
 title: scientists are funny too
 permalink: 2011/11/scientists-are-funny-too
+postday: 11/13 2011
+posttime: 16_40
 categories: [Random]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: a soft porous bowl
 permalink: 2009/04/a-soft-porous-bowl
+postday: 04/08 2009
+posttime: 22_45
 categories: [Historical]
 ---
 

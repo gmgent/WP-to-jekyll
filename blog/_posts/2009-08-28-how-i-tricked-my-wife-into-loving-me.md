@@ -2,6 +2,8 @@
 layout: blog
 title: how I tricked my wife into loving me
 permalink: 2009/08/how-i-tricked-my-wife-into-loving-me
+postday: 08/28 2009
+posttime: 20_04
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Through the Forest
 permalink: 2009/11/through-the-forest
+postday: 11/30 2009
+posttime: 00_29
 categories: [RockstarAlley]
 ---
 

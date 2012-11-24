@@ -2,6 +2,8 @@
 layout: blog
 title: it begins again
 permalink: 2009/12/it-begins-again
+postday: 12/19 2009
+posttime: 08_32
 categories: [Historical]
 ---
 

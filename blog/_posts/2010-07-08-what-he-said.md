@@ -2,6 +2,8 @@
 layout: blog
 title: what he said
 permalink: 2010/07/what-he-said
+postday: 07/08 2010
+posttime: 20_43
 categories: [Historical]
 ---
 

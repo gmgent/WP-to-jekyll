@@ -2,6 +2,8 @@
 layout: blog
 title: quick and dirty rake ci script
 permalink: 2011/02/quick-and-dirty-rake-ci-script
+postday: 02/27 2011
+posttime: 20_51
 categories: [Code]
 ---
 

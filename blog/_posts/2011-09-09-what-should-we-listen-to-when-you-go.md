@@ -2,6 +2,8 @@
 layout: blog
 title: what should we listen to when you go
 permalink: 2011/09/what-should-we-listen-to-when-you-go
+postday: 09/09 2011
+posttime: 12_30
 categories: [Brave New World, Origins, Saga]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: After the Derby
 permalink: 2007/07/after-the-derby
+postday: 07/12 2007
+posttime: 06_06
 categories: [Poetry]
 ---
 

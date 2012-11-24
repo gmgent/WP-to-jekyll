@@ -2,6 +2,8 @@
 layout: blog
 title: My venerable podcast (1st anniversary)
 permalink: 2008/12/my-venerable-podcast-1st-anniversary
+postday: 12/10 2008
+posttime: 19_04
 categories: [Historical]
 ---
 

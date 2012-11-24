@@ -2,6 +2,8 @@
 layout: blog
 title: the way I resonate with my target audience
 permalink: 2012/05/the-way-i-resonate-with-my-target-audience
+postday: 05/03 2012
+posttime: 15_04
 categories: [News]
 ---
 

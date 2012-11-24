@@ -2,6 +2,8 @@
 layout: blog
 title: i love this site
 permalink: 2008/08/i-love-this-site
+postday: 08/29 2008
+posttime: 08_20
 categories: [Historical]
 ---
 

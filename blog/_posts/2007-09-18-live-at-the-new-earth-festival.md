@@ -2,6 +2,8 @@
 layout: blog
 title: Live at the New Earth Festival
 permalink: 2007/09/live-at-the-new-earth-festival
+postday: 09/18 2007
+posttime: 05_15
 categories: [Historical]
 ---
 

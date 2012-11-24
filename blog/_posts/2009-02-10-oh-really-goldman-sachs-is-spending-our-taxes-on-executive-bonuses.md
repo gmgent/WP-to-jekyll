@@ -2,6 +2,8 @@
 layout: blog
 title: Oh really? Goldman Sachs is spending our taxes on executive bonuses.
 permalink: 2009/02/oh-really-goldman-sachs-is-spending-our-taxes-on-executive-bonuses
+postday: 02/10 2009
+posttime: 18_27
 categories: [Historical]
 ---
 

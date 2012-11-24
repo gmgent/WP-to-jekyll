@@ -2,6 +2,8 @@
 layout: blog
 title: Before you turn away
 permalink: 2009/04/Before-you-turn-away
+postday: 04/14 2009
+posttime: 21_56
 categories: [Poetry]
 ---
 

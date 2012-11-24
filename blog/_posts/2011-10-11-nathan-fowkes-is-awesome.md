@@ -2,6 +2,8 @@
 layout: blog
 title: Nathan Fowkes is awesome
 permalink: 2011/10/nathan-fowkes-is-awesome
+postday: 10/11 2011
+posttime: 15_04
 categories: [News]
 ---
 

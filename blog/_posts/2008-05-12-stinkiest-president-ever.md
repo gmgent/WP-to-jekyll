@@ -2,6 +2,8 @@
 layout: blog
 title: Stinkiest president ever
 permalink: 2008/05/stinkiest-president-ever
+postday: 05/12 2008
+posttime: 19_24
 categories: [Historical]
 ---
 

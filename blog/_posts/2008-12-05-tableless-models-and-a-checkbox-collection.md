@@ -2,6 +2,8 @@
 layout: blog
 title: Tableless models and a checkbox collection
 permalink: 2008/12/tableless-models-and-a-checkbox-collection
+postday: 12/05 2008
+posttime: 01_44
 categories: [Code]
 ---
 

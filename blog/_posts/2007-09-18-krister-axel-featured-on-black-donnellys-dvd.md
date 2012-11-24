@@ -2,6 +2,8 @@
 layout: blog
 title: Krister Axel featured on Black Donnellys DVD
 permalink: 2007/09/krister-axel-featured-on-black-donnellys-dvd
+postday: 09/18 2007
+posttime: 00_02
 categories: [Historical]
 ---
 

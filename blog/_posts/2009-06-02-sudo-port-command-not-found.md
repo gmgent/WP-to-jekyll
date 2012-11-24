@@ -2,6 +2,8 @@
 layout: blog
 title: sudo port command not found
 permalink: 2009/06/sudo-port-command-not-found
+postday: 06/02 2009
+posttime: 02_32
 categories: [Code]
 ---
 

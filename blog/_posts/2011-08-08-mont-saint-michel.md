@@ -2,6 +2,8 @@
 layout: blog
 title: Mont Saint Michel
 permalink: 2011/08/mont-saint-michel
+postday: 08/08 2011
+posttime: 17_20
 categories: [Journal, Saga]
 ---
 

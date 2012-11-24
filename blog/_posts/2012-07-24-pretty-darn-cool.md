@@ -2,6 +2,8 @@
 layout: blog
 title: pretty darn cool
 permalink: 2012/07/pretty-darn-cool
+postday: 07/24 2012
+posttime: 23_37
 categories: [News]
 ---
 

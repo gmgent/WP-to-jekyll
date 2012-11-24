@@ -2,6 +2,8 @@
 layout: blog
 title: Illuminate the Sky
 permalink: 2004/01/illuminate-the-sky
+postday: 01/12 2004
+posttime: 08_49
 categories: [Poetry]
 ---
 

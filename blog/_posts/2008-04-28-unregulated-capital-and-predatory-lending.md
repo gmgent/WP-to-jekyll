@@ -2,6 +2,8 @@
 layout: blog
 title: Unregulated capital and predatory lending
 permalink: 2008/04/unregulated-capital-and-predatory-lending
+postday: 04/28 2008
+posttime: 08_54
 categories: [Historical]
 ---
 

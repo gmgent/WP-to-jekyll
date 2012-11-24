@@ -2,6 +2,8 @@
 layout: blog
 title: Why I am still mad at my Playstation 3
 permalink: 2011/11/why-i-am-still-mad-at-my-playstation-3
+postday: 11/02 2011
+posttime: 15_18
 categories: [Games]
 ---
 

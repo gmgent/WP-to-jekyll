@@ -2,6 +2,8 @@
 layout: blog
 title: sarah palin gives dumb a bad name
 permalink: 2009/08/sarah-palin-gives-dumb-a-bad-name
+postday: 08/10 2009
+posttime: 23_18
 categories: [Historical]
 ---
 

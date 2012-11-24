@@ -2,6 +2,8 @@
 layout: blog
 title: do not fry the ghost
 permalink: 2011/09/do-not-fry-the-ghost
+postday: 09/20 2011
+posttime: 11_58
 categories: [Random]
 ---
 

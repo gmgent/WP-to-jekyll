@@ -2,6 +2,8 @@
 layout: blog
 title: like you say your name
 permalink: 2000/03/like-you-say-your-name
+postday: 03/14 2000
+posttime: 16_58
 categories: [Poetry]
 ---
 

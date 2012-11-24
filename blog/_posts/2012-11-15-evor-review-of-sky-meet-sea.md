@@ -2,6 +2,8 @@
 layout: blog
 title: EVOR review of Sky Meet Sea
 permalink: 2012/11/evor-review-of-sky-meet-sea
+postday: 11/15 2012
+posttime: 19_59
 categories: [Brave New World, News, Saga]
 ---
 

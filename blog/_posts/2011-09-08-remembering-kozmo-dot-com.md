@@ -2,6 +2,8 @@
 layout: blog
 title: remembering kozmo dot com
 permalink: 2011/09/remembering-kozmo-dot-com
+postday: 09/08 2011
+posttime: 13_37
 categories: [Random]
 ---
 

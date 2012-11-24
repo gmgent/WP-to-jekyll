@@ -2,6 +2,8 @@
 layout: blog
 title: crossroads
 permalink: 2003/02/crossroads
+postday: 02/04 2003
+posttime: 02_51
 categories: [Journal, Saga]
 ---
 

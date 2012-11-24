@@ -2,6 +2,8 @@
 layout: blog
 title: tunnel of love
 permalink: 2009/04/tunnel-of-love
+postday: 04/23 2009
+posttime: 21_43
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: lyrics to Rain On Me
 permalink: 2009/04/lyrics-to-Rain-On-Me
+postday: 04/07 2009
+posttime: 18_01
 categories: [Poetry]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: this is kind of a big deal
 permalink: 2012/07/this-is-kind-of-a-big-deal
+postday: 07/10 2012
+posttime: 16_29
 categories: [News]
 ---
 

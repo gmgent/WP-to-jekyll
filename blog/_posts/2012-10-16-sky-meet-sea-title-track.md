@@ -2,6 +2,8 @@
 layout: blog
 title: Sky Meet Sea album title track
 permalink: 2012/10/sky-meet-sea-title-track
+postday: 10/16 2012
+posttime: 09_38
 categories: [RockstarAlley]
 ---
 

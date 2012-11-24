@@ -2,6 +2,8 @@
 layout: blog
 title: asynchronous javascript FTW
 permalink: 2008/11/asynchronous-javascript-ftw
+postday: 11/18 2008
+posttime: 10_54
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: What he said
 permalink: 2008/02/what-he-said-2
+postday: 02/15 2008
+posttime: 22_09
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: trickle down my arse
 permalink: 2009/12/trickle-down-my-arse
+postday: 12/17 2009
+posttime: 20_43
 categories: [Historical, Politics]
 ---
 

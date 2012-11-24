@@ -2,6 +2,8 @@
 layout: blog
 title: Congress members that don't suck
 permalink: 2008/10/congress-members-that-dont-suck
+postday: 10/09 2008
+posttime: 18_04
 categories: [Historical]
 ---
 

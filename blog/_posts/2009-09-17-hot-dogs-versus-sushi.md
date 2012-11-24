@@ -2,6 +2,8 @@
 layout: blog
 title: Hot dogs versus sushi
 permalink: 2009/09/hot-dogs-versus-sushi
+postday: 09/17 2009
+posttime: 19_39
 categories: [Historical]
 ---
 

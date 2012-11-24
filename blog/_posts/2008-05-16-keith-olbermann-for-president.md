@@ -2,6 +2,8 @@
 layout: blog
 title: Keith Olbermann for President
 permalink: 2008/05/keith-olbermann-for-president
+postday: 05/16 2008
+posttime: 00_03
 categories: [Historical]
 ---
 

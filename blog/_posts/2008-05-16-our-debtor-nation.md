@@ -2,6 +2,8 @@
 layout: blog
 title: Our Debtor Nation
 permalink: 2008/05/our-debtor-nation
+postday: 05/16 2008
+posttime: 00_59
 categories: [Historical]
 ---
 

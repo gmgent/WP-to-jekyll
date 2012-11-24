@@ -2,6 +2,8 @@
 layout: blog
 title: All For You
 permalink: 2011/01/all-for-you
+postday: 01/30 2011
+posttime: 18_38
 categories: [RockstarAlley]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: again with the fingers crossed
 permalink: 2012/03/again-with-the-fingers-crossed
+postday: 03/19 2012
+posttime: 13_33
 categories: [Random]
 ---
 

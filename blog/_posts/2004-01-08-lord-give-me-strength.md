@@ -2,6 +2,8 @@
 layout: blog
 title: Lord give me strength
 permalink: 2004/01/lord-give-me-strength
+postday: 01/08 2004
+posttime: 22_37
 categories: [Journal, Saga]
 ---
 

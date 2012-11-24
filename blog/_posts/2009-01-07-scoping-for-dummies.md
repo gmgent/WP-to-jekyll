@@ -2,6 +2,8 @@
 layout: blog
 title: scoping for dummies
 permalink: 2009/01/scoping-for-dummies
+postday: 01/07 2009
+posttime: 01_30
 categories: [Code]
 ---
 

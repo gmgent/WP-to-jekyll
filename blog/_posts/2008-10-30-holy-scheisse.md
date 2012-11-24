@@ -2,6 +2,8 @@
 layout: blog
 title: Holy Scheisse
 permalink: 2008/10/holy-scheisse
+postday: 10/30 2008
+posttime: 19_17
 categories: [Historical]
 ---
 

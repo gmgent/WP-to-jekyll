@@ -2,6 +2,8 @@
 layout: blog
 title: September
 permalink: 1996/10/september
+postday: 10/09 1996
+posttime: 08_25
 categories: [Poetry]
 ---
 

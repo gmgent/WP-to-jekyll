@@ -2,6 +2,8 @@
 layout: blog
 title: Mac vs PC oy the controversy
 permalink: 2009/02/mac-vs-pc-oy-the-controversy
+postday: 02/05 2009
+posttime: 23_33
 categories: [Code]
 ---
 

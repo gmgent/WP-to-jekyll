@@ -2,6 +2,8 @@
 layout: blog
 title: ask me anything about Georgia
 permalink: 2011/11/ask-me-anything-about-georgia
+postday: 11/09 2011
+posttime: 12_58
 categories: [Random]
 ---
 

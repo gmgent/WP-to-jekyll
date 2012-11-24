@@ -2,6 +2,8 @@
 layout: blog
 title: the canzone
 permalink: 2012/07/the-canzone
+postday: 07/10 2012
+posttime: 02_06
 categories: [Poetry, Random]
 ---
 

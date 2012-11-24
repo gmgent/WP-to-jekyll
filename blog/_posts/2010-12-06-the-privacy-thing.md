@@ -2,6 +2,8 @@
 layout: blog
 title: Brave New World
 permalink: 2010/12/the-privacy-thing
+postday: 12/06 2010
+posttime: 06_19
 categories: [Brave New World, Saga]
 ---
 

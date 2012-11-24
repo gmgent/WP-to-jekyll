@@ -2,6 +2,8 @@
 layout: blog
 title: Blog posts from 2007
 permalink: 2008/01/blog-posts-from-2007
+postday: 01/01 2008
+posttime: 06_08
 categories: [Historical, Journal, Saga]
 ---
 

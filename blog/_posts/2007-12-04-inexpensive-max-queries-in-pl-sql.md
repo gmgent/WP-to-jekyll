@@ -2,6 +2,8 @@
 layout: blog
 title: Inexpensive MAX queries in PL SQL
 permalink: 2007/12/inexpensive-max-queries-in-pl-sql
+postday: 12/04 2007
+posttime: 07_24
 categories: [Code]
 ---
 

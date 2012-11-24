@@ -2,6 +2,8 @@
 layout: blog
 title: the problem with literal theism
 permalink: 2012/02/the-problem-with-literal-theism
+postday: 02/13 2012
+posttime: 04_01
 categories: [Random]
 ---
 

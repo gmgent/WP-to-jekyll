@@ -2,6 +2,8 @@
 layout: blog
 title: California Sky
 permalink: 1999/09/california-sky
+postday: 09/09 1999
+posttime: 17_07
 categories: [Poetry]
 ---
 

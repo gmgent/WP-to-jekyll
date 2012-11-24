@@ -2,6 +2,8 @@
 layout: blog
 title: kristeraxel dot onesheet dot com
 permalink: 2011/08/kristeraxel-dot-onesheet-dot-com
+postday: 08/08 2011
+posttime: 16_27
 categories: [Brave New World, News, Saga]
 ---
 

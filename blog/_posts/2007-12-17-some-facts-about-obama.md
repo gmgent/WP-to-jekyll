@@ -2,6 +2,8 @@
 layout: blog
 title: Some Facts About Obama
 permalink: 2007/12/some-facts-about-obama
+postday: 12/17 2007
+posttime: 19_41
 categories: [Historical]
 ---
 

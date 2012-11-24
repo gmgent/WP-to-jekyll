@@ -2,6 +2,8 @@
 layout: blog
 title: a week in Europe
 permalink: 2012/02/a-week-in-europe
+postday: 02/11 2012
+posttime: 01_23
 categories: [Journal, Photo, Saga]
 ---
 

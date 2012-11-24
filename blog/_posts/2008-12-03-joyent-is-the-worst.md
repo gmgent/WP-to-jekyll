@@ -2,6 +2,8 @@
 layout: blog
 title: JOYENT IS THE WORST
 permalink: 2008/12/joyent-is-the-worst
+postday: 12/03 2008
+posttime: 05_16
 categories: [Code]
 ---
 

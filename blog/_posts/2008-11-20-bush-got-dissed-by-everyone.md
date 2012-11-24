@@ -2,6 +2,8 @@
 layout: blog
 title: Bush got dissed by everyone
 permalink: 2008/11/bush-got-dissed-by-everyone
+postday: 11/20 2008
+posttime: 19_39
 categories: [Historical]
 ---
 

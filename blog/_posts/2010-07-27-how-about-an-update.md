@@ -2,6 +2,8 @@
 layout: blog
 title: how about an update
 permalink: 2010/07/how-about-an-update
+postday: 07/27 2010
+posttime: 05_33
 categories: [Historical]
 ---
 

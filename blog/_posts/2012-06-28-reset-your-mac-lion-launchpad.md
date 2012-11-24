@@ -2,6 +2,8 @@
 layout: blog
 title: reset your mac lion launchpad
 permalink: 2012/06/reset-your-mac-lion-launchpad
+postday: 06/28 2012
+posttime: 22_20
 categories: [Code, Random]
 ---
 

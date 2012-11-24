@@ -2,6 +2,8 @@
 layout: blog
 title: Leaving Tomorrow + a video
 permalink: 2007/09/leaving-tomorrow-a-video
+postday: 09/07 2007
+posttime: 18_16
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: new albums this year
 permalink: 2009/04/new-albums-this-year
+postday: 04/06 2009
+posttime: 18_42
 categories: [Historical]
 ---
 

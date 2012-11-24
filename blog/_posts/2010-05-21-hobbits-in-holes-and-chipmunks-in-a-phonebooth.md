@@ -2,6 +2,8 @@
 layout: blog
 title: hobbits in holes and chipmunks in a phonebooth
 permalink: 2010/05/hobbits-in-holes-and-chipmunks-in-a-phonebooth
+postday: 05/21 2010
+posttime: 18_01
 categories: [Code]
 ---
 

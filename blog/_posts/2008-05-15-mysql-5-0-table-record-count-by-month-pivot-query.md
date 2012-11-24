@@ -2,6 +2,8 @@
 layout: blog
 title: MySQL 5.0 Table Record Count By Month Pivot Query
 permalink: 2008/05/mysql-5-0-table-record-count-by-month-pivot-query
+postday: 05/15 2008
+posttime: 07_44
 categories: [Code]
 ---
 

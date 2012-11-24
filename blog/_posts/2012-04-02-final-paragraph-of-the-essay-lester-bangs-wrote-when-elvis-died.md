@@ -2,6 +2,8 @@
 layout: blog
 title: final paragraph of the essay Lester Bangs wrote when Elvis died
 permalink: 2012/04/final-paragraph-of-the-essay-lester-bangs-wrote-when-elvis-died
+postday: 04/02 2012
+posttime: 00_25
 categories: [Random]
 ---
 

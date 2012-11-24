@@ -2,6 +2,8 @@
 layout: blog
 title: cutest puppy ever
 permalink: 2011/03/cutest-puppy-ever
+postday: 03/19 2011
+posttime: 00_34
 categories: [Journal, Saga]
 ---
 

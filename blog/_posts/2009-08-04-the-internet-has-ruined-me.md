@@ -2,6 +2,8 @@
 layout: blog
 title: the internet has ruined me
 permalink: 2009/08/the-internet-has-ruined-me
+postday: 08/04 2009
+posttime: 00_27
 categories: [Historical]
 ---
 

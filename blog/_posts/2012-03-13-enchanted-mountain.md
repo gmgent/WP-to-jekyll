@@ -2,6 +2,8 @@
 layout: blog
 title: enchanted mountain
 permalink: 2012/03/enchanted-mountain
+postday: 03/13 2012
+posttime: 13_23
 categories: [Journal, Random, Saga]
 ---
 

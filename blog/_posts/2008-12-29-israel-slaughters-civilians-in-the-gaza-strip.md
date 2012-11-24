@@ -2,6 +2,8 @@
 layout: blog
 title: Israel slaughters civilians in the Gaza strip
 permalink: 2008/12/israel-slaughters-civilians-in-the-gaza-strip
+postday: 12/29 2008
+posttime: 20_02
 categories: [Historical]
 ---
 

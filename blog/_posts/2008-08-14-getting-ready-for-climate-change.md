@@ -2,6 +2,8 @@
 layout: blog
 title: Getting ready for climate change
 permalink: 2008/08/getting-ready-for-climate-change
+postday: 08/14 2008
+posttime: 18_47
 categories: [Historical]
 ---
 

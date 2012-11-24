@@ -2,6 +2,8 @@
 layout: blog
 title: fix your ssh permissions
 permalink: 2012/06/fix-your-ssh-permissions
+postday: 06/28 2012
+posttime: 13_38
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: And we are moving again
 permalink: 2011/03/and-we-are-moving-again
+postday: 03/28 2011
+posttime: 20_29
 categories: [News]
 ---
 

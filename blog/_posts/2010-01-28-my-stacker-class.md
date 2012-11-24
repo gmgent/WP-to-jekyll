@@ -2,6 +2,8 @@
 layout: blog
 title: my stacker class
 permalink: 2010/01/my-stacker-class
+postday: 01/28 2010
+posttime: 23_21
 categories: [Code]
 ---
 

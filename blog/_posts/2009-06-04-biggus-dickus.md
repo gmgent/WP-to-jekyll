@@ -2,6 +2,8 @@
 layout: blog
 title: biggus dickus
 permalink: 2009/06/biggus-dickus
+postday: 06/04 2009
+posttime: 22_32
 categories: [Historical]
 ---
 

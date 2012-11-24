@@ -2,6 +2,8 @@
 layout: blog
 title: I will not write about Idol
 permalink: 2009/05/i-will-not-write-about-idol
+postday: 05/22 2009
+posttime: 18_16
 categories: [Historical]
 ---
 

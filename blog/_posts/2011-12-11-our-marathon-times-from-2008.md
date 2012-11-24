@@ -2,6 +2,8 @@
 layout: blog
 title: our marathon times from 2008
 permalink: 2011/12/our-marathon-times-from-2008
+postday: 12/11 2011
+posttime: 19_24
 categories: [Historical, Random]
 ---
 

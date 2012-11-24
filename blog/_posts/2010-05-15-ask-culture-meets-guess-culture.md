@@ -2,6 +2,8 @@
 layout: blog
 title: Ask Culture meets Guess Culture
 permalink: 2010/05/ask-culture-meets-guess-culture
+postday: 05/15 2010
+posttime: 19_53
 categories: [Historical, Random]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: round to function for ruby float class
 permalink: 2009/09/round-to-function-for-ruby-float-class
+postday: 09/17 2009
+posttime: 22_25
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: the mars rover assignment
 permalink: 2010/08/the-mars-rover-assignment
+postday: 08/03 2010
+posttime: 21_11
 categories: [Code]
 ---
 

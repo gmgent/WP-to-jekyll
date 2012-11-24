@@ -2,6 +2,8 @@
 layout: blog
 title: fun with eval
 permalink: 2012/09/fun-with-eval
+postday: 09/16 2012
+posttime: 13_46
 categories: [Code]
 ---
 

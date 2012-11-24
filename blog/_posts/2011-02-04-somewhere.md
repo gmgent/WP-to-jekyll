@@ -2,6 +2,8 @@
 layout: blog
 title: Somewhere
 permalink: 2011/02/somewhere
+postday: 02/04 2011
+posttime: 01_32
 categories: [RockstarAlley]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: We will soon have puppy
 permalink: 2011/01/we-will-soon-have-puppy
+postday: 01/30 2011
+posttime: 07_33
 categories: [Journal, Saga]
 ---
 

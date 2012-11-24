@@ -2,6 +2,8 @@
 layout: blog
 title: WGU entrance essay
 permalink: 2012/04/wgu-entrance-essay
+postday: 04/08 2012
+posttime: 10_53
 categories: [Random]
 ---
 

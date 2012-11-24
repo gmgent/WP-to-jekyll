@@ -2,6 +2,8 @@
 layout: blog
 title: Why I love California
 permalink: 2008/01/why-i-love-california
+postday: 01/09 2008
+posttime: 01_14
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: gem install id3lib ruby mac command
 permalink: 2009/02/gem-install-id3lib-ruby-mac-command
+postday: 02/18 2009
+posttime: 01_37
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: don't call me anymore
 permalink: 2000/08/dont-call-me-anymore
+postday: 08/17 2000
+posttime: 17_37
 categories: [Historical, Poetry]
 ---
 

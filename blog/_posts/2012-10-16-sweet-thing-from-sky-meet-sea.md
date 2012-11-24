@@ -2,6 +2,8 @@
 layout: blog
 title: Sweet Thing from Sky Meet Sea
 permalink: 2012/10/sweet-thing-from-sky-meet-sea
+postday: 10/16 2012
+posttime: 09_33
 categories: [RockstarAlley]
 ---
 

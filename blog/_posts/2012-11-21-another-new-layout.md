@@ -2,6 +2,8 @@
 layout: blog
 title: another new layout
 permalink: 2012/11/another-new-layout
+postday: 11/21 2012
+posttime: 22_36
 categories: [News]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: through the freeze
 permalink: 1997/04/i-wrote-this-12-years-ago
+postday: 04/07 1997
+posttime: 18_31
 categories: [Poetry]
 ---
 

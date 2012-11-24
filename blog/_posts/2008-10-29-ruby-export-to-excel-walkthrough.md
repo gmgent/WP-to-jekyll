@@ -2,6 +2,8 @@
 layout: blog
 title: Ruby export to excel walkthrough
 permalink: 2008/10/ruby-export-to-excel-walkthrough
+postday: 10/29 2008
+posttime: 09_42
 categories: [Code]
 ---
 

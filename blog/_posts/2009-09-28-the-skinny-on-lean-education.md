@@ -2,6 +2,8 @@
 layout: blog
 title: The skinny on Lean education
 permalink: 2009/09/the-skinny-on-lean-education
+postday: 09/28 2009
+posttime: 18_06
 categories: [Historical]
 ---
 

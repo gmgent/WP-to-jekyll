@@ -2,6 +2,8 @@
 layout: blog
 title: hoping beyond hope on radio paradise
 permalink: 2012/10/hoping-beyond-hope-radio-paradise
+postday: 10/16 2012
+posttime: 18_49
 categories: [Brave New World, News, Random, Saga]
 ---
 

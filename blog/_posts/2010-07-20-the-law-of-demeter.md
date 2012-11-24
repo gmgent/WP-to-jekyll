@@ -2,6 +2,8 @@
 layout: blog
 title: the Law of Demeter
 permalink: 2010/07/the-law-of-demeter
+postday: 07/20 2010
+posttime: 19_15
 categories: [Code]
 ---
 

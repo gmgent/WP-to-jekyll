@@ -2,6 +2,8 @@
 layout: blog
 title: ok, last one
 permalink: 2008/09/ok-last-one
+postday: 09/16 2008
+posttime: 19_22
 categories: [Historical]
 ---
 

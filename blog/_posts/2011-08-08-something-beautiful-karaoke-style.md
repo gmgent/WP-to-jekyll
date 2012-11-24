@@ -2,6 +2,8 @@
 layout: blog
 title: Something Beautiful karaoke style
 permalink: 2011/08/something-beautiful-karaoke-style
+postday: 08/08 2011
+posttime: 16_29
 categories: [Brave New World, Journal, News, Saga, Videos]
 ---
 

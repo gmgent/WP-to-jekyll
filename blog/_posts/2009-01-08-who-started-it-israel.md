@@ -2,6 +2,8 @@
 layout: blog
 title: Who started it? Israel...
 permalink: 2009/01/who-started-it-israel
+postday: 01/08 2009
+posttime: 19_37
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Got gigs? How about some Farmers' cheese?
 permalink: 2008/05/got-gigs-how-about-some-farmers-cheese
+postday: 05/05 2008
+posttime: 18_27
 categories: [Historical]
 ---
 

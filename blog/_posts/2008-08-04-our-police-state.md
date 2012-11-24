@@ -2,6 +2,8 @@
 layout: blog
 title: Our police state
 permalink: 2008/08/our-police-state
+postday: 08/04 2008
+posttime: 18_58
 categories: [Historical]
 ---
 

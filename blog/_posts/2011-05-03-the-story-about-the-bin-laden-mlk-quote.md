@@ -2,6 +2,8 @@
 layout: blog
 title: the story about the Bin Laden MLK quote
 permalink: 2011/05/the-story-about-the-bin-laden-mlk-quote
+postday: 05/03 2011
+posttime: 13_31
 categories: [Politics, Random]
 ---
 

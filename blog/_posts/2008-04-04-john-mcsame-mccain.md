@@ -2,6 +2,8 @@
 layout: blog
 title: John "McSame" McCain
 permalink: 2008/04/john-mcsame-mccain
+postday: 04/04 2008
+posttime: 00_02
 categories: [Historical]
 ---
 

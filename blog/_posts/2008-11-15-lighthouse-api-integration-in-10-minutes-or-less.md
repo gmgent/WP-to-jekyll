@@ -2,6 +2,8 @@
 layout: blog
 title: Lighthouse API integration in 10 minutes or less
 permalink: 2008/11/lighthouse-api-integration-in-10-minutes-or-less
+postday: 11/15 2008
+posttime: 10_45
 categories: [Code]
 ---
 

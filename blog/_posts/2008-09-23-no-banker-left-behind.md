@@ -2,6 +2,8 @@
 layout: blog
 title: No Banker Left Behind
 permalink: 2008/09/no-banker-left-behind
+postday: 09/23 2008
+posttime: 18_02
 categories: [Historical]
 ---
 

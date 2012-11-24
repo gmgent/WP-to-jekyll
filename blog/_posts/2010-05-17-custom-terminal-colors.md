@@ -2,6 +2,8 @@
 layout: blog
 title: custom terminal colors
 permalink: 2010/05/custom-terminal-colors
+postday: 05/17 2010
+posttime: 19_42
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: free download True Believer by Krister Axel
 permalink: 2012/04/free-download-true-believer-by-krister-axel
+postday: 04/15 2012
+posttime: 23_02
 categories: [News]
 ---
 

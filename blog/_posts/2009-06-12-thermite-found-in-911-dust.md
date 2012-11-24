@@ -2,6 +2,8 @@
 layout: blog
 title: thermite found in 911 dust
 permalink: 2009/06/thermite-found-in-911-dust
+postday: 06/12 2009
+posttime: 23_17
 categories: [Historical]
 ---
 

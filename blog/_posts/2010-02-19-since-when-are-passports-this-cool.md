@@ -2,6 +2,8 @@
 layout: blog
 title: since when are passports this cool
 permalink: 2010/02/since-when-are-passports-this-cool
+postday: 02/19 2010
+posttime: 04_25
 categories: [Historical]
 ---
 

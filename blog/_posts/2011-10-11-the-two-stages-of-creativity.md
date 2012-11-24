@@ -2,6 +2,8 @@
 layout: blog
 title: the two stages of creativity
 permalink: 2011/10/the-two-stages-of-creativity
+postday: 10/11 2011
+posttime: 16_59
 categories: [Brave New World, Random]
 ---
 

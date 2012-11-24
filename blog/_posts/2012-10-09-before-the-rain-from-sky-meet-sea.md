@@ -2,6 +2,8 @@
 layout: blog
 title: Before the Rain from Sky Meet Sea
 permalink: 2012/10/before-the-rain-from-sky-meet-sea
+postday: 10/09 2012
+posttime: 15_31
 categories: [RockstarAlley]
 ---
 

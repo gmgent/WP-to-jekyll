@@ -2,6 +2,8 @@
 layout: blog
 title: watch out for airbnb
 permalink: 2012/04/watch-out-for-airbnb
+postday: 04/23 2012
+posttime: 10_50
 categories: [airbnb, complaint, disaster, host, review, Reviews]
 ---
 

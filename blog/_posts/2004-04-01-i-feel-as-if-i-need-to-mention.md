@@ -2,6 +2,8 @@
 layout: blog
 title: I feel as if I need to mention
 permalink: 2004/04/i-feel-as-if-i-need-to-mention
+postday: 04/01 2004
+posttime: 18_22
 categories: [Journal, Saga]
 ---
 

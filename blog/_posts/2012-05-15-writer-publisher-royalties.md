@@ -2,6 +2,8 @@
 layout: blog
 title: writer publisher royalties
 permalink: 2012/05/writer-publisher-royalties
+postday: 05/15 2012
+posttime: 13_52
 categories: [Journal, Random, Saga]
 ---
 

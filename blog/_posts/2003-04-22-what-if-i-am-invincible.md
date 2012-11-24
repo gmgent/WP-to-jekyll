@@ -2,6 +2,8 @@
 layout: blog
 title: What if I am invincible
 permalink: 2003/04/what-if-i-am-invincible
+postday: 04/22 2003
+posttime: 18_29
 categories: [Journal, Saga]
 ---
 

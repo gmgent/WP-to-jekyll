@@ -2,6 +2,8 @@
 layout: blog
 title: We have corroboration
 permalink: 2011/01/we-have-corroboration
+postday: 01/28 2011
+posttime: 01_48
 categories: [Origins, Saga]
 ---
 

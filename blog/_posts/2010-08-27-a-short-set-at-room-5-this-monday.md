@@ -2,6 +2,8 @@
 layout: blog
 title: a short set at Room 5 this Monday
 permalink: 2010/08/a-short-set-at-room-5-this-monday
+postday: 08/27 2010
+posttime: 06_29
 categories: [Historical]
 ---
 

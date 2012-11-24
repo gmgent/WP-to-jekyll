@@ -2,6 +2,8 @@
 layout: blog
 title: ack in project bundle for Textmate
 permalink: 2012/07/ack-in-project-bundle-for-textmate
+postday: 07/03 2012
+posttime: 13_52
 categories: [Code]
 ---
 

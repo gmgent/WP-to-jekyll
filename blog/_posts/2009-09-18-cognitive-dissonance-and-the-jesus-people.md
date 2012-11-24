@@ -2,6 +2,8 @@
 layout: blog
 title: cognitive dissonance and the Jesus people
 permalink: 2009/09/cognitive-dissonance-and-the-jesus-people
+postday: 09/18 2009
+posttime: 19_39
 categories: [Historical]
 ---
 

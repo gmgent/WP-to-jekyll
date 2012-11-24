@@ -2,6 +2,8 @@
 layout: blog
 title: The Stone Bishop
 permalink: 2011/07/the-stone-bishop
+postday: 07/31 2011
+posttime: 14_35
 categories: [Brave New World, Origins, Saga]
 ---
 

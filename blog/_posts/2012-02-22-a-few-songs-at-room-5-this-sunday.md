@@ -2,6 +2,8 @@
 layout: blog
 title: a few songs at Room 5 this Sunday
 permalink: 2012/02/a-few-songs-at-room-5-this-sunday
+postday: 02/22 2012
+posttime: 13_03
 categories: [News]
 ---
 

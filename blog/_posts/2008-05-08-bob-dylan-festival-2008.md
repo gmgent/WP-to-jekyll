@@ -2,6 +2,8 @@
 layout: blog
 title: Bob Dylan Festival 2008
 permalink: 2008/05/bob-dylan-festival-2008
+postday: 05/08 2008
+posttime: 20_29
 categories: [Historical]
 ---
 

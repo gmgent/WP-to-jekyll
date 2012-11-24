@@ -2,6 +2,8 @@
 layout: blog
 title: another point for Obama
 permalink: 2009/10/another-point-for-obama
+postday: 10/19 2009
+posttime: 21_34
 categories: [Historical]
 ---
 

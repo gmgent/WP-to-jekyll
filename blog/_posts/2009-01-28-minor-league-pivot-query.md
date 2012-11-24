@@ -2,6 +2,8 @@
 layout: blog
 title: minor league pivot query
 permalink: 2009/01/minor-league-pivot-query
+postday: 01/28 2009
+posttime: 06_33
 categories: [Code]
 ---
 

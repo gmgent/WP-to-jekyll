@@ -2,6 +2,8 @@
 layout: blog
 title: USA - second world nation and falling fast
 permalink: 2009/10/usa-second-world-nation-and-falling-fast
+postday: 10/27 2009
+posttime: 00_10
 categories: [Historical]
 ---
 

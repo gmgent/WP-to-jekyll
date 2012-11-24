@@ -2,6 +2,8 @@
 layout: blog
 title: right joins versus the subquery
 permalink: 2009/01/right-joins-versus-the-subquery
+postday: 01/15 2009
+posttime: 00_37
 categories: [Code]
 ---
 

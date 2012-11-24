@@ -2,6 +2,8 @@
 layout: blog
 title: custom wordpress css
 permalink: 2010/12/custom-wordpress-css
+postday: 12/04 2010
+posttime: 07_25
 categories: [Code]
 ---
 

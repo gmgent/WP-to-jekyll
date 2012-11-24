@@ -2,6 +2,8 @@
 layout: blog
 title: Live at Room 5 - I'm the Gun
 permalink: 2008/05/live-at-room-5-im-the-gun
+postday: 05/25 2008
+posttime: 20_40
 categories: [Historical]
 ---
 

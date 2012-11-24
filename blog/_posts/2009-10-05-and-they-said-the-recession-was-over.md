@@ -2,6 +2,8 @@
 layout: blog
 title: and they said the recession was over
 permalink: 2009/10/and-they-said-the-recession-was-over
+postday: 10/05 2009
+posttime: 21_32
 categories: [Historical]
 ---
 

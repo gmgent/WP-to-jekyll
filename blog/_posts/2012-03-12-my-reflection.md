@@ -2,6 +2,8 @@
 layout: blog
 title: my reflection
 permalink: 2012/03/my-reflection
+postday: 03/12 2012
+posttime: 17_11
 categories: [Journal, Random, Saga]
 ---
 

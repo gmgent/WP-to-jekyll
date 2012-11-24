@@ -2,6 +2,8 @@
 layout: blog
 title: martin luther king sings
 permalink: 2009/05/martin-luther-king-sings
+postday: 05/02 2009
+posttime: 20_17
 categories: [Historical]
 ---
 

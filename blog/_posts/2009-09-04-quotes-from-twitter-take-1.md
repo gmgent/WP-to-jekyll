@@ -2,6 +2,8 @@
 layout: blog
 title: quotes from twitter take 1
 permalink: 2009/09/quotes-from-twitter-take-1
+postday: 09/04 2009
+posttime: 00_33
 categories: [Historical]
 ---
 

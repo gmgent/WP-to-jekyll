@@ -2,6 +2,8 @@
 layout: blog
 title: Somewhere from Sky Meet Sea
 permalink: 2012/10/somewhere-from-sky-meet-sea
+postday: 10/16 2012
+posttime: 09_49
 categories: [RockstarAlley]
 ---
 

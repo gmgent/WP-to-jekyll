@@ -2,6 +2,8 @@
 layout: blog
 title: running out of isrc codes
 permalink: 2012/06/running-out-of-isrc-codes
+postday: 06/27 2012
+posttime: 13_00
 categories: [Journal, Random, Saga]
 ---
 

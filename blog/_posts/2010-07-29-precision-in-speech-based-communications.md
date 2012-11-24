@@ -2,6 +2,8 @@
 layout: blog
 title: Precision in speech based communications
 permalink: 2010/07/precision-in-speech-based-communications
+postday: 07/29 2010
+posttime: 22_38
 categories: [Code]
 ---
 

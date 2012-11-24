@@ -2,6 +2,8 @@
 layout: blog
 title: A really clean dynamic insert proc for PL SQL ETL packages
 permalink: 2007/11/a-really-clean-dynamic-insert-proc-for-pl-sql-etl-packages
+postday: 11/19 2007
+posttime: 07_01
 categories: [Code]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: dog eats carrot
 permalink: 2011/08/dog-eats-carrot
+postday: 08/22 2011
+posttime: 17_20
 categories: [Journal, Random, Saga]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: Epigrams in programming
 permalink: 2011/11/epigrams-in-programming
+postday: 11/15 2011
+posttime: 00_20
 categories: [Code]
 ---
 

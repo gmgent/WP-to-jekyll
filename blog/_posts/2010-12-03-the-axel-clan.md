@@ -2,6 +2,8 @@
 layout: blog
 title: The Axel Clan
 permalink: 2010/12/the-axel-clan
+postday: 12/03 2010
+posttime: 19_29
 categories: [Origins, Saga]
 ---
 

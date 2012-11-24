@@ -2,6 +2,8 @@
 layout: blog
 title: The change you wanted was rejected.
 permalink: 2011/04/the-change-you-wanted-was-rejected
+postday: 04/07 2011
+posttime: 19_32
 categories: [Code]
 ---
 

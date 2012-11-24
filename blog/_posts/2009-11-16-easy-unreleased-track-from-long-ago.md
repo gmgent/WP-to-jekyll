@@ -2,6 +2,8 @@
 layout: blog
 title: Easy - unreleased track from long ago
 permalink: 2009/11/easy-unreleased-track-from-long-ago
+postday: 11/16 2009
+posttime: 23_00
 categories: [RockstarAlley]
 ---
 

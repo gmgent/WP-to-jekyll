@@ -2,6 +2,8 @@
 layout: blog
 title: one column liquid layout
 permalink: 2011/02/one-column-liquid-layout
+postday: 02/28 2011
+posttime: 08_40
 categories: [Code]
 ---
 

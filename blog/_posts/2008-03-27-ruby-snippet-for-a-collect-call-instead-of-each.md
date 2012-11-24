@@ -2,6 +2,8 @@
 layout: blog
 title: Ruby snippet for a .collect call instead of .each
 permalink: 2008/03/ruby-snippet-for-a-collect-call-instead-of-each
+postday: 03/27 2008
+posttime: 07_14
 categories: [Code]
 ---
 

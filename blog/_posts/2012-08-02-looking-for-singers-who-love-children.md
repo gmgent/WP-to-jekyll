@@ -2,6 +2,8 @@
 layout: blog
 title: looking for singers who love children
 permalink: 2012/08/looking-for-singers-who-love-children
+postday: 08/02 2012
+posttime: 00_39
 categories: [Random]
 ---
 

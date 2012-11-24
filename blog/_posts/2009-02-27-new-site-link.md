@@ -2,6 +2,8 @@
 layout: blog
 title: New site link
 permalink: 2009/02/new-site-link
+postday: 02/27 2009
+posttime: 18_49
 categories: [Historical]
 ---
 

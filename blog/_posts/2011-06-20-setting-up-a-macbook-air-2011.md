@@ -2,6 +2,8 @@
 layout: blog
 title: setting up a MacBook Air 2011
 permalink: 2011/06/setting-up-a-macbook-air-2011
+postday: 06/20 2011
+posttime: 17_07
 categories: [Code]
 ---
 

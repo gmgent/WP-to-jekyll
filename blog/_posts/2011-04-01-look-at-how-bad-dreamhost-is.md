@@ -2,6 +2,8 @@
 layout: blog
 title: look at how bad Dreamhost is
 permalink: 2011/04/look-at-how-bad-dreamhost-is
+postday: 04/01 2011
+posttime: 20_02
 categories: [Random]
 ---
 

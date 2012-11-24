@@ -2,6 +2,8 @@
 layout: blog
 title: When I was One I had just begun
 permalink: 1981/01/when-i-was-one-i-had-just-begun
+postday: 01/22 1981
+posttime: 12_47
 categories: [Historical, Poetry]
 ---
 

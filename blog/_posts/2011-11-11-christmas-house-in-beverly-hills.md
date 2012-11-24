@@ -2,6 +2,8 @@
 layout: blog
 title: christmas house in Beverly Hills
 permalink: 2011/11/christmas-house-in-beverly-hills
+postday: 11/11 2011
+posttime: 02_22
 categories: [Journal, Photo]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: police brutality on campus
 permalink: 2011/11/police-brutality-on-campus
+postday: 11/20 2011
+posttime: 13_36
 categories: [Politics]
 ---
 

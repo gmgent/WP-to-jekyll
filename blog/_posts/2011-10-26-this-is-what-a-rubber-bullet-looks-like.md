@@ -2,6 +2,8 @@
 layout: blog
 title: this is what a rubber bullet looks like
 permalink: 2011/10/this-is-what-a-rubber-bullet-looks-like
+postday: 10/26 2011
+posttime: 00_37
 categories: [Politics, Random]
 ---
 

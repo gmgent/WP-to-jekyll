@@ -2,6 +2,8 @@
 layout: blog
 title: the hackingtosh
 permalink: 2009/08/the-hackingtosh
+postday: 08/20 2009
+posttime: 19_01
 categories: [Code]
 ---
 

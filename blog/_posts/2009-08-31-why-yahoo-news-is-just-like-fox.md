@@ -2,6 +2,8 @@
 layout: blog
 title: why Yahoo news is just like FOX
 permalink: 2009/08/why-yahoo-news-is-just-like-fox
+postday: 08/31 2009
+posttime: 22_49
 categories: [Historical]
 ---
 

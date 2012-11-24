@@ -2,6 +2,8 @@
 layout: blog
 title: DREAMHOST Worst host evar
 permalink: 2008/12/dreamhost-worst-host-evar
+postday: 12/03 2008
+posttime: 11_24
 categories: [Code]
 ---
 

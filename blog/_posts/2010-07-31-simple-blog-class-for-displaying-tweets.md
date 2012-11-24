@@ -2,6 +2,8 @@
 layout: blog
 title: simple blog class for displaying tweets
 permalink: 2010/07/simple-blog-class-for-displaying-tweets
+postday: 07/31 2010
+posttime: 19_49
 categories: [Code]
 ---
 

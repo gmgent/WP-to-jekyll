@@ -2,6 +2,8 @@
 layout: blog
 title: The brand new day
 permalink: 2011/03/brand-new-day
+postday: 03/08 2011
+posttime: 05_41
 categories: [News]
 ---
 

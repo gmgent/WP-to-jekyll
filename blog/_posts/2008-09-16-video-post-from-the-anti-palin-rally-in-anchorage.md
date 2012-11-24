@@ -2,6 +2,8 @@
 layout: blog
 title: video post from the 'Anti-Palin' rally in Anchorage
 permalink: 2008/09/video-post-from-the-anti-palin-rally-in-anchorage
+postday: 09/16 2008
+posttime: 19_07
 categories: [Historical]
 ---
 

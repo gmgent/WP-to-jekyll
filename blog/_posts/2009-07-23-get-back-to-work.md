@@ -2,6 +2,8 @@
 layout: blog
 title: Get back to work
 permalink: 2009/07/get-back-to-work
+postday: 07/23 2009
+posttime: 22_09
 categories: [Historical]
 ---
 

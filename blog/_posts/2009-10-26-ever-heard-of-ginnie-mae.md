@@ -2,6 +2,8 @@
 layout: blog
 title: ever heard of Ginnie Mae?
 permalink: 2009/10/ever-heard-of-ginnie-mae
+postday: 10/26 2009
+posttime: 22_42
 categories: [Historical]
 ---
 

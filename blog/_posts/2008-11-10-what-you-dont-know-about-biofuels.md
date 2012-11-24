@@ -2,6 +2,8 @@
 layout: blog
 title: What you don't know about biofuels
 permalink: 2008/11/what-you-dont-know-about-biofuels
+postday: 11/10 2008
+posttime: 19_12
 categories: [Historical]
 ---
 

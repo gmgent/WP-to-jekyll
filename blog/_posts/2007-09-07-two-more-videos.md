@@ -2,6 +2,8 @@
 layout: blog
 title: Two More Videos
 permalink: 2007/09/two-more-videos
+postday: 09/07 2007
+posttime: 18_45
 categories: [Historical]
 ---
 

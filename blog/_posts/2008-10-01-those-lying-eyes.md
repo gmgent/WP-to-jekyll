@@ -2,6 +2,8 @@
 layout: blog
 title: Those Lying Eyes
 permalink: 2008/10/those-lying-eyes
+postday: 10/01 2008
+posttime: 20_28
 categories: [Historical]
 ---
 

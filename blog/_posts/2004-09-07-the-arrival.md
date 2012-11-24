@@ -2,6 +2,8 @@
 layout: blog
 title: The Arrival
 permalink: 2004/09/the-arrival
+postday: 09/07 2004
+posttime: 11_25
 categories: [Poetry]
 ---
 

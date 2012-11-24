@@ -2,6 +2,8 @@
 layout: blog
 title: Pentagon shenanigans
 permalink: 2008/01/pentagon-shenanigans
+postday: 01/09 2008
+posttime: 18_28
 categories: [Historical]
 ---
 

@@ -2,6 +2,8 @@
 layout: blog
 title: the case for faith
 permalink: 2009/06/the-case-for-faith
+postday: 06/11 2009
+posttime: 17_47
 categories: [Historical]
 ---
 

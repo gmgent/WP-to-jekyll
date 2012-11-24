@@ -2,6 +2,8 @@
 layout: blog
 title: this worked for me
 permalink: 2009/05/this-worked-for-me
+postday: 05/01 2009
+posttime: 18_56
 categories: [Code]
 ---
 

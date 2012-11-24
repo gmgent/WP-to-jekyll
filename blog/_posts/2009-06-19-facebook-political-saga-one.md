@@ -2,6 +2,8 @@
 layout: blog
 title: facebook political saga one
 permalink: 2009/06/facebook-political-saga-one
+postday: 06/19 2009
+posttime: 18_50
 categories: [Historical]
 ---
 

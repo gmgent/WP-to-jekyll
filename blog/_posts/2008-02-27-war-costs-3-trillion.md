@@ -2,6 +2,8 @@
 layout: blog
 title: War costs 3 trillion
 permalink: 2008/02/war-costs-3-trillion
+postday: 02/27 2008
+posttime: 20_02
 categories: [Historical]
 ---
 
