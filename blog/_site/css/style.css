@@ -1,0 +1,31 @@
+h1 {
+	font: 2em Georgia;
+}
+
+.nav {
+	font: 1em Georgia;
+	list-style:none;
+	padding: 0;
+	margin: 0;
+	background: #fff;
+	text-transform: uppercase;
+	border-bottom: 3px solid #000;
+	border-top: 1px solid #ddd;
+}
+
+.nav li {
+	display: inline-block;
+	zoom:1;
+	*display:inline;
+	padding: 5px 20px 4px 20px;
+}
+
+.nav li a {
+	color: #000;
+	text-decoration: none;
+	line-height: 1.6em;
+}
+
+.nav li a:hover {
+	color: maroon;
+}
