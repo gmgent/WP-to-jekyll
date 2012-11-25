@@ -18,59 +18,40 @@ layout: index
 
         <!-- Custom Favicon -->
         <link rel="shortcut icon" href="http://blog.kristeraxel.com/wp-content/uploads/2012/11/favicon.ico"/>
-
+        <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
 
     </head>
-    <body class="home blog gecko boxed-layout two-col-left width-820 two-col-left-820">
-        <div id="wrapper">
-	
-	        {% include _header.html %}
-      
-            <!-- #content Starts -->
-	        <div id="content" class="col-full">
-    
-    	        <div id="blog-main">
-		
-                <!-- #main Starts -->
-                    <div id="main" class="col-left">
-            	
-						<div class="post type-post status-publish format-standard">
-							<h2 class="title">
-	                            the latest
-	                        </h2>
-	
-                            {% for post in site.posts limit:15 %}
-                                <div id="cat_listing" style="padding: 10px;">
-							        <h3><a href="/{{ post.url }}">{{ post.title }}</a></h3>
-							        <p class="teaser_info">{{ post.content }}</p><br/>
-							        <div style="float: right;"><small><em>{{ post.date | date_to_html_string }}</em></small></div>
-							        <div class="categories">
-									    Filed under 
-									    {% for cat in post.categories %}
-										    <a href="/category/{{cat}}/">{{cat}}</a> 
-							            {% endfor %}<hr>
-							        </div>
-								</div>
-							{% endfor %}                        	
-	                    </div><!-- /.post -->
-                
-                    </div><!-- /#main -->
-    
-		        </div><!-- /#main-sidebar-container -->         
 
-		       
-
-            </div><!-- /#content -->
+    <body>
+	<!-- the id on the containing div determines the page width. -->
+	<!-- #doc = 750px; #doc2 = 950px; #doc3 = 100%; #doc4 = 974px -->
+	<div id="doc">					
+		<div id="hd">
+			{% include _header.html %}
+		</div>
+		<div id="bd">
+			<h2 class="title">
+                the latest
+            </h2>
 			
-	
-	
-	    {% include _footer.html %}
-	
-	    
-	
-	    </div><!-- /#wrapper -->
-	
-	
-
+				{% for post in site.posts limit:15 %}
+                    <div id="cat_listing" style="padding: 10px;">
+				        <h3><a href="/{{ post.url }}">{{ post.title }}</a></h3>
+				        <p class="teaser_info">{{ post.content }}</p><br/>
+				        <div style="float: right;"><small><em>{{ post.date | date_to_html_string }}</em></small></div>
+				        <div class="categories">
+						    Filed under 
+						    {% for cat in post.categories %}
+							    <a href="/category/{{cat}}/">{{cat}}</a> 
+				            {% endfor %}<hr>
+				        </div>
+					</div>
+				{% endfor %}
+		</div>
+		<div id="ft">
+			{% include _footer.html %}
+		</div>
+	</div>
 	</body>
+
 </html>

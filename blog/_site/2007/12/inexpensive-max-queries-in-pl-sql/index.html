@@ -2,7 +2,7 @@
 <html dir="ltr" lang="en-US">
     <head>
         <meta charset="UTF-8" />
-        <title>Krister Axel | Inexpensive MAX queries in PL SQL</title>
+        <title>Inexpensive MAX queries in PL SQL</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 		
@@ -14,13 +14,16 @@
 
         <!-- Custom Favicon -->
         <link rel="shortcut icon" href="http://blog.kristeraxel.com/wp-content/uploads/2012/11/favicon.ico"/>
-
+        <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
 
     </head>
-    <body class="home blog gecko boxed-layout two-col-left width-820 two-col-left-820">
-        <div id="wrapper">
-	    
-	        <div id="header" class="col-full">
+
+    <body>
+	<!-- the id on the containing div determines the page width. -->
+	<!-- #doc = 750px; #doc2 = 950px; #doc3 = 100%; #doc4 = 974px -->
+	<div id="doc2">					
+		<div id="hd">
+			<div id="header" class="col-full">
 
    
     <div id="logo">
@@ -54,23 +57,12 @@
         
     </ul>	
 </div><!-- /#navigation -->
-      
-            <!-- #content Starts -->
-	        <div id="content" class="col-full">
-    
-    	        <div id="blog-main">
-		
-                <!-- #main Starts -->
-                    <div id="main" class="col-left">
-            	
-			
-                        <div class="post type-post status-publish format-standard">
-                            <h2 class="title">
-	                            Inexpensive MAX queries in PL SQL
-	                        </h2>
-	                        
-	                        <div class="entry">
-	                            <p><p>This was a trick that one of our contractors showed me here at Monstertrak today. Basically, here&#039;s the gist. you&#039;ve got a join that you need to make, but you only ever want one record to return - you need to restrict the join to return one - and only one - sister record.<br />
+		</div>
+		<div id="bd">
+			<h2 class="title">
+                Inexpensive MAX queries in PL SQL
+            </h2>
+			<p>This was a trick that one of our contractors showed me here at Monstertrak today. Basically, here&#039;s the gist. you&#039;ve got a join that you need to make, but you only ever want one record to return - you need to restrict the join to return one - and only one - sister record.<br />
 Common logic would have you doing a group by query against said table as a derived table, on the primary key and whatever other field encompasses the info you need to enforce your logic, and doing a self-join against that same table to pull in the rest of the fields you need, and then joining that back against the table you needed to join to in the first place.</p>
 
 
@@ -100,59 +92,39 @@ where c.id = trim(substr(v.val,1,12))<br />
 and length(c.email) &gt; 3<br />
 order by c.email asc, c.id desc;</p>
 
-</p>
-	                        </div><!-- /.entry -->
-	
-							<div class="post-meta">
-		                        <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
-		                        <span class="small">on</span> <abbr class="date time published">12/04 2007 at 07_24</abbr> 
-		                        <span class="small">in</span> 
-		                        <span class="categories">
-			                        
-										<a href="/category/Code/">Code</a> 
-			                        
-			                    </span>
-		                    </div>                     	
 
-
-	                    </div><!-- /.post -->
-                
-                    </div><!-- /#main -->
-                
-    
-		        </div><!-- /#main-sidebar-container -->         
-
-		       
-
-            </div><!-- /#content -->
-			
-	
-	
-	    <div id="footer-widgets" class="col-full col-3">
+			<div class="post-meta">
+                <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
+                <span class="small">on</span> <abbr class="date time published">12/04 2007 at 07_24</abbr> 
+                <span class="small">in</span> 
+                <span class="categories">
+                    
+						<a href="/category/Code/">Code</a> 
+                    
+                </span>
+            </div>
+		</div>
+		<div id="ft">
+			<div id="footer-cols">
 					
-	<div class="block footer-widget-1">
-		<ul class='xoxo blogroll'>
+	<div class="leftcol">
+		<ul>
             <li><a href="http://www.kristeraxel.com" rel="me" title="my home page" target="_blank">kristeraxel.com</a></li>
             <li><a href="http://axelradio.com" rel="me" title="Download songs by Krister Axel and read the lyrics." target="_blank">Lyrics + Downloads</a></li>
         </ul>
 	</div>	        
 	        					
-	<div class="block footer-widget-2">
+	<div class="midcol">
         <small><p>&copy; 24 November 2012 Krister Axel<br/>All Rights Reserved.</p></small>
 	</div>	        
 	        					
-	<div class="block footer-widget-3">
+	<div class="rightcol">
         <p><small>designed by <a href="http://kristeraxel.com">Krister Axel</a><br/>powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a></small></p>
 	</div>	        
-	<div class="fix"></div>
 	
-</div><!--/#footer-widgets-->
-	
-	    
-	
-	    </div><!-- /#wrapper -->
-	
-	
-
+</div>
+		</div>
+	</div>
 	</body>
+
 </html>
