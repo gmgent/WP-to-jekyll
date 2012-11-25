@@ -24,17 +24,17 @@ layout: category_index
             </h2>
 
             {% for post in site.categories[page.category] %}
-                <div id="cat_listing" style="border: padding: 10px;">
+                <div style="border: padding: 10px;">
 			        <div><h3>{{ post.date | date_to_html_string }}</h3></div>
-			        <a href="/{{ post.url }}">{{ post.title }}</a>
-			        <p class="teaser_info">{{ post.content }}</p><br/>
+			        <h2 class="post_link"><a href="/{{ post.url }}">{{ post.title }}</a></h2>
+			        <p class="teaser_info">{{ post.content  | newline_to_br}}</p><br/>
 			        <div class="categories">
 					    Filed under 
 					    {% for cat in post.categories %}
 						    <a href="/category/{{cat}}/">{{cat}}</a> 
 			            {% endfor %}<br/><br/>
 			        </div>
-				</div>
+				</div><hr>
 			{% endfor %}
 			
 		</div>

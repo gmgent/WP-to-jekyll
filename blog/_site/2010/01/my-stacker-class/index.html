@@ -62,36 +62,36 @@
 			<h2 class="title">
                 my stacker class
             </h2>
-			<p>For anyone that uses FusionCharts, this little class may be very helpful.</p>
-
-
-<p>It is for building xml files to feed FusionCharts &#039;Stacked&#039; charts, and it has already saved my ass.</p>
-
-
-
-
-<script src="https://gist.github.com/860786.js?file=stacker.rb"></script>
-
-
-
-
-<p>
-The only kicker is that you need your own &#039;pad_month&#039; function to add a pad zero to any single digits in your day.</p>
-
-
-<p>So get rid of the Utils module and stick in this pad_month method and you should be golden.</p>
-
-
-<pre>
-def pad_month(this)
-  if this.to_i &lt; 10
-    return "0#{this}"
-  else
-    return "#{this}"
-  end
-end
-</pre>
-
+			<p>For anyone that uses FusionCharts, this little class may be very helpful.</p><br />
+<br />
+<br />
+<p>It is for building xml files to feed FusionCharts &#039;Stacked&#039; charts, and it has already saved my ass.</p><br />
+<br />
+<br />
+<br />
+<br />
+<script src="https://gist.github.com/860786.js?file=stacker.rb"></script><br />
+<br />
+<br />
+<br />
+<br />
+<p><br />
+The only kicker is that you need your own &#039;pad_month&#039; function to add a pad zero to any single digits in your day.</p><br />
+<br />
+<br />
+<p>So get rid of the Utils module and stick in this pad_month method and you should be golden.</p><br />
+<br />
+<br />
+<pre><br />
+def pad_month(this)<br />
+  if this.to_i &lt; 10<br />
+    return "0#{this}"<br />
+  else<br />
+    return "#{this}"<br />
+  end<br />
+end<br />
+</pre><br />
+<br />
 
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 

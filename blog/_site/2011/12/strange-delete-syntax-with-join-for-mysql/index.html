@@ -62,28 +62,28 @@
 			<h2 class="title">
                 strange delete syntax with join for mysql
             </h2>
-			<br/><br/>
-
-
-<p>With MySQL 5, there are two rules if you need to join to another table in order to delete records from somewhere.</p>
-
-<ul>
-    <li>Rule 1: no aliases allowed. Refer only to tables as themselves - better hope the names aren't very long!</li>
-        <li>Rule 2: specify table name from which to delete <em>before</em> the FROM clause. </li>
-</ul>
-
-
-<p>Like so:</p>
-
-<pre>
-  DELETE sales from sales
-    JOIN retailers on sales.retailer_id = retailers.id
-   WHERE retailers.merchant in ('Test Merchant', 
-                                'Other merchants that should not be here')
-</pre>
-
-
-
+			<br/><br/><br />
+<br />
+<br />
+<p>With MySQL 5, there are two rules if you need to join to another table in order to delete records from somewhere.</p><br />
+<br />
+<ul><br />
+    <li>Rule 1: no aliases allowed. Refer only to tables as themselves - better hope the names aren't very long!</li><br />
+        <li>Rule 2: specify table name from which to delete <em>before</em> the FROM clause. </li><br />
+</ul><br />
+<br />
+<br />
+<p>Like so:</p><br />
+<br />
+<pre><br />
+  DELETE sales from sales<br />
+    JOIN retailers on sales.retailer_id = retailers.id<br />
+   WHERE retailers.merchant in ('Test Merchant', <br />
+                                'Other merchants that should not be here')<br />
+</pre><br />
+<br />
+<br />
+<br />
 
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 

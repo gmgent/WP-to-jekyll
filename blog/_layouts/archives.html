@@ -29,7 +29,7 @@ layout: archives
 				      {{ month | date:"%B" }} {{ month | date:"%Y" }}
 				      <ul>
 				        {% for post in page.posts_by_month[month] %}
-				          <h2><li><a href="/{{ post.url }}">{{ post.title | truncate:65 }}</a></li></h2>
+				          <h2 class="post_link"><li><a href="/{{ post.url }}">{{ post.title | truncate:65 }}</a></li></h2>
 				        {% endfor %}
 				      </ul>
 				    {% endif %}

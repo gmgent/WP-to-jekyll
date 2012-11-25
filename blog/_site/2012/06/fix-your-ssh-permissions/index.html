@@ -62,20 +62,20 @@
 			<h2 class="title">
                 fix your ssh permissions
             </h2>
-			<p><strong>Permission problems with SSH</strong></p>
-
-<p>Ssh is very picky about permissions on the ~/.ssh directory and files. Sometimes you may do something to mess up these permissions. Run the following to fix most permissions problems. You may have to do this on both the remote host and local host.</p>
-
-<pre>
-    chmod 700 ~/.ssh
-    chmod 600 ~/.ssh/id_rsa
-    chmod 644 ~/.ssh/id_rsa.pub  
-    chmod 644 ~/.ssh/authorized_keys
-    chmod 644 ~/.ssh/known_hosts
-</pre>
-
-
-<p>Also no directory above ~/.ssh can have 'group' or 'other' write permissions.</p>
+			<p><strong>Permission problems with SSH</strong></p><br />
+<br />
+<p>Ssh is very picky about permissions on the ~/.ssh directory and files. Sometimes you may do something to mess up these permissions. Run the following to fix most permissions problems. You may have to do this on both the remote host and local host.</p><br />
+<br />
+<pre><br />
+    chmod 700 ~/.ssh<br />
+    chmod 600 ~/.ssh/id_rsa<br />
+    chmod 644 ~/.ssh/id_rsa.pub  <br />
+    chmod 644 ~/.ssh/authorized_keys<br />
+    chmod 644 ~/.ssh/known_hosts<br />
+</pre><br />
+<br />
+<br />
+<p>Also no directory above ~/.ssh can have 'group' or 'other' write permissions.</p><br />
 
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 

@@ -62,154 +62,154 @@
 			<h2 class="title">
                 solr shell scripting for fun and profit
             </h2>
-			<p>We love Solr. Yes we do.</p>
-
-
-<p>#!/bin/bash<br />
-#<br />
-# Shell script to clean up backups of a Solr Lucene collection.</p>
-
-
-<p>orig_dir=$(pwd)<br />
-cd ${0%/*}/..<br />
-solr_root=$(pwd)<br />
-cd ${orig_dir}</p>
-
-
-<p>unset days num data_dir user verbose debug<br />
-. ${solr_root}/bin/scripts-util</p>
-
-
-<p># set up variables<br />
-prog=${0##*/}<br />
-log=${solr_root}/logs/${prog}.log</p>
-
-
-<p># define usage string<br />
-USAGE="\<br />
-usage: $prog -D  | -N  [-d dir] [-u username] [-v]<br />
-       -D    cleanup backups more than  days old<br />
-       -N     keep the most recent  number of backups and<br />
-                   cleanup up the remaining ones that are not being pulled<br />
-       -d          specify directory holding index data<br />
-       -u          specify user to sudo to before running script<br />
-       -v          increase verbosity<br />
-       -V          output debugging info<br />
-"</p>
-
-
-<p># parse args<br />
-while getopts D:N:d:u:vV OPTION<br />
-do<br />
-    case $OPTION in<br />
-    D)<br />
-        days="$OPTARG"<br />
-        ;;<br />
-    N)<br />
-        num="$OPTARG"<br />
-        ;;<br />
-    d)<br />
-        data_dir="$OPTARG"<br />
-        ;;<br />
-    u)<br />
-        user="$OPTARG"<br />
-        ;;<br />
-    v)<br />
-        verbose="v"<br />
-        ;;<br />
-    V)<br />
-        debug="V"<br />
-        ;;<br />
-    *)<br />
-        echo "$USAGE"<br />
-        exit 1<br />
-    esac<br />
-done</p>
-
-
-<p>[[ -n $debug ]] &amp;&amp; set -x</p>
-
-
-<p>if [[ -z ${days} &amp;&amp; -z ${num} ]]<br />
-then<br />
-    echo "$USAGE"<br />
-    exit 1<br />
-fi</p>
-
-
-<p>fixUser "$@"</p>
-
-
-<p># use default value for data_dir if not specified<br />
-# relative path starts at ${solr_root}<br />
-if [[ -z ${data_dir} ]]<br />
-then<br />
-    data_dir=${solr_root}/data<br />
-elif [[ "`echo ${data_dir}|cut -c1`" != "/" ]]<br />
-then<br />
-    data_dir=${solr_root}/${data_dir}<br />
-fi</p>
-
-
-<p>function remove<br />
-{<br />
-    logMessage removing backup $1<br />
-    /bin/rm -rf $1<br />
-}</p>
-
-
-<p>start=`date +"%s"`</p>
-
-
-<p>logMessage started by $oldwhoami<br />
-logMessage command: $0 $@</p>
-
-
-<p># trap control-c<br />
-trap &#039;echo "caught INT/TERM, exiting now but partial cleanup may have already occured";logExit aborted 13&#039; INT TERM</p>
-
-
-<p>if [[ -n ${days} ]]<br />
-then<br />
-    #is maxdepth supported?<br />
-    find ${data_dir} -maxdepth 0 -name foobar &gt;/dev/null 2&gt;&amp;1<br />
-    if [ $? = 0 ]; then<br />
-      maxdepth="-maxdepth 1"<br />
-    else<br />
-      unset maxdepth<br />
-    fi</p>
-
-
-<p>    logMessage cleaning up backups more than ${days} days old<br />
-    for i in `find ${data_dir} ${maxdepth} -name &#039;backup.*&#039; -mtime +${days} -print`<br />
-    do<br />
-        remove $i<br />
-    done<br />
-elif [[ -n ${num} ]]<br />
-then<br />
-    logMessage cleaning up all backups except for the most recent ${num} ones<br />
-    unset backups count<br />
-    backups=`ls -cd ${data_dir}/backup.* 2&gt;/dev/null`<br />
-    if [[ $? == 0 ]]<br />
-    then<br />
-        count=`echo $backups|wc -w`<br />
-        startpos=`expr $num + 1`<br />
-        if [[ $count -gt $num ]]<br />
-        then<br />
-            for i in `echo $backups|cut -f${startpos}- -d" "`<br />
-            do<br />
-            remove $i<br />
-        done<br />
-        fi<br />
-    fi<br />
-fi</p>
-
-
-<p>logExit ended 0</p>
-
-
-<p><a href="http://www.digbox.net/index.php/RoR/solr-shell-scripting-for-fun-and-profit">Original post</a> blogged on <a href="http://codeboxer.com">codeboxer.com</a>.</p>
-
+			<p>We love Solr. Yes we do.</p><br />
+<br />
+<br />
+<p>#!/bin/bash<br /><br />
+#<br /><br />
+# Shell script to clean up backups of a Solr Lucene collection.</p><br />
+<br />
+<br />
+<p>orig_dir=$(pwd)<br /><br />
+cd ${0%/*}/..<br /><br />
+solr_root=$(pwd)<br /><br />
+cd ${orig_dir}</p><br />
+<br />
+<br />
+<p>unset days num data_dir user verbose debug<br /><br />
+. ${solr_root}/bin/scripts-util</p><br />
+<br />
+<br />
+<p># set up variables<br /><br />
+prog=${0##*/}<br /><br />
+log=${solr_root}/logs/${prog}.log</p><br />
+<br />
+<br />
+<p># define usage string<br /><br />
+USAGE="\<br /><br />
+usage: $prog -D  | -N  [-d dir] [-u username] [-v]<br /><br />
+       -D    cleanup backups more than  days old<br /><br />
+       -N     keep the most recent  number of backups and<br /><br />
+                   cleanup up the remaining ones that are not being pulled<br /><br />
+       -d          specify directory holding index data<br /><br />
+       -u          specify user to sudo to before running script<br /><br />
+       -v          increase verbosity<br /><br />
+       -V          output debugging info<br /><br />
+"</p><br />
+<br />
+<br />
+<p># parse args<br /><br />
+while getopts D:N:d:u:vV OPTION<br /><br />
+do<br /><br />
+    case $OPTION in<br /><br />
+    D)<br /><br />
+        days="$OPTARG"<br /><br />
+        ;;<br /><br />
+    N)<br /><br />
+        num="$OPTARG"<br /><br />
+        ;;<br /><br />
+    d)<br /><br />
+        data_dir="$OPTARG"<br /><br />
+        ;;<br /><br />
+    u)<br /><br />
+        user="$OPTARG"<br /><br />
+        ;;<br /><br />
+    v)<br /><br />
+        verbose="v"<br /><br />
+        ;;<br /><br />
+    V)<br /><br />
+        debug="V"<br /><br />
+        ;;<br /><br />
+    *)<br /><br />
+        echo "$USAGE"<br /><br />
+        exit 1<br /><br />
+    esac<br /><br />
+done</p><br />
+<br />
+<br />
+<p>[[ -n $debug ]] &amp;&amp; set -x</p><br />
+<br />
+<br />
+<p>if [[ -z ${days} &amp;&amp; -z ${num} ]]<br /><br />
+then<br /><br />
+    echo "$USAGE"<br /><br />
+    exit 1<br /><br />
+fi</p><br />
+<br />
+<br />
+<p>fixUser "$@"</p><br />
+<br />
+<br />
+<p># use default value for data_dir if not specified<br /><br />
+# relative path starts at ${solr_root}<br /><br />
+if [[ -z ${data_dir} ]]<br /><br />
+then<br /><br />
+    data_dir=${solr_root}/data<br /><br />
+elif [[ "`echo ${data_dir}|cut -c1`" != "/" ]]<br /><br />
+then<br /><br />
+    data_dir=${solr_root}/${data_dir}<br /><br />
+fi</p><br />
+<br />
+<br />
+<p>function remove<br /><br />
+{<br /><br />
+    logMessage removing backup $1<br /><br />
+    /bin/rm -rf $1<br /><br />
+}</p><br />
+<br />
+<br />
+<p>start=`date +"%s"`</p><br />
+<br />
+<br />
+<p>logMessage started by $oldwhoami<br /><br />
+logMessage command: $0 $@</p><br />
+<br />
+<br />
+<p># trap control-c<br /><br />
+trap &#039;echo "caught INT/TERM, exiting now but partial cleanup may have already occured";logExit aborted 13&#039; INT TERM</p><br />
+<br />
+<br />
+<p>if [[ -n ${days} ]]<br /><br />
+then<br /><br />
+    #is maxdepth supported?<br /><br />
+    find ${data_dir} -maxdepth 0 -name foobar &gt;/dev/null 2&gt;&amp;1<br /><br />
+    if [ $? = 0 ]; then<br /><br />
+      maxdepth="-maxdepth 1"<br /><br />
+    else<br /><br />
+      unset maxdepth<br /><br />
+    fi</p><br />
+<br />
+<br />
+<p>    logMessage cleaning up backups more than ${days} days old<br /><br />
+    for i in `find ${data_dir} ${maxdepth} -name &#039;backup.*&#039; -mtime +${days} -print`<br /><br />
+    do<br /><br />
+        remove $i<br /><br />
+    done<br /><br />
+elif [[ -n ${num} ]]<br /><br />
+then<br /><br />
+    logMessage cleaning up all backups except for the most recent ${num} ones<br /><br />
+    unset backups count<br /><br />
+    backups=`ls -cd ${data_dir}/backup.* 2&gt;/dev/null`<br /><br />
+    if [[ $? == 0 ]]<br /><br />
+    then<br /><br />
+        count=`echo $backups|wc -w`<br /><br />
+        startpos=`expr $num + 1`<br /><br />
+        if [[ $count -gt $num ]]<br /><br />
+        then<br /><br />
+            for i in `echo $backups|cut -f${startpos}- -d" "`<br /><br />
+            do<br /><br />
+            remove $i<br /><br />
+        done<br /><br />
+        fi<br /><br />
+    fi<br /><br />
+fi</p><br />
+<br />
+<br />
+<p>logExit ended 0</p><br />
+<br />
+<br />
+<p><a href="http://www.digbox.net/index.php/RoR/solr-shell-scripting-for-fun-and-profit">Original post</a> blogged on <a href="http://codeboxer.com">codeboxer.com</a>.</p><br />
+<br />
 
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 

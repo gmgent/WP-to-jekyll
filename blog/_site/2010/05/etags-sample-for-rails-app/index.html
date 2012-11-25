@@ -62,19 +62,19 @@
 			<h2 class="title">
                 etags sample for rails app
             </h2>
-			<pre>
-def show
-  @article = Article.find(params[:id]) 
-  
-  if stale?(:etag => @article, :last_modified => @article.created_at.utc)
-    @statistics = @article.really_expensive_call
-    respond_to do |format|
-      #etc
-    end
-  end
-end
-</pre>
-
+			<pre><br />
+def show<br />
+  @article = Article.find(params[:id]) <br />
+  <br />
+  if stale?(:etag => @article, :last_modified => @article.created_at.utc)<br />
+    @statistics = @article.really_expensive_call<br />
+    respond_to do |format|<br />
+      #etc<br />
+    end<br />
+  end<br />
+end<br />
+</pre><br />
+<br />
 
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
