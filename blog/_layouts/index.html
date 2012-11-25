@@ -6,9 +6,10 @@ layout: index
 <html dir="ltr" lang="en-US">
     <head>
         <meta charset="UTF-8" />
-        <title>{{ page.title }} | Krister Axel</title>
+        <title>the latest | Krister Axel</title>
         {% include _super_header.html %} 
-
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<script src="/scripts/jquery.masonry.min.js"></script>
     </head>
 
     <body>
@@ -23,13 +24,13 @@ layout: index
                 the latest
             </h2>
 			
-				{% for post in site.posts limit:15 %}
-                    <div id="cat_listing" style="padding: 10px;">
+				{% for post in site.posts limit:10 %}
+                    <div id="cat_listing" class="item">
 				        <h3><a href="/{{ post.url }}">{{ post.title }}</a></h3>
 				        <p class="teaser_info">{{ post.content }}</p><br/>
 				        <div style="float: right;"><small><em>{{ post.date | date_to_html_string }}</em></small></div>
 				        <div class="categories">
-						    Filed under 
+						    <span class="metalabel">filed under </span>
 						    {% for cat in post.categories %}
 							    <a href="/category/{{cat}}/">{{cat}}</a> 
 				            {% endfor %}<hr>
@@ -44,3 +45,18 @@ layout: index
 	</body>
 
 </html>
+
+<script type="text/javascript">
+$(function(){
+  $('#container').masonry({
+    // options
+    containerStyle : 'relative',
+    itemSelector : '.item',
+
+	// set columnWidth a fraction of the container width
+	  columnWidth: function( containerWidth ) {
+	    return containerWidth / 3;
+	  }
+  });
+});
+</script>
