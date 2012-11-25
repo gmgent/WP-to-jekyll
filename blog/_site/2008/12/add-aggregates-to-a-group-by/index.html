@@ -62,7 +62,7 @@
 			<h2 class="title">
                 add aggregates to a group by
             </h2>
-			<p>Pull in YTD aggregates, along with the numbers grouped by month - good example of a self-join as well as a &#039;derived table&#039; which in this example is called &#039;counted&#039;.</p><br />
+			<p class="teaser_info"><p>Pull in YTD aggregates, along with the numbers grouped by month - good example of a self-join as well as a &#039;derived table&#039; which in this example is called &#039;counted&#039;.</p><br />
 <br />
 <br />
 <p>select s.product, count(s.serial_number) number_sold, year(s.item_date) y, month(s.item_date) m, counted.units<br /><br />
@@ -72,7 +72,7 @@ join (select product, count(serial_number) units from sales group by product) co
       order by s.product, year(s.item_date), month(s.item_date)<br /><br />
 <a href="http://www.digbox.net/index.php/SQL/add-aggregates-to-a-group-by">Original post</a> blogged on <a href="http://codeboxer.com">codeboxer.com</a>.</p><br />
 <br />
-
+</p>
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
                 <span class="small">on</span> <abbr class="date time published">12/09 2008 at 23_02</abbr> 

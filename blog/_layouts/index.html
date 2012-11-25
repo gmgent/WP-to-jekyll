@@ -8,7 +8,8 @@ layout: index
         <meta charset="UTF-8" />
         <title>the latest | Krister Axel</title>
         {% include _super_header.html %} 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+        <script src="/scripts/prototype.js" type="text/javascript"></script>
+		<script src="/scripts/scriptaculous.js" type="text/javascript"></script>
     </head>
 
     <body>
@@ -27,13 +28,12 @@ layout: index
                     <div id="cat_listing" class="item">
 				        <h3 class="post_link"><a href="/{{ post.url }}">{{ post.title }}</a></h3>
 				        <p class="teaser_info">{{ post.content | newline_to_br }}</p><br/>
-				        <div class="centerfloat post_link"><a href="/{{ post.url }}">read more</a></div>
 				        <div class="categories">
 						    <span class="metalabel">filed under </span>
 						    {% for cat in post.categories %}
 							    <a href="/category/{{cat}}/">{{cat}}</a> 
 				            {% endfor %}
-							<div class="rightfloat"><small><em>{{ post.date | date_to_html_string }}</em></small></div><hr>
+							<div class="fr"><small><em>{{ post.date | date_to_html_string }}</em></small></div><hr>
 				        </div>
 				        
 					</div>

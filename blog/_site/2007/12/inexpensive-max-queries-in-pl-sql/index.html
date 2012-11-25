@@ -62,7 +62,7 @@
 			<h2 class="title">
                 Inexpensive MAX queries in PL SQL
             </h2>
-			<p>This was a trick that one of our contractors showed me here at Monstertrak today. Basically, here&#039;s the gist. you&#039;ve got a join that you need to make, but you only ever want one record to return - you need to restrict the join to return one - and only one - sister record.<br /><br />
+			<p class="teaser_info"><p>This was a trick that one of our contractors showed me here at Monstertrak today. Basically, here&#039;s the gist. you&#039;ve got a join that you need to make, but you only ever want one record to return - you need to restrict the join to return one - and only one - sister record.<br /><br />
 Common logic would have you doing a group by query against said table as a derived table, on the primary key and whatever other field encompasses the info you need to enforce your logic, and doing a self-join against that same table to pull in the rest of the fields you need, and then joining that back against the table you needed to join to in the first place.</p><br />
 <br />
 <br />
@@ -92,7 +92,7 @@ where c.id = trim(substr(v.val,1,12))<br /><br />
 and length(c.email) &gt; 3<br /><br />
 order by c.email asc, c.id desc;</p><br />
 <br />
-
+</p>
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
                 <span class="small">on</span> <abbr class="date time published">12/04 2007 at 07_24</abbr> 

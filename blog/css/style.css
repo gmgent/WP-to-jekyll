@@ -1,104 +1,3 @@
--------------------------------------------------------------------------------------------*/
-/*-------------------------------------------------------------------------------------------*/
-/* 0. RESET */
-/*-------------------------------------------------------------------------------------------*/
-/* http://meyerweb.com/eric/tools/css/reset/ | v1.0 | 20080212 */
-body,
-html {
-  height: 100%;
-}
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-font,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent;
-}
-body {
-  line-height: 1;
-}
-ol,
-ul {
-  list-style: none;
-}
-blockquote,
-q {
-  quotes: none;
-}
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: '';
-  content: none;
-}
-:focus {
-  outline: 0;
-}
-/* remember to define focus styles! */
 del {
   text-decoration: line-through;
 }
@@ -269,13 +168,15 @@ h6 a:hover {
 }
 
 .metalabel { font-size: 9pt;}
+.teaser_info { padding: 0 10px 0 20px;}
+.teaser_info p {margin-left: 10px;}
 
 .item {
   margin: 8px;
 }
 
 .post_link:hover {
-	background-color: #CDCDCD;
+	background-color: ghostwhite;
 	border-left: 2px dashed #ddd;
 	border-right: 2px dashed #ddd;
 	padding: 3px;
@@ -284,9 +185,6 @@ h6 a:hover {
 
 .post_link a:hover { font-style: italic; }
 
-.centerfloat {float: middle; text-align:center;}
-.rightfloat {float: right;}
-
 /* 1.3 @font-face */
 
 h1 {
@@ -294,7 +192,7 @@ h1 {
 }
 
 pre {
-	width: 340px;
+	width: 640px;
 	overflow: scroll;
 }
 
@@ -302,10 +200,10 @@ pre {
 
 blockquote {
 margin-top: 1em;
-padding: 10px 10px 40px 10px;
+left-padding: 20px;
 margin-left: 1em;
-border-left:2px dashed #ddd;
-border-right:2px dashed #ddd;
+border-left:2px dashed #ECE5B6;
+border-right:2px dashed #ECE5B6;
 background-image:url('/img/papersquare.jpg');
 line-height: 1.6em;
  
@@ -346,7 +244,6 @@ font-weight: bold;
 .nav li a:hover {
 	color: maroon;
 }
-img {float: middle;}
 
 .contact {text-align: center;}
 
