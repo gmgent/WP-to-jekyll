@@ -177,13 +177,11 @@ h6 a:hover {
 
 .post_link:hover {
 	background-color: ghostwhite;
-	border-left: 2px dashed #ddd;
-	border-right: 2px dashed #ddd;
 	padding: 3px;
 	line-height: 1.4em;
 }
 
-.post_link a:hover { font-style: italic; }
+.post_link a:hover { text-decoration: none; }
 
 /* 1.3 @font-face */
 

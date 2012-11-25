@@ -26,7 +26,7 @@ layout: index
 			
 				{% for post in site.posts limit:14 %}
                     <div id="cat_listing" class="item">
-				        <h3 class="post_link"><a href="/{{ post.url }}">{{ post.title }}</a></h3>
+				        <h2 class="post_link"><a href="/{{ post.url }}">{{ post.title }}</a></h2>
 				        <p class="teaser_info">{{ post.content | newline_to_br }}</p><br/>
 				        <div class="categories">
 						    <span class="metalabel">filed under </span>
