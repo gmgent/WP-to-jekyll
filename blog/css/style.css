@@ -273,6 +273,25 @@ h1 {
 	font: 2em Georgia;
 }
 
+blockquote {
+margin-top: 1em;
+padding: 40px 40px 40px 40px;
+margin-left: 1em;
+border-left:2px dashed #ddd;
+border-right:2px dashed #ddd;
+background-image:url('/img/papersquare.jpg');
+line-height: 1.6em;
+ 
+}
+ 
+blockquote:first-letter {
+float: left;
+margin: 5px 3px 1px 0;
+font-family: Georgia;
+font-size: 40px;
+font-weight: bold;
+}
+
 .nav {
 	font: 1em Georgia;
 	list-style:none;
@@ -304,7 +323,7 @@ img {float: middle;}
 
 .contact {text-align: center;}
 
-#footer { width: 800px; }
+#footer { width: 800px; font: 1em Georgia;}
 
 #footer a { font-size: 9pt;}
 

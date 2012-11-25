@@ -6,19 +6,8 @@ layout: category_index
 <html dir="ltr" lang="en-US">
     <head>
         <meta charset="UTF-8" />
-        <title>{{ page.title }}</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
-		
-        <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
-        <!--  Mobile viewport scale -->
-        <meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"/>
-
-        <!-- Custom Favicon -->
-        <link rel="shortcut icon" href="http://blog.kristeraxel.com/wp-content/uploads/2012/11/favicon.ico"/>
-        <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
+        <title>{{ page.title }} | Krister Axel</title>
+        {% include _super_header.html %} 
 
     </head>
 
@@ -29,7 +18,7 @@ layout: category_index
 		<div id="hd">
 			{% include _header.html %}
 		</div>
-		<div id="bd">
+		<div id="bd" class="container">
 			<h2 class="title">
                 category: {{page.category}}
             </h2>
