@@ -14,7 +14,7 @@ module Jekyll
       @base = site.source
       # I simply write the archives.html file in the _site root
       @dir = "/"
-      @name = "archive/index.html"
+      @name = "Archive/index.html"
       
       self.process(@name)
       self.read_yaml(File.join(@base, '_layouts'), 'archives.html')
