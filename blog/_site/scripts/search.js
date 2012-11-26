@@ -1,3 +1,10 @@
+
+/* added */
+
+function messageLoading(el) {
+	document.getElementById(el).innerHTML = '<small>loading...</small>'; 
+}
+
 /*
 Copyright (c) 2012 by James Cammarata <jimi@sngx.net>
 
@@ -52,14 +59,14 @@ function run_search(search_callback) {
     set_search_enabled(false);
     // and go...
     $.getJSON('/search.json', function(data,status) {
-      alert("key:");
+      
       var s_words = $.trim($("#searchbox").val()).toLowerCase().split(" ");
       var results = {};
 
       // now loop through all the words in the search JSON...
       $.each(getkeys(data["words"]), function(idx,key) {
 	    
-	
+	    
         // for each word we're looking for
         $.each(s_words, function(idx,val) {
           // "fuzzy" matching logic with match and regex,
@@ -75,7 +82,7 @@ function run_search(search_callback) {
             }
           }
           if (key.match(s_reg)) {
-	        
+		        
             // we have a "match", so now we take all of the indexed
             // documents for that word and save them into our results,
             // adding to the original score if this document was already
@@ -125,6 +132,7 @@ function run_search(search_callback) {
       $.each(keys, function(idx,key) {
         final_results.push(results[key]);
       });
+
 
       // run the callback function
       search_callback()

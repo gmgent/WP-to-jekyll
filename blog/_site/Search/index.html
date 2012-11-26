@@ -65,18 +65,17 @@
                 </h2>
 	    			<div id="searchdiv">
 					 <input id="searchbox" class="search" type="text" />
-					 <input id="searchbutton" class="search" type="button" value="search" onclick="javascript:doSearch();" />
+					 <input id="searchbutton" class="search" type="button" value="search" onclick="javascript:doSearch(); messageLoading('searchresult');" />
 					</div>
 					<script type="text/javascript">
 					  function doSearch() {
 					    run_search(function doit() {
-					  		$('#searchresult').append('done');
+					  		$('#searchresult').innerHTML = 'Done.';
 					      });
 					  }
 					</script>
 	                <div id="searchresult">
 		            </div>
-
 	    	</div>
 	    	<div id="ft">
 	    		<br/>
@@ -91,7 +90,7 @@
 		</span>
 	  </td>
 	  <td><span class="midcol">
-	    <small>&copy; 25 November 2012 Krister Axel<br/>All Rights Reserved.</small>
+	    <small>&copy; 26 November 2012 Krister Axel<br/>All Rights Reserved.</small>
 		</span>
 	  </td>
 	  <td><span class="rightcol">
