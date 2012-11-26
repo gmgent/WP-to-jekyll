@@ -195,6 +195,9 @@ pre {
 }
 
 .container { width: 760px;}
+.contact_table_p {float:middle;}
+#contact_table {margin: 10px 20px 10px 30px; width: 640px; }
+#contact_table td {border: 0; font-style: Georgia; line-height: 1.4em;}
 
 blockquote {
 margin-top: 1em;
