@@ -4,7 +4,7 @@
   "tags"     : [{% for tag in post.tags %}"{{ tag }}",{% endfor %} null],
   "href"     : "{{ post.url }}",
   "content"  : "{{ post.content | strip_html | strip_newlines | cgi_escape }}",
-  "teaser"  : "{{ post.content | strip_html | strip_newlines | truncatewords:6 | escape | remove:'\'}}",
+  "teaser"  : "{{ post.content | strip_html | strip_newlines | truncatewords:9 | escape | remove:'\'}}",
   "date"     : {
     "day"   : "{{ post.date | date: "%d" }}",
     "month" : "{{ post.date | date: "%B" }}",

@@ -12,7 +12,7 @@ module Jekyll
     def initialize(site, months, posts_by_month)
       @site = site
       @base = site.source
-      # I simply write the archives.html file in the _site root
+      # KA - I updated this to write to the /Archive dir
       @dir = "/"
       @name = "Archive/index.html"
       
