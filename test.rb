@@ -67,10 +67,24 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
           
           f.puts "---"
           f.puts            
-            
-          post_text = post_item["encoded"][0]
           
-          f.puts post_text
+          # if twitter tweet add 
+          # <blockquote class="twitter-tweet" width="500"><p></p></blockquote>
+          post_text = post_item["encoded"][0].to_s
+          
+          if post_text.scan(/twitter.com.kristeraxel.status/).first
+            exact_tweet = post_text.scan(/(https:\/\/twitter.com.kristeraxel.status\S{9,})/)[0].to_s
+            numbertweet = exact_tweet.split("/").last.to_i
+            if exact_tweet
+              replaced_tweet = "<a href='https://twitter.com/intent/tweet?in_reply_to=#{numbertweet}' target='_blank'>#{exact_tweet}</a>"
+              final_tweet = post_text.to_s.gsub(exact_tweet, replaced_tweet)
+            else
+              final_tweet = exact_tweet
+            end
+            f.puts final_tweet
+          else
+            f.puts post_text
+          end
         end
         #deploy file at the end and add "_" - forced overwrite
         FileUtils.mv("#{physical_file_name}", "blog/_posts/#{physical_file_name}", :force => true)

@@ -27,9 +27,8 @@ function run_search(term) {
 
 
 function make_link(it) {
-	return '<h3>' + 
-	  ' <a href="/' + it.href + '" title="' + it.teaser + '">' + it.title + '</a>' +
-	  it.date.year + ' ' + it.date.month + '</h3>';
+	return '<h3>' + it.date.year + ' ' + it.date.month + 
+	  ' <a href="/' + it.href + '" title="' + it.teaser + '">' + it.title + '</a></h3>';
 }
 
 function match_term(init, searchterm) {
