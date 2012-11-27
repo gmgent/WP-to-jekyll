@@ -17,9 +17,8 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css">  
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
-		<script type="text/javascript" src="/scripts/ksearch.js"></script>
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+        <script src="/scripts/ksearch.js"></script>
     </head>
 
     <body>
@@ -64,19 +63,16 @@
 	    		<h2 class="title">
                     search
                 </h2>
-	    			POOP ROBBER!
-
-<div id="searchdiv">
+	    			<div id="searchdiv">
 <script type="text/javascript">
-function do_search() {
+function do_that_search() {
 	run_search($("#searchbox").val());
-	$('#items').html('<p class="error">No search results found.</p>');
 }
 
 
 </script>
       <input id="searchbox" class="search" type="text" />
-      <input id="searchbutton" class="search" type="button" value="search" onclick="do_search();" />
+      <input id="searchbutton" class="search" type="button" value="search" onclick="do_that_search();" />
       <div id="results" class="menu">
         <div id="items"></div>
       </div>

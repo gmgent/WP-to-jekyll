@@ -7,5 +7,14 @@ function messageLoading(el) {
 function run_search(term) {
 	
   $('#results').html("WE R WINNING " + term);
-  callback()
+
+                    $.getJSON('http://axel.me/search.json', function(data)
+                    {
+                        console.log(data);
+                    });
+
+
 }
+
+
+      
