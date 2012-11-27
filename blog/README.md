@@ -14,4 +14,4 @@ From the original Jekyll base - Check out my [post series](http://danielmcgraw.c
 ## ADDED by Krister Axel ##
 I am working on a new deployment scenario and hosting solution, once that happens I will write a post about it and link here. For now, this project is not ready to launch so don't clone it just yet. I have a lot of personal files still in here.
 
-Once I am done I will release this as a blog base project, with wordpress-style 'pages', category and archive pages that are generated automatically and best of all a javascript- and json-based search that took me quote a while to get right.
+Once I am done I will release this as a blog base project, with wordpress-style 'pages', category and archive pages that are generated automatically and best of all a javascript- and json-based search that took me quite a while to get right.
