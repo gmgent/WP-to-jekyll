@@ -1,7 +1,7 @@
 ---
 ---
 [
-  {% for post in site.posts | limit:6 %}
+  {% for post in site.posts | limit:10 %}
     {% include post.json %},
   {% endfor %}
   null
