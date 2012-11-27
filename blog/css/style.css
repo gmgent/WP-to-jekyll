@@ -190,8 +190,9 @@ h1 {
 }
 
 pre {
-	width: 640px;
-	overflow: scroll;
+	width: 700px;
+	overflow: auto;
+	font: 1.1em Courier;
 }
 
 .container { width: 760px;}

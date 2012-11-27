@@ -12,7 +12,7 @@
       <item>
         <title>{{ post.title }}</title>
         <link>{{ post.url }}</link>
-        <description>{{ post.content }}</description>
+        <description>{{ post.content | escape }}</description>
         <pubDate>{{ post.date }}</pubDate>
       </item>
     {% endfor %}
