@@ -9,7 +9,8 @@ layout: search
         <title>site search | Krister Axel</title>
         {% include _super_header.html %}  
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script type="text/javascript" src="/scripts/search.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/scripts/ksearch.js"></script>
     </head>
 
     <body>
@@ -23,19 +24,7 @@ layout: search
 	    		<h2 class="title">
                     search
                 </h2>
-	    			<div id="searchdiv">
-					 <input id="searchbox" class="search" type="text" />
-					 <input id="searchbutton" class="search" type="button" value="search" onclick="javascript:doSearch(); messageLoading('searchresult');" />
-					</div>
-					<script type="text/javascript">
-					  function doSearch() {
-					    run_search(function doit() {
-					  		$('#searchresult').innerHTML = 'Done.';
-					      });
-					  }
-					</script>
-	                <div id="searchresult">
-		            </div>
+	    			{{content}}
 	    	</div>
 	    	<div id="ft">
 	    		{% include _footer.html %}

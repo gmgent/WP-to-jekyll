@@ -18,7 +18,8 @@
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css">  
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script type="text/javascript" src="/scripts/search.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/scripts/ksearch.js"></script>
     </head>
 
     <body>
@@ -63,19 +64,23 @@
 	    		<h2 class="title">
                     search
                 </h2>
-	    			<div id="searchdiv">
-					 <input id="searchbox" class="search" type="text" />
-					 <input id="searchbutton" class="search" type="button" value="search" onclick="javascript:doSearch(); messageLoading('searchresult');" />
-					</div>
-					<script type="text/javascript">
-					  function doSearch() {
-					    run_search(function doit() {
-					  		$('#searchresult').innerHTML = 'Done.';
-					      });
-					  }
-					</script>
-	                <div id="searchresult">
-		            </div>
+	    			POOP SHOOTERING!
+
+<div id="searchdiv">
+<script type="text/javascript">
+function do_search() {
+	$('#items').html('<p class="error">No search results found.</p>');
+}
+
+
+</script>
+      <input id="searchbox" class="search" type="text" />
+      <input id="searchbutton" class="search" type="button" value="search" onclick="do_search();" />
+      <div id="results" class="menu">
+        <div id="items"></div>
+      </div>
+
+</div>
 	    	</div>
 	    	<div id="ft">
 	    		<br/>

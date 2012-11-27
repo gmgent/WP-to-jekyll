@@ -1,10 +1,20 @@
 ---
 layout: search
 ---
+POOP SHOOTERING!
 
-<div id="results">
-  <h1><!-- `key` listing for `value` --></h1>
-  <ul class="results">
-    <!-- results lists -->
-  </ul>
+<div id="searchdiv">
+<script type="text/javascript">
+function do_search() {
+	$('#items').html('<p class="error">No search results found.</p>');
+}
+
+
+</script>
+      <input id="searchbox" class="search" type="text" />
+      <input id="searchbutton" class="search" type="button" value="search" onclick="do_search();" />
+      <div id="results" class="menu">
+        <div id="items"></div>
+      </div>
+
 </div>
