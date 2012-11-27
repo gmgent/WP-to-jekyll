@@ -199,6 +199,8 @@ pre {
 #contact_table {margin: 10px 20px 10px 30px; width: 640px; }
 #contact_table td {border: 0; font-style: Georgia; line-height: 1.4em;}
 
+.search_items {float:middle; margin-left: 25px; }
+
 blockquote {
 margin-top: 1em;
 left-padding: 20px;
