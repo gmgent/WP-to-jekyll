@@ -12,6 +12,7 @@ function run_search(term) {
 	  $.getJSON("/search.json",
 	    function(json){
 	      console.log(json);
+		  
 	    }
 	  );
 
