@@ -5,14 +5,14 @@ layout: search
 
 <div id="searchdiv">
 <script type="text/javascript">
-function do_that_search() {
+function do_search() {
 	run_search($("#searchbox").val());
 }
 
-
 </script>
+
       <input id="searchbox" class="search" type="text" />
-      <input id="searchbutton" class="search" type="button" value="search" onclick="do_that_search();" />
+      <input id="searchbutton" class="search" type="button" value="search" onclick="do_search();" />
       <div id="results" class="menu">
         <div id="items"></div>
       </div>

@@ -6,12 +6,17 @@ function messageLoading(el) {
 
 function run_search(term) {
 	
-  $('#results').html("WE R WINNING " + term);
+  	var content = "";
+    $("#results").html("PLEASE ME");
 
-                    $.getJSON('http://axel.me/search.json', function(data)
-                    {
-                        console.log(data);
-                    });
+	  $.getJSON("/search.json",
+	    function(json){
+	      console.log(json);
+		  
+	    }
+	  );
+
+
 
 
 }
