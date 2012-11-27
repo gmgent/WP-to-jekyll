@@ -1,12 +1,12 @@
 ---
 layout: search
 ---
-POOP CHOWDER!
+POOP ROBBER!
 
 <div id="searchdiv">
 <script type="text/javascript">
 function do_search() {
-	run_search();
+	run_search($("#searchbox").val());
 	$('#items').html('<p class="error">No search results found.</p>');
 }
 
