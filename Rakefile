@@ -10,8 +10,9 @@ task :commit => [:commit_site]
 
 desc "Commit compiled site to Git"
 task :commit_site do
+  commit_message = ENV['message'] ? "#{ENV['message']} . " : ""
   sh "cd /Users/theta/src/jekyll && git add -A"
-  sh "cd /Users/theta/src/jekyll && git commit -m 'automated commit'"
+  sh "cd /Users/theta/src/jekyll && git commit -m 'automated deploy commit #{Time.now.to_i}'"
 end
 
 desc "Push committed site to GitHub"
