@@ -66,15 +66,7 @@
 	    		<h2 class="title">
                     search
                 </h2>
-	    			<div id="searchdiv">
-<script type="text/javascript">
-function do_search() {
-	run_search($("#searchbox").val());
-}
-
-</script>
-
-      <input id="searchbox" class="search" type="text" />
+	    			      <input id="searchbox" class="search" type="text" />
       <input id="searchbutton" class="search" type="button" value="search" onclick="do_search();" />
       <div id="results" class="search_results"></div>
       <div id="items" class="search_items"></div>
@@ -82,6 +74,20 @@ function do_search() {
 </div>
 
 
+
+<div id="searchdiv">
+<script type="text/javascript">
+function do_search() {
+	run_search($("#searchbox").val());
+}
+
+$( '#searchbox' ).bind('keypress', function(e){
+   if ( e.keyCode == 13 ) {
+     do_search();
+   }
+ });
+
+</script>
 	    	</div>
 	    	<div id="ft">
 	    		<br/>
