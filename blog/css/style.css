@@ -193,6 +193,7 @@ pre {
 #contact_table td {border: 0; font-style: Georgia; line-height: 1.4em;}
 
 .search_items {float:middle; margin-left: 25px; }
+#results { padding: 10px; }
 
 blockquote {
 margin-top: 1em;

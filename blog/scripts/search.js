@@ -4,21 +4,25 @@ function run_search(term) {
     $("#items").html(""); 
 
 	$.getJSON("/search.json", function(json) { 
+		var rec_count = 0;
 		/* console.log(json); */
 
-		$("#results").html("no match was found.");
 		$.each(json, function(index, item) {
 			if (item) {
 				
 				if (match_term(item, term)) {
 				  $("#items").append(make_link(item));
 				/*erase old message*/
-				  $("#results").html("");	
+				  $("#results").html("");
+				  rec_count+=1;
 				};
 				
 			  };
 		        
 		    });
+		    
+		/*push final message */
+		    $("#results").html(rec_count + " items found for <em>" + term + "</em>" );
 		
 	} );
 	
