@@ -1,6 +1,6 @@
 function run_search(term) {
 			
-    $("#results").html("loading");
+    $("#results").html("loading...");
     $("#items").html(""); 
 
 	$.getJSON("/search.json", function(json) { 
