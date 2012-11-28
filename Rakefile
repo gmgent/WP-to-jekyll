@@ -23,6 +23,7 @@ end
 desc "sync to EC2"
 task :sync do
   sh "ruby #{SITEDIR}/deploy_command.rb"
+  sh "cd #{SITEDIR}"
 end
 
 def site_files
