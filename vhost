@@ -1,10 +1,27 @@
-NameVirtualHost 107.22.165.75
-<VirtualHost *> ServerName blog.kristeraxel.com DocumentRoot /var/www/html </VirtualHost>
-<VirtualHost *> ServerName kristeraxel.com DocumentRoot /var/www/kristeraxel.com/ </VirtualHost>
-<VirtualHost *> ServerName www.kristeraxel.com DocumentRoot /var/www/kristeraxel.com/ </VirtualHost>
+NameVirtualHost *:80
+<VirtualHost *:80>
+        ServerName blog.kristeraxel.com
+        DocumentRoot /var/www/html
+</VirtualHost>
+<VirtualHost *:80>
+        ServerName kristeraxel.com
+        DocumentRoot /var/www/kristeraxel.com/
+</VirtualHost>
+<VirtualHost *:80>
+        ServerName www.kristeraxel.com
+        DocumentRoot /var/www/kristeraxel.com/
+</VirtualHost>
+<VirtualHost *:80>
+        ServerName u.inmusic.org
+        DocumentRoot /var/www/other/
+</VirtualHost>
 
 
 
-remove this line and edit to your liking; save as etc/httpd/conf.d/vhost.conf. 
+remove below this line and edit to your liking; save as etc/httpd/conf.d/vhost.conf. 
 notes:
 If you don’t have a file named vhost.conf, you should go ahead and create it. Make sure your file permissions are right (644).
+
+I am also doing a subdomain push, so that the subdomain (u.inmusic.org) will go to the /var/www/other/ folder, while the root will still pass through to /var/www/html (the default).
+
+I'm doing this to publish many domains on the same little EC2 slice. It is a total time-saver.
