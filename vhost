@@ -1,0 +1,10 @@
+NameVirtualHost 107.22.165.75
+<VirtualHost *> ServerName blog.kristeraxel.com DocumentRoot /var/www/html </VirtualHost>
+<VirtualHost *> ServerName kristeraxel.com DocumentRoot /var/www/kristeraxel.com/ </VirtualHost>
+<VirtualHost *> ServerName www.kristeraxel.com DocumentRoot /var/www/kristeraxel.com/ </VirtualHost>
+
+
+
+remove this line and edit to your liking; save as etc/httpd/conf.d/vhost.conf. 
+notes:
+If you don’t have a file named vhost.conf, you should go ahead and create it. Make sure your file permissions are right (644).

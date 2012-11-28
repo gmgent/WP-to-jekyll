@@ -4,6 +4,8 @@ require 'xmlsimple'
 require 'fileutils'
 
 inputname = "kristeraxel.wordpress.2012-11-23.xml"
+#inputname = "axelsongs.wordpress.2012-11-28.xml"
+
 
 puts "processing #{inputname}"
 

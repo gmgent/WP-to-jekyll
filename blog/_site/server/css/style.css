@@ -1,0 +1,266 @@
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+/* GENERAL STYLES */
+/* Floating & Alignment */
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.ac {
+  text-align: center;
+}
+.ar {
+  text-align: right;
+}
+/* Clear Floats */
+.col-full:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.fix {
+  clear: both;
+  height: 1px;
+  margin: -1px 0 0;
+  overflow: hidden;
+}
+html body * span.clear,
+html body * div.clear,
+html body * li.clear,
+html body * dd.clear {
+  background: none;
+  border: 0;
+  clear: both;
+  display: block;
+  float: none;
+  font-size: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+body {
+  padding: 0 1.618em;
+  font: 14px/20px Georgia, serif;
+  color: #555;
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #222;
+  font-weight: bold;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.8em;
+}
+h3 {
+  font-size: 1.6em;
+}
+h4 {
+  font-size: 1.2em;
+}
+h5 {
+  font-size: 1em;
+}
+h6 {
+  font-size: 0.8em;
+}
+p {
+  margin: 0;
+  font: 14px/22px Georgia, serif;
+}
+hr {
+  background-color: #e6e6e6;
+  border: 0;
+  height: 1px;
+  margin-bottom: 20px;
+}
+input,
+textarea {
+  padding: 5px;
+  background: #fafafa;
+  border-color: #ccc #efefef #efefef #ccc;
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+input:focus,
+textarea:focus {
+  background: #fff;
+  border-color: transparent;
+  box-shadow: 0 0 6px rgba(48, 136, 255, 0.7);
+  -moz-box-shadow: 0 0 6px rgba(48, 136, 255, 0.7);
+  -webkit-box-shadow: 0 0 6px rgba(48, 136, 255, 0.7);
+}
+.hide {
+  display: none;
+}
+img {
+  vertical-align: bottom;
+  max-width: 100%;
+}
+/* Bicubic resizing for non-native sized IMG: code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/ */
+.ie7 img {
+  -ms-interpolation-mode: bicubic;
+}
+/* 1.2 Hyperlinks */
+a:link,
+a:visited {
+  color: #3088ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+h1 a:link,
+h1 a:visited,
+h2 a:link,
+h2 a:visited,
+h3 a:link,
+h3 a:visited,
+h4 a:link,
+h4 a:visited,
+h5 a:link,
+h5 a:visited,
+h6 a:link,
+h6 a:visited {
+  text-decoration: none;
+}
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+  text-decoration: underline;
+}
+
+.metalabel { font-size: 9pt;}
+.teaser_info { padding: 0 10px 0 20px;}
+.teaser_info p {margin-left: 10px;}
+
+.item {
+  margin: 8px;
+}
+
+.post_link:hover {
+	background-color: ghostwhite;
+	padding: 3px;
+	line-height: 1.4em;
+}
+
+.post_link a:hover { text-decoration: none; }
+
+h1 {
+	font: 2em Georgia;
+}
+
+pre {
+	width: 700px;
+	overflow: auto;
+	font: 1.1em Courier;
+}
+
+.container { width: 760px;}
+.contact_table_p {float:middle;}
+#contact_table {margin: 10px 20px 10px 30px; width: 640px; }
+#contact_table td {border: 0; font-style: Georgia; line-height: 1.4em;}
+
+.search_items {float:middle; margin-left: 25px; }
+#results { padding: 10px; }
+
+blockquote {
+margin-top: 1em;
+left-padding: 20px;
+margin-left: 1em;
+border-left:2px dashed #ECE5B6;
+border-right:2px dashed #ECE5B6;
+background-image:url('/img/papersquare.jpg');
+line-height: 1.6em;
+ 
+}
+ 
+blockquote:first-letter {
+float: left;
+margin: 5px 3px 1px 0;
+font-family: Georgia;
+font-size: 40px;
+font-weight: bold;
+}
+
+.nav {
+	font: 1em Georgia;
+	list-style:none;
+	padding: 0;
+	margin: 0;
+	background: #fff;
+	text-transform: uppercase;
+	border-bottom: 3px solid #000;
+	border-top: 1px solid #ddd;
+}
+
+.nav li {
+	display: inline-block;
+	zoom:1;
+	*display:inline;
+	padding: 5px 20px 4px 20px;
+}
+
+.nav li a {
+	color: #000;
+	text-decoration: none;
+	line-height: 1.6em;
+}
+
+.nav li a:hover {
+	color: maroon;
+}
+
+.contact {text-align: center;}
+
+#footer { width: 800px; font: 1em Georgia;}
+
+#footer a { font-size: 9pt;}
+
+#footer td {border: 0;}
+
+#footer-cols leftcol {
+    text-align: left;
+	padding: 5px 20px 4px 20px;
+}
+
+#footer-cols midcol {
+
+	padding: 5px 20px 4px 20px;
+}
+
+#footer-cols rightcol {
+
+	padding: 5px 20px 4px 20px;
+}
