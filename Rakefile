@@ -5,6 +5,7 @@ desc "Compile, commit and push"
 task :default => [:commit, :push, :sync]
 task :ps => [:push, :sync]
 
+task :sync => [:sync_ec2, :sync_assets]
 
 desc "Commit compiled site and record new version"
 task :commit => [:commit_site]
@@ -41,11 +42,19 @@ task :push do
 end
 
 desc "sync to EC2"
-task :sync do
+task :sync_ec2 do
   puts "Now syncing..."
   sh "ruby #{SITEDIR}/deploy_command.rb"
+  #sh "cd #{SITEDIR}"
+end
+
+desc "push assets"
+task :sync_assets do
+  puts "Now syncing..."
+  sh "ruby #{SITEDIR}/deploy_assets.rb"
   sh "cd #{SITEDIR}"
 end
+
 
 def site_files
   FileList["#{SITEDIR}/**/*"].find_all {|f| File.file? f}
