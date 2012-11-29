@@ -4,7 +4,7 @@ title: the fizzbuzz problem
 permalink: 2011/10/the-fizzbuzz-problem
 postday: 10/29 2011
 posttime: 13_16
-categories: [Code]
+categories: [code]
 ---
 
 <br>

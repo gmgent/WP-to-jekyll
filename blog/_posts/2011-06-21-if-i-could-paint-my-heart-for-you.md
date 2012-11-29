@@ -4,7 +4,7 @@ title: if I Could Paint My Heart For You
 permalink: 2011/06/if-i-could-paint-my-heart-for-you
 postday: 06/21 2011
 posttime: 11_29
-categories: [Poetry]
+categories: [poetry]
 ---
 
 

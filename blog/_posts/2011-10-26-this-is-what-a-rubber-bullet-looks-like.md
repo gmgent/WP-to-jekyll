@@ -4,7 +4,7 @@ title: this is what a rubber bullet looks like
 permalink: 2011/10/this-is-what-a-rubber-bullet-looks-like
 postday: 10/26 2011
 posttime: 00_37
-categories: [Politics, Random]
+categories: [politics, random]
 ---
 
 pictures courtesy of <a href="http://twitpic.com/photos/schuyler">@schuyler</a> and the police brutality of <strong><a href="http://www.youtube.com/results?search_query=occupy+oakland+tear&aq=f" target="_blank">Occupy Oakland</a></strong>.

@@ -4,7 +4,7 @@ title: my little geocoder class for Ruby on Rails
 permalink: 2009/12/my-little-geocoder-class-for-ruby-on-rails
 postday: 12/17 2009
 posttime: 18_20
-categories: [Code]
+categories: [code]
 ---
 
 <p>works like a charm.</p>

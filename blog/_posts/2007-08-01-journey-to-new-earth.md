@@ -4,7 +4,7 @@ title: Journey to New Earth
 permalink: 2007/08/journey-to-new-earth
 postday: 08/01 2007
 posttime: 06_34
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Final tour schedule:</p>

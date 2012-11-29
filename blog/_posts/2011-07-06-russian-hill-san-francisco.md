@@ -4,7 +4,7 @@ title: Russian Hill, San Francisco
 permalink: 2011/07/russian-hill-san-francisco
 postday: 07/06 2011
 posttime: 02_27
-categories: [Brave New World, Journal, Saga]
+categories: [brave new world, journal, saga]
 ---
 
 

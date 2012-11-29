@@ -4,7 +4,7 @@ title: Ask Culture meets Guess Culture
 permalink: 2010/05/ask-culture-meets-guess-culture
 postday: 05/15 2010
 posttime: 19_53
-categories: [Historical, Random]
+categories: [historical, random]
 ---
 
 <p>from <a href="http://ask.metafilter.com/55153/Whats-the-middle-ground-between-FU-and-Welcome" title="http://ask.metafilter.com/55153/Whats-the-middle-ground-between-FU-and-Welcome">http://ask.metafilter.com/55153/Whats-the-middle-ground-between-FU-and-W...</a><br />

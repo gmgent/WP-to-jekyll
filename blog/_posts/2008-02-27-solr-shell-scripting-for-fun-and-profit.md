@@ -4,7 +4,7 @@ title: solr shell scripting for fun and profit
 permalink: 2008/02/solr-shell-scripting-for-fun-and-profit
 postday: 02/27 2008
 posttime: 08_02
-categories: [Code]
+categories: [code]
 ---
 
 <p>We love Solr. Yes we do.</p>

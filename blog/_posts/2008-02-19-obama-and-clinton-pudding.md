@@ -4,7 +4,7 @@ title: Obama and Clinton Pudding
 permalink: 2008/02/obama-and-clinton-pudding
 postday: 02/19 2008
 posttime: 19_35
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>If the proof is in the pudding, then here is some pudding:</p>

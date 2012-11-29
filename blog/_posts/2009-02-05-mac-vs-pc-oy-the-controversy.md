@@ -4,7 +4,7 @@ title: Mac vs PC oy the controversy
 permalink: 2009/02/mac-vs-pc-oy-the-controversy
 postday: 02/05 2009
 posttime: 23_33
-categories: [Code]
+categories: [code]
 ---
 
 <p>I stumbled across this ( <a href="http://tech.yahoo.com/blogs/null/116923">http://tech.yahoo.com/blogs/null/116923</a> ) story today, and as is increasingly the case, the comments are far more interesting than the article. It seems that people have very strong opinions about Microsoft and Vista. The general consensus - most people HATE Vista. I am one of those people, not so much because I know too much about it - other than it is a resource hog, is very slow, and was basically conceived of in order to sell more &#039;stuff&#039; - as opposed to meeting any sort of concrete need.</p>

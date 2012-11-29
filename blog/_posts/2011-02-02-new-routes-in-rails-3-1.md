@@ -4,7 +4,7 @@ title: new routes in rails 3.1
 permalink: 2011/02/new-routes-in-rails-3-1
 postday: 02/02 2011
 posttime: 06_50
-categories: [Code]
+categories: [code]
 ---
 
 <p>explained here:</p>

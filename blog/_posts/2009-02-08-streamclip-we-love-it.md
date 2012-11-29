@@ -4,7 +4,7 @@ title: Streamclip we love it
 permalink: 2009/02/streamclip-we-love-it
 postday: 02/08 2009
 posttime: 20_49
-categories: [Code]
+categories: [code]
 ---
 
 <p><a href="http://en.wikipedia.org/wiki/MPEG_Streamclip">http://en.wikipedia.org/wiki/MPEG_Streamclip</a></p>

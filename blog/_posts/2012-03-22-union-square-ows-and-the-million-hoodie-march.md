@@ -4,7 +4,7 @@ title: union square OWS and the million hoodie march
 permalink: 2012/03/union-square-ows-and-the-million-hoodie-march
 postday: 03/22 2012
 posttime: 00_27
-categories: [Politics, Random]
+categories: [politics, random]
 ---
 
 Start getting used to it.

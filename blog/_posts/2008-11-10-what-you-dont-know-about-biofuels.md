@@ -4,7 +4,7 @@ title: What you don't know about biofuels
 permalink: 2008/11/what-you-dont-know-about-biofuels
 postday: 11/10 2008
 posttime: 19_12
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>The figure emphatically contradicts the US government's claims that plant-derived fuels contribute less than 3% to food-price rises...</p>

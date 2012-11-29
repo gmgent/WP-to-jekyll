@@ -4,7 +4,7 @@ title: it begins again
 permalink: 2009/12/it-begins-again
 postday: 12/19 2009
 posttime: 08_32
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I have been archiving incarnations of my personal web site and blog posts since 2005 now, and I am once again shifting gears in my personal engine of feeds and re-posting mechanisms. :)</p>

@@ -4,7 +4,7 @@ title: reverse string function
 permalink: 2011/03/reverse-string-function
 postday: 03/18 2011
 posttime: 20_53
-categories: [Code]
+categories: [code]
 ---
 
 <BR/>

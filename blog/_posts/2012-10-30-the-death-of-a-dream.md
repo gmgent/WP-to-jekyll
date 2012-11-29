@@ -4,7 +4,7 @@ title: the death of a dream
 permalink: 2012/10/the-death-of-a-dream
 postday: 10/30 2012
 posttime: 11_58
-categories: [Brave New World, Journal, Poetry, Saga]
+categories: [brave new world, journal, poetry, saga]
 ---
 
 this road that I have walked on all these years

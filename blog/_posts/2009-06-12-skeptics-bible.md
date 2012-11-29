@@ -4,7 +4,7 @@ title: skeptics bible
 permalink: 2009/06/skeptics-bible
 postday: 06/12 2009
 posttime: 17_49
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Very cool stuff. I love technology! This is one of my favorites:</p>

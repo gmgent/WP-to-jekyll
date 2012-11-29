@@ -4,7 +4,7 @@ title: a few songs at Room 5 this Sunday
 permalink: 2012/02/a-few-songs-at-room-5-this-sunday
 postday: 02/22 2012
 posttime: 13_03
-categories: [News]
+categories: [news]
 ---
 
 I have been hard at work on finishing <a href="http://skymeetsea.com" target="_blank">Sky Meet Sea</a> so I haven't played out in a while but this Sunday I will be playing a short set at <a href="http://www.facebook.com/room5" target="_blank">Room 5</a>.

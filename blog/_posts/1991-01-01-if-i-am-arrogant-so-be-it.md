@@ -4,7 +4,7 @@ title: If I am arrogant so be it
 permalink: 1991/01/if-i-am-arrogant-so-be-it
 postday: 01/01 1991
 posttime: 08_18
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <blockquote>

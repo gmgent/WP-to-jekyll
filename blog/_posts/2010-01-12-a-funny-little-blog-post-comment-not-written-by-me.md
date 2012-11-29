@@ -4,7 +4,7 @@ title: a funny little blog post comment not written by me
 permalink: 2010/01/a-funny-little-blog-post-comment-not-written-by-me
 postday: 01/12 2010
 posttime: 22_43
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Posted by: dsf3g | 05/18/09 | 5:44 am</p>

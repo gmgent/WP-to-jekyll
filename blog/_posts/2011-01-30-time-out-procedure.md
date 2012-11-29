@@ -4,7 +4,7 @@ title: Time out procedure
 permalink: 2011/01/time-out-procedure
 postday: 01/30 2011
 posttime: 06_15
-categories: [Parenting, Saga]
+categories: [parenting, saga]
 ---
 
 Yeah, I know. We learned this from an episode of SuperNanny.<br/>

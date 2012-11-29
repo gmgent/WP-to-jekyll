@@ -4,7 +4,7 @@ title: asynchronous javascript FTW
 permalink: 2008/11/asynchronous-javascript-ftw
 postday: 11/18 2008
 posttime: 10_54
-categories: [Code]
+categories: [code]
 ---
 
 <p>link_to_remote(name, options = {}, html_options = {})</p>

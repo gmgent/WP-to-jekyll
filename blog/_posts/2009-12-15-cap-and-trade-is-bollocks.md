@@ -4,7 +4,7 @@ title: cap and trade is bollocks
 permalink: 2009/12/cap-and-trade-is-bollocks
 postday: 12/15 2009
 posttime: 18_37
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>quoted from: <a href="http://www.nytimes.com/2009/12/07/opinion/07hansen.html" title="http://www.nytimes.com/2009/12/07/opinion/07hansen.html">http://www.nytimes.com/2009/12/07/opinion/07hansen.html</a></p>

@@ -4,7 +4,7 @@ title: Ruby find_by_sql and a select statement
 permalink: 2008/12/ruby-find_by_sql-and-a-select-statement
 postday: 12/04 2008
 posttime: 10_05
-categories: [Code]
+categories: [code]
 ---
 
 <p>This is how I still do things. I don&#039;t think it&#039;s terribly old-fashioned. Databases are still faster than web servers, aren&#039;t they?</p>

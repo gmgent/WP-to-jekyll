@@ -4,7 +4,7 @@ title: a little periodic love
 permalink: 2008/04/a-little-periodic-love
 postday: 04/03 2008
 posttime: 07_18
-categories: [Code]
+categories: [code]
 ---
 
 <p>Although I didn&#039;t actually end up using it, this little snippet did work like a charm.</p>

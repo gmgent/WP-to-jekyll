@@ -4,7 +4,7 @@ title: we are working on the last song
 permalink: 2012/03/we-are-working-on-the-last-song
 postday: 03/19 2012
 posttime: 13_47
-categories: [News]
+categories: [news]
 ---
 
 Last up is song #10. The last mix, mastering, and we should have an album by June.

@@ -4,7 +4,7 @@ title: Wanting More, Having Less
 permalink: 2003/12/wanting-more-having-less
 postday: 12/15 2003
 posttime: 11_32
-categories: [Poetry]
+categories: [poetry]
 ---
 
 It's so seldom that I can put words together 

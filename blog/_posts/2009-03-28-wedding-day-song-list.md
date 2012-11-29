@@ -4,7 +4,7 @@ title: wedding day song list
 permalink: 2009/03/wedding-day-song-list
 postday: 03/28 2009
 posttime: 21_08
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>shelter - r lamontagne<br />

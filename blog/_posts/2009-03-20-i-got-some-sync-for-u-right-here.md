@@ -4,7 +4,7 @@ title: I got some sync for u right here
 permalink: 2009/03/i-got-some-sync-for-u-right-here
 postday: 03/20 2009
 posttime: 22_00
-categories: [Historical]
+categories: [historical]
 ---
 
 <table cellpadding="5">

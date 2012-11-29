@@ -4,7 +4,7 @@ title: subUrbia part 8
 permalink: 2009/08/suburbia-part-8
 postday: 08/11 2009
 posttime: 01_05
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>start it at minute 5:49:</p>

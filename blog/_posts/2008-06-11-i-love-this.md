@@ -4,7 +4,7 @@ title: I love this
 permalink: 2008/06/i-love-this
 postday: 06/11 2008
 posttime: 22_50
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>A spoof on the Mac vs. PC controversy. It is possible that this is only amusing for computer geeks. I just love making fun of Bill Gates.<br /></p>

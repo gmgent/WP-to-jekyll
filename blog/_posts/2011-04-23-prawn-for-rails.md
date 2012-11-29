@@ -4,7 +4,7 @@ title: prawn for Rails
 permalink: 2011/04/prawn-for-rails
 postday: 04/23 2011
 posttime: 07_02
-categories: [Code]
+categories: [code]
 ---
 
 <br/>

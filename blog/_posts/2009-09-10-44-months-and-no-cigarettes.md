@@ -4,7 +4,7 @@ title: 44 months and no cigarettes
 permalink: 2009/09/44-months-and-no-cigarettes
 postday: 09/10 2009
 posttime: 18_22
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Hello Krister Axel!<br />

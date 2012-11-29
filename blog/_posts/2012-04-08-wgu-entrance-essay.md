@@ -4,7 +4,7 @@ title: WGU entrance essay
 permalink: 2012/04/wgu-entrance-essay
 postday: 04/08 2012
 posttime: 10_53
-categories: [Random]
+categories: [random]
 ---
 
 I'm going for another Bachelor's, this time a BS of Information Technology with an emphasis on databases. As part of a much larger initial assessment, I wrote this essay. The question was very broad - 'write about a challenge you have faced in your life and how you overcame it'.

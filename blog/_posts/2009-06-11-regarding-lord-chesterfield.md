@@ -4,7 +4,7 @@ title: regarding Lord Chesterfield
 permalink: 2009/06/regarding-lord-chesterfield
 postday: 06/11 2009
 posttime: 18_48
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I found this awesome essay by Virginia Woolf about my man LC:</p>

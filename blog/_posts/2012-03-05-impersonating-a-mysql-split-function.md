@@ -4,7 +4,7 @@ title: impersonating a MySQL split function
 permalink: 2012/03/impersonating-a-mysql-split-function
 postday: 03/05 2012
 posttime: 15_42
-categories: [Code]
+categories: [code]
 ---
 
 <br><br>

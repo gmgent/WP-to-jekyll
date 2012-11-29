@@ -4,7 +4,7 @@ title: as long as I have you
 permalink: 2009/06/as-long-as-i-have-you
 postday: 06/08 2009
 posttime: 21_51
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>you were always out of town<br />

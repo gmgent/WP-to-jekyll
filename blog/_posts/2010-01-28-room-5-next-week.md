@@ -4,7 +4,7 @@ title: Room 5 next week
 permalink: 2010/01/room-5-next-week
 postday: 01/28 2010
 posttime: 19_56
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Hey, I'm doing my first show in FOREVER at Room 5 on Feb 12th (next Friday). You should come because it's a benefit for Haiti relief and I will play at least one new song.</p>

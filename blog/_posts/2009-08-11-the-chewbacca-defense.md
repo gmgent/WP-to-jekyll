@@ -4,7 +4,7 @@ title: the Chewbacca defense
 permalink: 2009/08/the-chewbacca-defense
 postday: 08/11 2009
 posttime: 08_43
-categories: [Historical]
+categories: [historical]
 ---
 
 <p><a href="http://www.southparkstudios.com/episodes/103585" title="http://www.southparkstudios.com/episodes/103585">http://www.southparkstudios.com/episodes/103585</a></p>

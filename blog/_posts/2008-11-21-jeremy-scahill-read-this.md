@@ -4,7 +4,7 @@ title: Jeremy Scahill - read this
 permalink: 2008/11/jeremy-scahill-read-this
 postday: 11/21 2008
 posttime: 01_13
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Jeremy Scahill is one of the smartest and most on-point and factual political commentators that I have heard in a long time. He is amazing in terms of his ability to cite sources and names, and he is a great writer. He gives me hope for our generation. Here is a very sobering assessment of the upcoming Obama administration:</p>

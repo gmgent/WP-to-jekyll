@@ -4,7 +4,7 @@ title: Ruby export to excel walkthrough
 permalink: 2008/10/ruby-export-to-excel-walkthrough
 postday: 10/29 2008
 posttime: 09_42
-categories: [Code]
+categories: [code]
 ---
 
 <p>Just write the headers, pull up the xml by report_id, and slurp it out. Piece of cake.</p>

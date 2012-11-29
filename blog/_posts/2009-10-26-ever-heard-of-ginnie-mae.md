@@ -4,7 +4,7 @@ title: ever heard of Ginnie Mae?
 permalink: 2009/10/ever-heard-of-ginnie-mae
 postday: 10/26 2009
 posttime: 22_42
-categories: [Historical]
+categories: [historical]
 ---
 
 <p><a href="http://online.wsj.com/article/SB125253192129897239.html" title="http://online.wsj.com/article/SB125253192129897239.html">http://online.wsj.com/article/SB125253192129897239.html</a><br />

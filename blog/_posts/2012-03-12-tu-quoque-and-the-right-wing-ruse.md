@@ -4,7 +4,7 @@ title: tu quoque and the right wing ruse
 permalink: 2012/03/tu-quoque-and-the-right-wing-ruse
 postday: 03/12 2012
 posttime: 12_15
-categories: [Politics]
+categories: [politics]
 ---
 
 <strong>tu quoque</strong>:

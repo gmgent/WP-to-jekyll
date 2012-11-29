@@ -4,7 +4,7 @@ title: one point for Obama
 permalink: 2009/10/one-point-for-obama
 postday: 10/13 2009
 posttime: 18_59
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Since I am pretty hard on the Obama administration, although he is of course much better than Bush was, it is fitting that I pay respect where it is due.</p>

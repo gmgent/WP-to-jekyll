@@ -4,7 +4,7 @@ title: can you believe this?
 permalink: 2008/12/can-you-believe-this
 postday: 12/01 2008
 posttime: 22_22
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>A Wal-Mart worker died early Friday after an "out-of-control" mob of frenzied shoppers smashed through the Long Island store's front doors and trampled him, police said.</p>

@@ -4,7 +4,7 @@ title: Who started it? Israel...
 permalink: 2009/01/who-started-it-israel
 postday: 01/08 2009
 posttime: 19_37
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>On November 4th, here [the] record is clear: Israel broke the ceasefire by going into Gaza and killing six or seven Palestinian militants. At that point—and now I'm quoting the official Israeli website—Hamas retaliated or, in retaliation for the Israeli attack, then launched the missiles. -Norman Finkelstein, quoted JAN 8, 2009 on <a href="http://democracynow.org" title="http://democracynow.org">http://democracynow.org</a>.</p>

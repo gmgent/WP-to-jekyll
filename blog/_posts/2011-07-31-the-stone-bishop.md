@@ -4,7 +4,7 @@ title: The Stone Bishop
 permalink: 2011/07/the-stone-bishop
 postday: 07/31 2011
 posttime: 14_35
-categories: [Brave New World, Origins, Saga]
+categories: [brave new world, origins, saga]
 ---
 
 The Stone Bishop is a great friend of mine, a very talented musician and as it turns out a very talented graphic artist as well. I love this.

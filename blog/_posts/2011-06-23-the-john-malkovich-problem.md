@@ -4,7 +4,7 @@ title: The John Malkovich problem
 permalink: 2011/06/the-john-malkovich-problem
 postday: 06/23 2011
 posttime: 16_35
-categories: [Random]
+categories: [random]
 ---
 
 from <a href="http://techcrunch.com/2011/06/23/oblong-mezzanine/">this link</a> regarding the <a href="http://techcrunch.com/2011/06/23/oblong-mezzanine/">mezzanine product</a> by <a href="http://oblong.com/">Oblong Industries</a>. 

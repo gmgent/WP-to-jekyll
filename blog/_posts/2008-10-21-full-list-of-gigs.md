@@ -4,7 +4,7 @@ title: Full list of gigs
 permalink: 2008/10/full-list-of-gigs
 postday: 10/21 2008
 posttime: 06_18
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>added: Farmers Market - May 09</p>

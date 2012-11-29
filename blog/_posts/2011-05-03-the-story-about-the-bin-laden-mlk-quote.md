@@ -4,7 +4,7 @@ title: the story about the Bin Laden MLK quote
 permalink: 2011/05/the-story-about-the-bin-laden-mlk-quote
 postday: 05/03 2011
 posttime: 13_31
-categories: [Politics, Random]
+categories: [politics, random]
 ---
 
 I saw a tweet about it from <a href="https://twitter.com/#!/ClaudeSuper">@ClaudeSuper<a href="https://twitter.com/#!/ClaudeSuper"></a> and I thought it was interesting. I've been seeing this quote moving around Facebook today and I should have realized it was becoming a national news item. The story is from <a href="http://mashable.com/2011/05/03/altered-mlk-quote/">Mashable</a>:

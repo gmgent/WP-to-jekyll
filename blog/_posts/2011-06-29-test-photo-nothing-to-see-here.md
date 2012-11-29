@@ -4,7 +4,7 @@ title: test photo nothing to see here
 permalink: 2011/06/test-photo-nothing-to-see-here
 postday: 06/29 2011
 posttime: 17_37
-categories: [Journal, Random]
+categories: [journal, random]
 ---
 
 Don't mind me, I am testing another auto post with custom short link (this time with a photo).

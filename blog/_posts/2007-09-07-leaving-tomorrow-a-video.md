@@ -4,7 +4,7 @@ title: Leaving Tomorrow + a video
 permalink: 2007/09/leaving-tomorrow-a-video
 postday: 09/07 2007
 posttime: 18_16
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Tomorrow we start out on the road. Check out the <a href="http://noonchild.com/muse/kristeraxel_blog-0">Journey to New Earth</a> page for more info on where we're going. Missouri, Wisconsin, Minnesota here we come.<br />

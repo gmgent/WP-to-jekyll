@@ -4,7 +4,7 @@ title: the Law of Demeter
 permalink: 2010/07/the-law-of-demeter
 postday: 07/20 2010
 posttime: 19_15
-categories: [Code]
+categories: [code]
 ---
 
 <p>More formally, the Law of Demeter for functions requires that a method M of an object O may only invoke the methods of the following kinds of objects:</p>

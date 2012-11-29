@@ -4,7 +4,7 @@ title: Getting ready for climate change
 permalink: 2008/08/getting-ready-for-climate-change
 postday: 08/14 2008
 posttime: 18_47
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Less ice, more heat. Let's all remember that it's the SUV drivers that did this to us. :)</p>

@@ -4,7 +4,7 @@ title: trickle down my arse
 permalink: 2009/12/trickle-down-my-arse
 postday: 12/17 2009
 posttime: 20_43
-categories: [Historical, Politics]
+categories: [historical, politics]
 ---
 
 <p>quoted from: <a href="http://crookedtimber.org/2009/12/17/bookblogging-the-failure-of-trickle-down/" title="http://crookedtimber.org/2009/12/17/bookblogging-the-failure-of-trickle-down/">http://crookedtimber.org/2009/12/17/bookblogging-the-failure-of-trickle-...</a></p>

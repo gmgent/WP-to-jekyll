@@ -4,7 +4,7 @@ title: to my beautiful wife
 permalink: 2010/08/to-my-beautiful-wife
 postday: 08/07 2010
 posttime: 00_43
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I dedicate my favorite xkcd comic:</p>

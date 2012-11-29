@@ -4,7 +4,7 @@ title: Pentagon shenanigans
 permalink: 2008/01/pentagon-shenanigans
 postday: 01/09 2008
 posttime: 18_28
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Who knew that the Pentagon was in the business of fabricating bogus videotapes? Oh wait, you mean all those Al Qaeda vids are probably fake as well?</p>

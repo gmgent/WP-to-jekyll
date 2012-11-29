@@ -4,7 +4,7 @@ title: annemarieke
 permalink: 2000/10/annemarieke
 postday: 10/25 2000
 posttime: 00_32
-categories: [Historical]
+categories: [historical]
 ---
 
 A lot to say.

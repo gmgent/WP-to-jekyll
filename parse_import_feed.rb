@@ -65,7 +65,7 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
           f.puts "permalink: #{filename}\n"
           f.puts "postday: #{datearray[1]}/#{datearray[2].to_s[0..1]} #{datearray[0]}\n"
           f.puts "posttime: #{datearray[2].to_s[3..7].to_s.gsub(':', '_')}\n"
-          f.puts "categories: [#{cats.join(', ')}]\n"
+          f.puts "categories: [#{cats.map{|x| x.downcase}.join(', ')}]\n"
           
           f.puts "---"
           f.puts            

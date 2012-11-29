@@ -4,7 +4,7 @@ title: Mental Boxes
 permalink: 2003/09/mental-boxes
 postday: 09/22 2003
 posttime: 11_36
-categories: [Poetry]
+categories: [poetry]
 ---
 
 it occurs to me in hesitation

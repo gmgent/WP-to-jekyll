@@ -4,7 +4,7 @@ title: fun with rebelmouse
 permalink: 2012/07/fun-with-rebelmouse
 postday: 07/24 2012
 posttime: 13_10
-categories: [Random]
+categories: [random]
 ---
 
 There is always something cool that I am just hearing about. This week it is rebelmouse.

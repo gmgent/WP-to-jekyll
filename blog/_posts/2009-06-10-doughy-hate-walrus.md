@@ -4,7 +4,7 @@ title: doughy hate walrus
 permalink: 2009/06/doughy-hate-walrus
 postday: 06/10 2009
 posttime: 19_26
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I still love this! Doughy hate-walrus is so <i>a propos</i>.</p>

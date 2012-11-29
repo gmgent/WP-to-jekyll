@@ -4,7 +4,7 @@ title: Funky Roller Coaster
 permalink: 1999/09/funky-roller-coaster
 postday: 09/14 1999
 posttime: 17_05
-categories: [Poetry]
+categories: [poetry]
 ---
 
 You push me to my mountain

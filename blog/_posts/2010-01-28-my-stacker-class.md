@@ -4,7 +4,7 @@ title: my stacker class
 permalink: 2010/01/my-stacker-class
 postday: 01/28 2010
 posttime: 23_21
-categories: [Code]
+categories: [code]
 ---
 
 <p>For anyone that uses FusionCharts, this little class may be very helpful.</p>

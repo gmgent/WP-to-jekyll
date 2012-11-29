@@ -4,7 +4,7 @@ title: No Banker Left Behind
 permalink: 2008/09/no-banker-left-behind
 postday: 09/23 2008
 posttime: 18_02
-categories: [Historical]
+categories: [historical]
 ---
 
 <p><i>Credit losses of $2 trillion, half the US banking system nationalized, municipal defaults, house price declines accelerating, a sudden stop in consumer spending, global contagion, stagflation, you name it.<br />

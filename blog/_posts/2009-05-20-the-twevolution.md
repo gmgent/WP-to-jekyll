@@ -4,7 +4,7 @@ title: the twevolution
 permalink: 2009/05/the-twevolution
 postday: 05/20 2009
 posttime: 21_49
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I know, it's silly and stuff, but I am starting to get some of my headlines this way and I have seen the light.</p>

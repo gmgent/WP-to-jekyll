@@ -4,7 +4,7 @@ title: The Infinite Once
 permalink: 2000/03/the-infinite-once
 postday: 03/14 2000
 posttime: 16_47
-categories: [Poetry]
+categories: [poetry]
 ---
 
 Fast friends ex-lovers unite

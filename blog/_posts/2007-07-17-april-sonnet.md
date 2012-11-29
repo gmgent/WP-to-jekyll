@@ -4,7 +4,7 @@ title: April Sonnet
 permalink: 2007/07/april-sonnet
 postday: 07/17 2007
 posttime: 09_13
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>I leave you in your perfect circle<br />

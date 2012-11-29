@@ -4,7 +4,7 @@ title: right joins versus the subquery
 permalink: 2009/01/right-joins-versus-the-subquery
 postday: 01/15 2009
 posttime: 00_37
-categories: [Code]
+categories: [code]
 ---
 
 <p>If you&#039;re anything like me, you are a serious pragmatist. I like to get at the problem immediately, and if there are shortcuts, then we have to weight short-term versus long-term gain before we can choose sides.</p>

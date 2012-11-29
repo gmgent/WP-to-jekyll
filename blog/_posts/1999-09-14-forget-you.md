@@ -4,7 +4,7 @@ title: Forget You
 permalink: 1999/09/forget-you
 postday: 09/14 1999
 posttime: 17_06
-categories: [Poetry]
+categories: [poetry]
 ---
 
 In a restless dream you come to me

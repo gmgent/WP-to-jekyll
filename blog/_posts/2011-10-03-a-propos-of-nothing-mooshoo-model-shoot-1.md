@@ -4,7 +4,7 @@ title: a propos of nothing mooshoo model shoot 1
 permalink: 2011/10/a-propos-of-nothing-mooshoo-model-shoot-1
 postday: 10/03 2011
 posttime: 15_23
-categories: [Random]
+categories: [random]
 ---
 
 A propos of nothing here are two good shots of the pup:

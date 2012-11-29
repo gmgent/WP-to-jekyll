@@ -4,7 +4,7 @@ title: I haven't written in a while
 permalink: 2003/04/i-havent-written-in-a-while
 postday: 04/10 2003
 posttime: 11_30
-categories: [Journal, Saga]
+categories: [journal, saga]
 ---
 
 

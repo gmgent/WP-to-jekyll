@@ -4,7 +4,7 @@ title: words to weighty ghost by wintersleep
 permalink: 2009/04/words-to-weighty-ghost-by-wintersleep
 postday: 04/23 2009
 posttime: 19_32
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>I got out of bed today<br />

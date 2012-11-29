@@ -4,7 +4,7 @@ title: awesome post from best of craigslist
 permalink: 2009/09/awesome-post-from-best-of-craigslist
 postday: 09/17 2009
 posttime: 19_38
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Looking for a Real Bot - b4b<br />

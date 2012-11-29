@@ -4,7 +4,7 @@ title: get your git here
 permalink: 2010/05/get-your-git-here
 postday: 05/17 2010
 posttime: 22_46
-categories: [Code]
+categories: [code]
 ---
 
 <p><a href="http://code.google.com/p/git-osx-installer/" title="http://code.google.com/p/git-osx-installer/">http://code.google.com/p/git-osx-installer/</a></p>

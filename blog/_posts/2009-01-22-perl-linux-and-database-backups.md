@@ -4,7 +4,7 @@ title: Perl linux and database backups
 permalink: 2009/01/perl-linux-and-database-backups
 postday: 01/22 2009
 posttime: 00_52
-categories: [Code]
+categories: [code]
 ---
 
 <p>I got to tell ya, most of the greatest people don&#039;t get the recognition they deserve. Open Source is all about everyone putting in what they got. So mosey on over to <a href="http://worldcommunity.com/opensource/">http://worldcommunity.com/opensource/</a> and tell Peter Brown that his Perl-based mysql backup script works like a charm.</p>

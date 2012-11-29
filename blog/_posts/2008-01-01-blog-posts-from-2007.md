@@ -4,7 +4,7 @@ title: Blog posts from 2007
 permalink: 2008/01/blog-posts-from-2007
 postday: 01/01 2008
 posttime: 06_08
-categories: [Historical, Journal, Saga]
+categories: [historical, journal, saga]
 ---
 
 This is the last omni blog post, after this I started using RSS and the posts start getting broken up. This post was only part of the year and then the rest of the single-item posts start in.

@@ -4,7 +4,7 @@ title: My Pandora page
 permalink: 2009/05/my-pandora-page
 postday: 05/03 2009
 posttime: 21_52
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I am up on Pandora finally!</p>

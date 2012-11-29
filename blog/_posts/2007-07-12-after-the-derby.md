@@ -4,7 +4,7 @@ title: After the Derby
 permalink: 2007/07/after-the-derby
 postday: 07/12 2007
 posttime: 06_06
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>God I've waited for this<br />

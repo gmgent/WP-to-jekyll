@@ -4,7 +4,7 @@ title: iphone wallet case christmas ideas
 permalink: 2011/11/iphone-wallet-case-christmas-ideas
 postday: 11/21 2011
 posttime: 23_47
-categories: [Random]
+categories: [random]
 ---
 
 I am a bit of an obsessive-compulsive when it comes to online ordering, and ever since my Hex "The Hundreds" case starting damaging my screen, I am looking again for the ultimate iphone case. Here is a list of the best places I have found so far in no particular order, plus a surprise at the end.

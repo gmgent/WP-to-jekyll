@@ -4,7 +4,7 @@ title: Mont Saint Michel
 permalink: 2011/08/mont-saint-michel
 postday: 08/08 2011
 posttime: 17_20
-categories: [Journal, Saga]
+categories: [journal, saga]
 ---
 
 On one of the rainy days we were staying in Saint Malo, we took a trip to <a href="http://en.wikipedia.org/wiki/Mont_Saint-Michel" title="Mont Saint Michel." target="_blank">Mont Saint Michel</a>. I remember taking a school trip there about 20 years ago but it was great to go back because I didn't remember much. What an amazing place. Too bad it was raining but we still had a blast. Highly recommended.

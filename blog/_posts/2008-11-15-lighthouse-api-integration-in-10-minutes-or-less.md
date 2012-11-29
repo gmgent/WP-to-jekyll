@@ -4,7 +4,7 @@ title: Lighthouse API integration in 10 minutes or less
 permalink: 2008/11/lighthouse-api-integration-in-10-minutes-or-less
 postday: 11/15 2008
 posttime: 10_45
-categories: [Code]
+categories: [code]
 ---
 
 <p>As a second part in this series, I am going to talk about Lighthouse for a second. They rock. I built up a calendar app based on their API and the Ruby  <a href="http://digbox.net/index.php/2008/11/15/ruby_calendar_helper_for_dummies">calendar_helper</a>, and it barely took me a day. True story. I ended up using an API token, and I learned a lot about a lib/ based connection object, very interesting.</p>

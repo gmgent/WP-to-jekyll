@@ -4,7 +4,7 @@ title: javascript for fun and profit
 permalink: 2010/08/javascript-for-fun-and-profit
 postday: 08/13 2010
 posttime: 19_19
-categories: [Code]
+categories: [code]
 ---
 
 <script src="https://gist.github.com/860699.js?file=unique-check.js"></script>

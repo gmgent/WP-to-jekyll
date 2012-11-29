@@ -4,7 +4,7 @@ title: Inexpensive MAX queries in PL SQL
 permalink: 2007/12/inexpensive-max-queries-in-pl-sql
 postday: 12/04 2007
 posttime: 07_24
-categories: [Code]
+categories: [code]
 ---
 
 <p>This was a trick that one of our contractors showed me here at Monstertrak today. Basically, here&#039;s the gist. you&#039;ve got a join that you need to make, but you only ever want one record to return - you need to restrict the join to return one - and only one - sister record.<br />

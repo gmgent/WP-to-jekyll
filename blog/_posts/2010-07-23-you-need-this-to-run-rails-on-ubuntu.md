@@ -4,7 +4,7 @@ title: you need this to run rails on ubuntu
 permalink: 2010/07/you-need-this-to-run-rails-on-ubuntu
 postday: 07/23 2010
 posttime: 05_29
-categories: [Code]
+categories: [code]
 ---
 
 <pre>

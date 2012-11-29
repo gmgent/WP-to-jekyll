@@ -4,7 +4,7 @@ title: an open letter to Matt Taibbi and Adam Weinstein
 permalink: 2011/03/an-open-letter-to-matt-taibbi-and-adam-weinstein
 postday: 03/20 2011
 posttime: 06_49
-categories: [Politics]
+categories: [politics]
 ---
 
 

@@ -4,7 +4,7 @@ title: 418 means I am a teapot
 permalink: 2010/05/418-means-I-am-a-teapot
 postday: 05/18 2010
 posttime: 22_58
-categories: [Code]
+categories: [code]
 ---
 
 <div>

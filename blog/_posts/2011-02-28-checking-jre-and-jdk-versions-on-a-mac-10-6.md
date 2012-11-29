@@ -4,7 +4,7 @@ title: checking JRE and JDK versions on a mac 10.6
 permalink: 2011/02/checking-jre-and-jdk-versions-on-a-mac-10-6
 postday: 02/28 2011
 posttime: 23_24
-categories: [Code]
+categories: [code]
 ---
 
 <p>I know it&#039;s not rocket science, but it is worth explaining.</p>

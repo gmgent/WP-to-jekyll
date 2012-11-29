@@ -4,7 +4,7 @@ title: I'm the guy who doesn't know when to stop
 permalink: 2002/12/im-the-guy-who-doesnt-know-when-to-stop
 postday: 12/09 2002
 posttime: 01_13
-categories: [Journal, Saga]
+categories: [journal, saga]
 ---
 
 Monday, December 09, 2002

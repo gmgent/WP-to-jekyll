@@ -4,7 +4,7 @@ title: Obama Wins nobel Peace Prize
 permalink: 2009/10/obama-wins-nobel-peace-prize
 postday: 10/09 2009
 posttime: 18_57
-categories: [Historical]
+categories: [historical]
 ---
 
 <p><a href="http://www.cnn.com/2009/WORLD/europe/10/09/nobel.peace.prize/" title="http://www.cnn.com/2009/WORLD/europe/10/09/nobel.peace.prize/">http://www.cnn.com/2009/WORLD/europe/10/09/nobel.peace.prize/</a></p>

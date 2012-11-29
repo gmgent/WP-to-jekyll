@@ -4,7 +4,7 @@ title: rainy Saint Malo
 permalink: 2011/08/rainy-saint-malo
 postday: 08/08 2011
 posttime: 17_51
-categories: [Journal, Saga]
+categories: [journal, saga]
 ---
 
 We explored Saint Malo for a few days before going to Stuttgart. It rained almost the whole time. Old town is great and if the weather had been nice it could have been a slam-dunk. We will definitely go back sometime.

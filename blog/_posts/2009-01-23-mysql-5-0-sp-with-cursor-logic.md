@@ -4,7 +4,7 @@ title: MySQL 5.0 SP with Cursor Logic
 permalink: 2009/01/mysql-5-0-sp-with-cursor-logic
 postday: 01/23 2009
 posttime: 19_43
-categories: [Code]
+categories: [code]
 ---
 
 <p>I have written a bunch of SPs over the years (stored procedure, as I learned it, but MySQL calls them Stored Routines - SRs?). I even have my best/largest/most complicated SP ever linked here at <a href='http://blog.kristeraxel.com/wp-content/uploads/2009/01/migration189.txt'>migration189</a>.

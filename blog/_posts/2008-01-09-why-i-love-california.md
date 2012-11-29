@@ -4,7 +4,7 @@ title: Why I love California
 permalink: 2008/01/why-i-love-california
 postday: 01/09 2008
 posttime: 01_14
-categories: [Historical]
+categories: [historical]
 ---
 
 <p><a href="http://www.csmonitor.com/2008/0104/p02s01-usgn.html">more info</a><br />

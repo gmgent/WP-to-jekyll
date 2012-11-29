@@ -4,7 +4,7 @@ title: That's not funny.
 permalink: 2008/07/thats-not-funny
 postday: 07/10 2008
 posttime: 22_40
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Get this:</p>

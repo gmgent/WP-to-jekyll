@@ -4,7 +4,7 @@ title: A Ruby Rake Task
 permalink: 2008/03/a-ruby-rake-task
 postday: 03/04 2008
 posttime: 08_00
-categories: [Code]
+categories: [code]
 ---
 
 <p>namespace :db do<br />

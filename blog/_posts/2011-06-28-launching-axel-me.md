@@ -4,7 +4,7 @@ title: launching axel.me
 permalink: 2011/06/launching-axel-me
 postday: 06/28 2011
 posttime: 17_09
-categories: [Random]
+categories: [random]
 ---
 
 This should auto post to Twitter with a custom short link. How sexy.

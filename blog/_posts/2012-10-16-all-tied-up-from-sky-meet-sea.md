@@ -4,7 +4,7 @@ title: All Tied Up from Sky Meet Sea
 permalink: 2012/10/all-tied-up-from-sky-meet-sea
 postday: 10/16 2012
 posttime: 09_46
-categories: [RockstarAlley]
+categories: [rockstaralley]
 ---
 
 <a href="http://kristeraxel.com/media/2012-kristeraxel-AllTiedUp.mp3">This</a> (All Tied Up) was recorded at THe Village Studios in Santa Monica, what a great session that was. I played all of the instruments except for Scotty added some drums and cajone. My wife loved this song after I assured her it was written about nothing specific.

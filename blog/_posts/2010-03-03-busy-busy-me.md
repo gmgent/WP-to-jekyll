@@ -4,7 +4,7 @@ title: busy busy me
 permalink: 2010/03/busy-busy-me
 postday: 03/03 2010
 posttime: 03_18
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I am doing a lot of things right now. Life is awesome. A new job, a few album projects in the works, and the summer en route. We are just moving right along.</p>

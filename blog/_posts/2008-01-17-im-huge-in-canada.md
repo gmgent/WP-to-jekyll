@@ -4,7 +4,7 @@ title: I'm huge in Canada
 permalink: 2008/01/im-huge-in-canada
 postday: 01/17 2008
 posttime: 05_52
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>#17 in Kamloops, BC (that's near Vancouver)</p>

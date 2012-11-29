@@ -4,7 +4,7 @@ title: Palin and her ghostwriter
 permalink: 2009/11/palin-and-her-ghostwriter
 postday: 11/16 2009
 posttime: 19_30
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>-- below quoted from HuffPo --<br />

@@ -4,7 +4,7 @@ title: getting married
 permalink: 2009/01/getting-married
 postday: 01/29 2009
 posttime: 22_24
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Just so y'all know, I'm getting married soon.</p>

@@ -4,7 +4,7 @@ title: Propaganda victims R us
 permalink: 2011/03/propaganda-victims-r-us
 postday: 03/10 2011
 posttime: 09_38
-categories: [Politics, Propaganda]
+categories: [politics, propaganda]
 ---
 
 We really have a problem here.

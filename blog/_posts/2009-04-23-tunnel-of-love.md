@@ -4,7 +4,7 @@ title: tunnel of love
 permalink: 2009/04/tunnel-of-love
 postday: 04/23 2009
 posttime: 21_43
-categories: [Code]
+categories: [code]
 ---
 
 <p>This little puppy is my tunnel of love. Connecting to SQL databases just keeps getting more complicated. :)</p>

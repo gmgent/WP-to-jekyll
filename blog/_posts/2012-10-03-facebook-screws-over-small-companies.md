@@ -4,7 +4,7 @@ title: Facebook screws over small companies
 permalink: 2012/10/facebook-screws-over-small-companies
 postday: 10/03 2012
 posttime: 13_41
-categories: [Random]
+categories: [random]
 ---
 
 <a href="http://www.theverge.com/2012/10/3/3449542/facebook-promoted-posts">This is from a post</a> over at <a href="http://www.theverge.com">The Verge</a>:

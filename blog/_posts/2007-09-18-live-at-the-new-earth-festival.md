@@ -4,7 +4,7 @@ title: Live at the New Earth Festival
 permalink: 2007/09/live-at-the-new-earth-festival
 postday: 09/18 2007
 posttime: 05_15
-categories: [Historical]
+categories: [historical]
 ---
 
 <div align="center"><table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/_Lksb1el3wamjYpU-4Wn6Q?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/_aJ4urxfgN9A/TXXmz34eoUI/AAAAAAAAIno/X3_vXbbbI4Y/s288/CIMG3981.JPG" height="162" width="288" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/krister.axel/Stuff?feat=embedwebsite">stuff</a></td></tr></table>

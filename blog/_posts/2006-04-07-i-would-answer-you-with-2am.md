@@ -4,7 +4,7 @@ title: I would answer you with 2am
 permalink: 2006/04/i-would-answer-you-with-2am
 postday: 04/07 2006
 posttime: 06_09
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>I would answer you with 2am<br />

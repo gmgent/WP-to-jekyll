@@ -4,7 +4,7 @@ title: Clean Coal does not exist
 permalink: 2008/10/clean-coal-does-not-exist
 postday: 10/08 2008
 posttime: 06_02
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Sadly, even Barack is drinking the Kool-Aid on this one:</p>

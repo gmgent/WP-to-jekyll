@@ -4,7 +4,7 @@ title: i am not feeling well tell me a story
 permalink: 2000/11/i-am-not-feeling-well-tell-me-a-story
 postday: 11/29 2000
 posttime: 16_11
-categories: [Historical]
+categories: [historical]
 ---
 
 > -----Original Message-----

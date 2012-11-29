@@ -4,7 +4,7 @@ title: PL SQL split function
 permalink: 2008/01/pl-sql-split-function
 postday: 01/12 2008
 posttime: 07_29
-categories: [Code]
+categories: [code]
 ---
 
 <script src="https://gist.github.com/860981.js?file=pl_sql_split.sql"></script>

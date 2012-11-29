@@ -4,7 +4,7 @@ title: A Ruby View using AJAX
 permalink: 2008/02/a-ruby-view-using-ajax
 postday: 02/24 2008
 posttime: 07_52
-categories: [Code]
+categories: [code]
 ---
 
 <p>There is a lot going on here, perhaps too much, but this serves as a nice example.</p>

@@ -4,7 +4,7 @@ title: buy the new EP Pain and Joy by Krister Axel
 permalink: 2010/10/buy-the-new-ep-pain-and-joy-by-krister-axel
 postday: 10/10 2010
 posttime: 23_57
-categories: [News]
+categories: [news]
 ---
 
 <p>It's finally here!</p>

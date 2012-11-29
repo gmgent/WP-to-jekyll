@@ -4,7 +4,7 @@ title: Yetii we love it
 permalink: 2009/02/yetii-we-love-it
 postday: 02/09 2009
 posttime: 23_45
-categories: [Code]
+categories: [code]
 ---
 
 <p><a href="http://www.kminek.pl/lab/yetii/">http://www.kminek.pl/lab/yetii/</a></p>

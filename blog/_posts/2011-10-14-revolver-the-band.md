@@ -4,7 +4,7 @@ title: revolver the band
 permalink: 2011/10/revolver-the-band
 postday: 10/14 2011
 posttime: 16_26
-categories: [Historical]
+categories: [historical]
 ---
 
 Ah the old days. I just found this picture of me from 2000. I was such a strapping young lad.

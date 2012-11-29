@@ -4,7 +4,7 @@ title: My all-time favorite song
 permalink: 2008/11/my-all-time-favorite-song
 postday: 11/21 2008
 posttime: 23_43
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>In a manner of speaking. Click for the video - <a href="http://www.youtube.com/watch?v=buqtdpuZxvk" title="http://www.youtube.com/watch?v=buqtdpuZxvk">http://www.youtube.com/watch?v=buqtdpuZxvk</a></p>

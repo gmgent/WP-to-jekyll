@@ -4,7 +4,7 @@ title: scientists are funny too
 permalink: 2011/11/scientists-are-funny-too
 postday: 11/13 2011
 posttime: 16_40
-categories: [Random]
+categories: [random]
 ---
 
 from <a href="http://axel.me/5r" target="_blank">this link</a> to a reddit 'Ask me anything' with <a href="http://www.haydenplanetarium.org/tyson/" target="_blank">Neil DeGrasse Tyson</a>.

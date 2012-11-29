@@ -4,7 +4,7 @@ title: Sweet Thing from Sky Meet Sea
 permalink: 2012/10/sweet-thing-from-sky-meet-sea
 postday: 10/16 2012
 posttime: 09_33
-categories: [RockstarAlley]
+categories: [rockstaralley]
 ---
 
 <a href="http://kristeraxel.com/media/2012-kristeraxel-SweetThing.mp3">This</a> (Sweet Thing) is my first single from the new album. I wrote it years ago but it only got produced for Sky Meet Sea so here it is finally. Buy the whole album at <a href="http://axelradio.com/album/sky-meet-sea">AxelRadio</a> for only $4.

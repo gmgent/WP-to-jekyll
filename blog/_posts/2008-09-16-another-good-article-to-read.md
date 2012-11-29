@@ -4,7 +4,7 @@ title: Another good article to read
 permalink: 2008/09/another-good-article-to-read
 postday: 09/16 2008
 posttime: 17_58
-categories: [Historical]
+categories: [historical]
 ---
 
 <p><i>At the core of it, the seed from which the poison fruit has grown, are the tax cuts. Do tax cuts actually stimulate the economy? Vast sums of money have gone into creating that myth. Major intellectual industries have been created and sustained to sell that story.</i><br />

@@ -4,7 +4,7 @@ title: those lying corporations
 permalink: 2012/03/those-lying-corporations
 postday: 03/13 2012
 posttime: 12_26
-categories: [Politics, Propaganda]
+categories: [politics, propaganda]
 ---
 
 No regulation for business, hmm? Self-regulated is well-regulated, invisible hand and all of that....

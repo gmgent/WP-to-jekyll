@@ -4,7 +4,7 @@ title: Hollywood half marathon 2012
 permalink: 2012/04/hollywood-half-marathon-2012
 postday: 04/08 2012
 posttime: 13_45
-categories: [News, Random]
+categories: [news, random]
 ---
 
 We did it. We didn't train very much but still got through a pretty tough 13.1 miles. The starting line was at Universal city, we ran down Highland to Hollywood boulevard, all the way east to Vermont, and then retraced back up Highland and finished in Studio City. The last two miles were a serious problem for me. The hill was too much and I just cramped up completely.

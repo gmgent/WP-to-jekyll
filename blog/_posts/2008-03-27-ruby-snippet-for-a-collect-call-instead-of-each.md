@@ -4,7 +4,7 @@ title: Ruby snippet for a .collect call instead of .each
 permalink: 2008/03/ruby-snippet-for-a-collect-call-instead-of-each
 postday: 03/27 2008
 posttime: 07_14
-categories: [Code]
+categories: [code]
 ---
 
 <p>This works great. This is the best replacement for a &#039;For&#039; loop or one of those .each calls. This dumps out a &#039;br&#039; separated list of links for all the sub-industries in each category. I set up the model call to return a recordset, tie it to @tv_sub in the controller, and this is all it takes to get those links set up in the view:</p>

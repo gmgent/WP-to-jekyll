@@ -8,15 +8,13 @@
   <description>code snippets from the interwebs, sql js ruby and php</description>
   <language>en-us</language>
   <pubDate>{{ site.time | date_to_long_string }}</pubDate>
-    {% for post in site.posts %}
-      {% if post.categories.to_string.search('Code') %}
-        <item>
-          <title>{{ post.title }}</title>
-          <link>{{ post.url }}</link>
-          <description>{{ post.content | escape }}</description>
-          <pubDate>{{ post.date }}</pubDate>
-        </item>
-      {% endif %}
+    {% for post in site.categories.code %}
+      <item>
+        <title>{{ post.title }}</title>
+        <link>{{ post.url }}</link>
+        <description>{{ post.content | escape }}</description>
+        <pubDate>{{ post.date }}</pubDate>
+      </item>
     {% endfor %}
 </channel>
 </rss>

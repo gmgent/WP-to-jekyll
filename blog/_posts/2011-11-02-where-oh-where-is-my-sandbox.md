@@ -4,7 +4,7 @@ title: where oh where is my sandbox
 permalink: 2011/11/where-oh-where-is-my-sandbox
 postday: 11/02 2011
 posttime: 16_03
-categories: [Games]
+categories: [games]
 ---
 
 It ain't easy being a <strong>Mac</strong> person.

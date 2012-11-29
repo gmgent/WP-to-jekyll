@@ -4,7 +4,7 @@ title: Get back to work
 permalink: 2009/07/get-back-to-work
 postday: 07/23 2009
 posttime: 22_09
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I am home now. I learned a few things in Europe. My wife and I had a truly amazing trip to Paris, Rome, Barcelona, San Sebastian (aka Donostia), Cahors, Annecy and then back to Paris. We tried not to take anything for granted and we truly felt completely blessed to have such a great trip with more or less awesome weather. With the exception of about 2 days in Annecy, the only thing that could be said about the weather is that it was occasionally a little TOO sunny. :)</p>

@@ -4,7 +4,7 @@ title: what he said
 permalink: 2010/07/what-he-said
 postday: 07/08 2010
 posttime: 20_43
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>This was copied from <a href="http://www.amazon.com/tag/religion/forum/ref=cm_cd_ttp_emf_rft_tft_tp?_encoding=UTF8&amp;cdForum=Fx417AUXOWKSRN&amp;cdThread=Tx3SE2WNQ2I5K1U" title="http://www.amazon.com/tag/religion/forum/ref=cm_cd_ttp_emf_rft_tft_tp?_encoding=UTF8&amp;cdForum=Fx417AUXOWKSRN&amp;cdThread=Tx3SE2WNQ2I5K1U">http://www.amazon.com/tag/religion/forum/ref=cm_cd_ttp_emf_rft_tft_tp?_e...</a></p>

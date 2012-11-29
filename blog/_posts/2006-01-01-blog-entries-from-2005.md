@@ -4,7 +4,7 @@ title: Blog entries from 2005
 permalink: 2006/01/blog-entries-from-2005
 postday: 01/01 2006
 posttime: 08_54
-categories: [Historical, Journal, Saga]
+categories: [historical, journal, saga]
 ---
 
 This is from back before I was setting up my blog as an RSS feed, so it's just a big old HTML page that I would update all year. It is really interesting to go back and read all of this stuff. That was a good year. 

@@ -4,7 +4,7 @@ title: What if I am invincible
 permalink: 2003/04/what-if-i-am-invincible
 postday: 04/22 2003
 posttime: 18_29
-categories: [Journal, Saga]
+categories: [journal, saga]
 ---
 
 What if I am invincible… These are questions for the oracle. I am still so new to myself, I don't yet understand, yet I am so close to it. I have become larger than I know. I have outstepped my own shadow and it is some astral projection, I have stars in my fingers and love in my breath and wisdom in my voice. It matters not that I have waited what could be considered a long time. I have arrived, again for the last time before I am awake, incensed and invincible.

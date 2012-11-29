@@ -4,7 +4,7 @@ title: Gear for sale
 permalink: 2011/04/gear-for-sale
 postday: 04/12 2011
 posttime: 01_25
-categories: [Random]
+categories: [random]
 ---
 
 I just moved and need to get rid of some gear. Message me with any questions.

@@ -4,7 +4,7 @@ title: custom wordpress css
 permalink: 2010/12/custom-wordpress-css
 postday: 12/04 2010
 posttime: 07_25
-categories: [Code]
+categories: [code]
 ---
 
 <p>This is my Wordpress css tweak code and I may need it again later.</p>

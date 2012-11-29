@@ -4,7 +4,7 @@ title: custom terminal colors
 permalink: 2010/05/custom-terminal-colors
 postday: 05/17 2010
 posttime: 19_42
-categories: [Code]
+categories: [code]
 ---
 
 <p>copied from <a href="http://y-draw.com/blog/articles/2009/11/20/mac-os-x-terminal-configuration/" title="http://y-draw.com/blog/articles/2009/11/20/mac-os-x-terminal-configuration/">http://y-draw.com/blog/articles/2009/11/20/mac-os-x-terminal-configuration/</a></p>

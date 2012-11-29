@@ -4,7 +4,7 @@ title: This is my first time
 permalink: 2002/12/this-is-my-first-time
 postday: 12/04 2002
 posttime: 11_28
-categories: [Journal, Saga]
+categories: [journal, saga]
 ---
 
 Wednesday, December 04, 2002

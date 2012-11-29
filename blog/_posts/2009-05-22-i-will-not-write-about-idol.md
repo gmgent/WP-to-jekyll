@@ -4,7 +4,7 @@ title: I will not write about Idol
 permalink: 2009/05/i-will-not-write-about-idol
 postday: 05/22 2009
 posttime: 18_16
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I will not write about American Idol. This post will not be about Adam Lambert or Paula Abdul or whatever.</p>

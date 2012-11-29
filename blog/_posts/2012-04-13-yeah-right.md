@@ -4,7 +4,7 @@ title: yeah right
 permalink: 2012/04/yeah-right
 postday: 04/13 2012
 posttime: 02_18
-categories: [Politics, Propaganda, Random]
+categories: [politics, propaganda, random]
 ---
 
 <blockquote>According to an Orlando Sentinel story later confirmed by Sanford police, Zimmerman told authorities that after he briefly lost track of Martin, the teen approached him. After the two exchange words, Zimmerman said, he reached for his cell phone, and then Martin punched him in the nose. Zimmerman said Martin pinned him to the ground and began slamming his head into the sidewalk.</blockquote>

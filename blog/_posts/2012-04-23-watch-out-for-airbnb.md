@@ -4,7 +4,7 @@ title: watch out for airbnb
 permalink: 2012/04/watch-out-for-airbnb
 postday: 04/23 2012
 posttime: 10_50
-categories: [airbnb, complaint, disaster, host, review, Reviews]
+categories: [airbnb, complaint, disaster, host, review, reviews]
 ---
 
 I tried out airbnb for a wedding this past weekend, and the verdict is in. I never got my keys, because the host wanted me to wait until 7:30pm to 'drop them off'; so I had nowhere to go, so I booked into another hotel. Now they tell me that 'In our estimation, operating by the terms of the pre-agreed cancellation policy is the fairest possible resolution for this situation.'

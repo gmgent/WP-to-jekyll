@@ -4,7 +4,7 @@ title: Among the Divinities Shall Ye Be Remembered Lavinia
 permalink: 2008/02/among-the-divinities-shall-ye-be-remembered-lavinia
 postday: 02/06 2008
 posttime: 07_49
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>I thought to buy you a trinket<br />

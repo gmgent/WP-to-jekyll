@@ -4,7 +4,7 @@ title: Celebrate Tonight is now on Youtube
 permalink: 2009/09/celebrate-tonight-is-now-on-youtube
 postday: 09/23 2009
 posttime: 00_15
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Behold:</p>

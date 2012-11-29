@@ -4,7 +4,7 @@ title: OWS for Halloween in West Hollywood 2011
 permalink: 2011/11/ows-for-halloween-in-west-hollywood-2011
 postday: 11/05 2011
 posttime: 14_36
-categories: [Politics]
+categories: [politics]
 ---
 
 Occupy Wall Street (#OWS) had a presence even in the WeHo Halloween parade this year, it made me happy. Times they are a-changing.

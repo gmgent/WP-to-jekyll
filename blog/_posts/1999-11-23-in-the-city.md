@@ -4,7 +4,7 @@ title: in the city
 permalink: 1999/11/in-the-city
 postday: 11/23 1999
 posttime: 16_59
-categories: [Poetry]
+categories: [poetry]
 ---
 
 If there's a future in my hands

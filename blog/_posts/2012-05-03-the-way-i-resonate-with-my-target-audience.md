@@ -4,7 +4,7 @@ title: the way I resonate with my target audience
 permalink: 2012/05/the-way-i-resonate-with-my-target-audience
 postday: 05/03 2012
 posttime: 15_04
-categories: [News]
+categories: [news]
 ---
 
 It's fascinating, the way you can target the presentation of your music these days. Granted, it is a small segment because I can't afford to bankroll a huge promotion but the results are pretty telling.

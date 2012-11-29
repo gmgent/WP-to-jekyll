@@ -4,7 +4,7 @@ title: aspartame is toxic
 permalink: 2009/06/aspartame-is-toxic
 postday: 06/12 2009
 posttime: 18_38
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>But the FDA won't tell you that.<br />

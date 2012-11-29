@@ -4,7 +4,7 @@ title: comment response from Matt Taibbi article
 permalink: 2009/05/comment-response-from-matt-taibbi-article
 postday: 05/12 2009
 posttime: 21_47
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>quote from the article:</p>

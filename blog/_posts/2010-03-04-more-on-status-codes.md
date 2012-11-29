@@ -4,7 +4,7 @@ title: more on status codes
 permalink: 2010/03/more-on-status-codes
 postday: 03/04 2010
 posttime: 18_54
-categories: [Code]
+categories: [code]
 ---
 
 <p>Status Codes</p>

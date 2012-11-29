@@ -4,7 +4,7 @@ title: a soft porous bowl
 permalink: 2009/04/a-soft-porous-bowl
 postday: 04/08 2009
 posttime: 22_45
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I love this. click for <a href="http://gawker.com/news/park-slope/the-park-slope-hat-spat-read-all-the-emails-166214.php">whole thing</a></p>

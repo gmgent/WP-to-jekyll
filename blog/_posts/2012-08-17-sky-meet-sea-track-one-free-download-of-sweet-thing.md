@@ -4,7 +4,7 @@ title: Sky Meet Sea track one free download of Sweet Thing
 permalink: 2012/08/sky-meet-sea-track-one-free-download-of-sweet-thing
 postday: 08/17 2012
 posttime: 13_21
-categories: [Brave New World, RockstarAlley]
+categories: [brave new world, rockstaralley]
 ---
 
 download the track <a href="http://kristeraxel.com/media/m/kristeraxel-SweetThing.mp3">here</a> by subscribing to the <a href="http://itunes.apple.com/us/podcast/rockstaralley-roots-music/id269041792?mt=2">podcast</a>.

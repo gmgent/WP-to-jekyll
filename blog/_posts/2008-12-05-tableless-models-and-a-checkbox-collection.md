@@ -4,7 +4,7 @@ title: Tableless models and a checkbox collection
 permalink: 2008/12/tableless-models-and-a-checkbox-collection
 postday: 12/05 2008
 posttime: 01_44
-categories: [Code]
+categories: [code]
 ---
 
 <p>I have always loved the sound of a table-less model. It feels so dirty. Here is one from the school of hard knocks, known as the Merchant model:</p>

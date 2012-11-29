@@ -4,7 +4,7 @@ title: more discussion of faith
 permalink: 2009/06/more-discussion-of-faith
 postday: 06/15 2009
 posttime: 08_30
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Last week, I had a post about a conversation between Facebook acquaintances that I think is just priceless. Last time, I commented but this time there is literally no need. This stuff is fascinating and relevant in its raw state.</p>

@@ -4,7 +4,7 @@ title: hoping beyond hope on radio paradise
 permalink: 2012/10/hoping-beyond-hope-radio-paradise
 postday: 10/16 2012
 posttime: 18_49
-categories: [Brave New World, News, Random, Saga]
+categories: [brave new world, news, random, saga]
 ---
 
 <a href="http://blog.kristeraxel.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-16-at-6.42.49-PM.png"><img src="http://blog.kristeraxel.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-16-at-6.42.49-PM-300x169.png" alt="" title="Screen Shot 2012-10-16 at 6.42.49 PM" width="300" height="169" class="aligncenter size-medium wp-image-2067" /></a>

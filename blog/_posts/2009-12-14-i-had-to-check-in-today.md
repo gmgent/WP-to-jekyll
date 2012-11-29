@@ -4,7 +4,7 @@ title: I had to check in today
 permalink: 2009/12/i-had-to-check-in-today
 postday: 12/14 2009
 posttime: 19_45
-categories: [Code]
+categories: [code]
 ---
 
 <p>What an end of the year it has been. Highs and lows. Mostly highs, I guess. :)</p>

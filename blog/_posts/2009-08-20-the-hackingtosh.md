@@ -4,7 +4,7 @@ title: the hackingtosh
 permalink: 2009/08/the-hackingtosh
 postday: 08/20 2009
 posttime: 19_01
-categories: [Code]
+categories: [code]
 ---
 
 <p>I am always intrigued by new slang terms, especially ones that apply to tech.</p>

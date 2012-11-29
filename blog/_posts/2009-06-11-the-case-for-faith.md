@@ -4,7 +4,7 @@ title: the case for faith
 permalink: 2009/06/the-case-for-faith
 postday: 06/11 2009
 posttime: 17_47
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Two friends who shall remain nameless had this exchange on Facebook today, and I find it to be priceless.</p>

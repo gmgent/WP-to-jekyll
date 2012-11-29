@@ -4,7 +4,7 @@ title: Saint Germain Des Pres
 permalink: 2011/07/saint-germain-des-pres
 postday: 07/31 2011
 posttime: 10_22
-categories: [Journal, Saga]
+categories: [journal, saga]
 ---
 
 On our visit to Europe this summer, we ended up in a hotel for the first time very close to Saint Michel, near Odeon in the Latin Quarter which was one of my main stomping grounds back in the late 80's. It was great to be there again, and although Paris is getting hit more and more with graffiti it still seems to be holding up reasonably well. The fountain at Saint Michel and the statue at Odeon seem not to have changed at all, which is comforting, and because we were actually staying in the <em>quartier</em> this time we had a chance to walk around a lot more and explore the region. That was how we stumbled into discovering Saint Germain Des Pres, which I had always heard about growing up in Paris but never knew exactly where it was. It is a very nice little neighborhood and we stopped to have some coffee at <a href="http://www.lesdeuxmagots.fr/histoire.php" target="_blank">Les Deux Magots</a> which apparently used to be a hangout for Verlaine and Rimbaud among others. Here is a little photo essay of the church and some of the places nearby. Our little hotel on rue Git-le-Coeur boasted having had Allen Ginsberg as a guest.

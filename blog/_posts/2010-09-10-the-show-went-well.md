@@ -4,7 +4,7 @@ title: the show went well
 permalink: 2010/09/the-show-went-well
 postday: 09/10 2010
 posttime: 23_59
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Room 5 went well, thanks to everyone that came out.</p>

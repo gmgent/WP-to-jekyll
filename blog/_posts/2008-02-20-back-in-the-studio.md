@@ -4,7 +4,7 @@ title: Back in the studio
 permalink: 2008/02/back-in-the-studio
 postday: 02/20 2008
 posttime: 19_11
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I am almost ready to mix my new album <a href="http://axelradio.com/album/fast-train">Fast Train</a>.</p>

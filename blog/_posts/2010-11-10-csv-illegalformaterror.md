@@ -4,7 +4,7 @@ title: CSV IllegalFormatError
 permalink: 2010/11/csv-illegalformaterror
 postday: 11/10 2010
 posttime: 21_32
-categories: [Code]
+categories: [code]
 ---
 
 <p><code><br />

@@ -4,7 +4,7 @@ title: Why I am still mad at my Playstation 3
 permalink: 2011/11/why-i-am-still-mad-at-my-playstation-3
 postday: 11/02 2011
 posttime: 15_18
-categories: [Games]
+categories: [games]
 ---
 
 It started out bad, I should say that from the start. Maybe those are the relationships that seem the most rewarding at first - like maybe if you try hard enough, you can fix it, and then you will have created your own happiness. For me, I bought a PS3 slim model when it came out, not because there was anything I wanted to play but because I was getting ready for <strong>The Agency</strong> to come out.

@@ -4,7 +4,7 @@ title: Jackson Browne kicks ass
 permalink: 2010/02/jackson-browne-kicks-ass
 postday: 02/14 2010
 posttime: 07_48
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Last night a great thing happened, Joel Eckels put together an amazing benefit for Haiti relief. I think about 30 songwriters performed and the quality of artist was truly outstanding. I was honored to play two songs - the first was "Celebrate Tonight", linked here from my wedding:</p>

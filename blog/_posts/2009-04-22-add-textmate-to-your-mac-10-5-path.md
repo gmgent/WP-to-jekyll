@@ -4,7 +4,7 @@ title: add textmate to your Mac 10.5 path
 permalink: 2009/04/add-textmate-to-your-mac-10-5-path
 postday: 04/22 2009
 posttime: 18_49
-categories: [Code]
+categories: [code]
 ---
 
 <p>This is the puppy that worked for me:</p>

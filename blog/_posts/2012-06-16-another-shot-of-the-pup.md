@@ -4,7 +4,7 @@ title: another shot of the pup
 permalink: 2012/06/another-shot-of-the-pup
 postday: 06/16 2012
 posttime: 13_23
-categories: [Journal, Photo, Saga]
+categories: [journal, photo, saga]
 ---
 
 She is our little girl. This is her on our new couch.

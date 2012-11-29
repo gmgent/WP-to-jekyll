@@ -4,7 +4,7 @@ title: on sale now at eMusic Amazon and Rhapsody
 permalink: 2010/04/on-sale-now-at-emusic-amazon-and-rhapsody
 postday: 04/22 2010
 posttime: 06_13
-categories: [Historical]
+categories: [historical]
 ---
 
 

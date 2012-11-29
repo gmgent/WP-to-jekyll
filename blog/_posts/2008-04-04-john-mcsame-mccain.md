@@ -4,7 +4,7 @@ title: John "McSame" McCain
 permalink: 2008/04/john-mcsame-mccain
 postday: 04/04 2008
 posttime: 00_02
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>I have posted previously about Hilary and Barack, so it's only fair to say something about John McCain.<br /><br />

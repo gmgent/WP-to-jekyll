@@ -4,7 +4,7 @@ title: Simplicity
 permalink: 2003/12/simplicity
 postday: 12/22 2003
 posttime: 03_40
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>As I pass through this ritual<br />

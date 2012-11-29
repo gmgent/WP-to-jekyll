@@ -4,7 +4,7 @@ title: hello again
 permalink: 2009/03/hello-again
 postday: 03/27 2009
 posttime: 22_45
-categories: [Historical]
+categories: [historical]
 ---
 
 <table cellpadding="5">

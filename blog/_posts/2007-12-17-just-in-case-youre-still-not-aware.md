@@ -4,7 +4,7 @@ title: Just in case you're still not aware
 permalink: 2007/12/just-in-case-youre-still-not-aware
 postday: 12/17 2007
 posttime: 18_45
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>...of the widespread voting irregularities that have become the sad, twilight-zone 'norm', I have a quote for you. This was taken from my favorite blogging site, <a href="http://smirkingchimp.com">SmirkingChimp.com</a> -<br />

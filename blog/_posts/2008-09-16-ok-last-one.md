@@ -4,7 +4,7 @@ title: ok, last one
 permalink: 2008/09/ok-last-one
 postday: 09/16 2008
 posttime: 19_22
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>No more posts for today, but this is interesting. <br /><br />From <a href="http://www.grizzlybay.org/SarahPalinInfoPage.htm" target="_blank">GrizzlyBay.org</a>, here are the top 14 things you should know about Palin:<br />

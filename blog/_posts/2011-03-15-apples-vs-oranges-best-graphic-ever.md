@@ -4,7 +4,7 @@ title: apples vs oranges - best graphic ever
 permalink: 2011/03/apples-vs-oranges-best-graphic-ever
 postday: 03/15 2011
 posttime: 08_33
-categories: [Random]
+categories: [random]
 ---
 
 from http://www.smarter.org/research/apples-to-oranges/

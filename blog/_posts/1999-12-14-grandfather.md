@@ -4,7 +4,7 @@ title: grandfather
 permalink: 1999/12/grandfather
 postday: 12/14 1999
 posttime: 17_03
-categories: [Poetry]
+categories: [poetry]
 ---
 
 Some one built this place on top of trash

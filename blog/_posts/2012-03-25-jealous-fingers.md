@@ -4,7 +4,7 @@ title: jealous fingers
 permalink: 2012/03/jealous-fingers
 postday: 03/25 2012
 posttime: 23_28
-categories: [Poetry]
+categories: [poetry]
 ---
 
 I write poetry. I don't know why, nor do I know what it means. Poems fall out of me like sneezing.

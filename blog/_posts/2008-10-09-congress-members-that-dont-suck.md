@@ -4,7 +4,7 @@ title: Congress members that don't suck
 permalink: 2008/10/congress-members-that-dont-suck
 postday: 10/09 2008
 posttime: 18_04
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>The 22 House members who have already signed on as co-sponsors of Kucinich's Cheney impeachment resolution are: Jan Schakowsky (D-IL), Maxine Waters D-CA), Hank Johnson (D-GA), Keith Ellison (D-MN), Lynn Woolsey D-CA), Barbara Lee (D-CA), Albert Wynn (D-MD), William Lacy Clay (D-MO), Yvette Clarke (D-NY), Jim McDermott (D-WA), Jim Moran (D-VA), Bob Filner (D-CA), Sam Farr (D-CA), Robert Brady (D-PA), Tammy Baldwin (D-WI), Donald Payne (D-NJ), Steve Cohen (D-TN), Sheila Jackson Lee (D-TX), Carolyn Kilpatrick (D-MI), Ed Towns (D-NY), Diane Watson (D-CA), and Danny Davis (D-IL).<br />

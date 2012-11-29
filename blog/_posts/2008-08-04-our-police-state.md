@@ -4,7 +4,7 @@ title: Our police state
 permalink: 2008/08/our-police-state
 postday: 08/04 2008
 posttime: 18_58
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>Just in case you haven't seen this already, this is a Critical Mass cyclist getting body checked by a police officer.</p>

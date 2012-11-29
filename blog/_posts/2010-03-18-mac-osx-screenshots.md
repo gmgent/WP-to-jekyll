@@ -4,7 +4,7 @@ title: mac osx screenshots
 permalink: 2010/03/mac-osx-screenshots
 postday: 03/18 2010
 posttime: 23_33
-categories: [Code]
+categories: [code]
 ---
 
 <p>Taking Screenshots in Mac OS X</p>

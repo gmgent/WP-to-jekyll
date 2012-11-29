@@ -4,7 +4,7 @@ title: Stinkiest president ever
 permalink: 2008/05/stinkiest-president-ever
 postday: 05/12 2008
 posttime: 19_24
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>A new record for sustained disappointment. According to ABC/WaPo polling, Bush is now the president with the longest period served without a majority of the public approving of the job he did. It has now been 39 months since Bush was last above 50% in approval, besting Harry Truman's old record of 38 months.<br />

@@ -4,7 +4,7 @@ title: Homeland Troop Deployment
 permalink: 2008/10/homeland-troop-deployment
 postday: 10/07 2008
 posttime: 08_10
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>The 3rd Infantry Division's 1st Brigade Combat Team has spent 35 of the last 60 months in Iraq patrolling in full battle rattle, helping restore essential services and escorting supply convoys.</p>

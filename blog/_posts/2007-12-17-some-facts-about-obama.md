@@ -4,7 +4,7 @@ title: Some Facts About Obama
 permalink: 2007/12/some-facts-about-obama
 postday: 12/17 2007
 posttime: 19_41
-categories: [Historical]
+categories: [historical]
 ---
 
 <p align="justify"><i>Of course, underneath the veneer of fresh-faced optimism that Obama is pushing -- note that the word "idealism" isn't appropriate here, because Obama isn't selling idealism so much as a kind of reinvigorated, feel-good pragmatism -- there operates a massive, well-oiled political machine no less ruthless and ambitious than that of his establishment rival, Hillary Clinton. Obama has raised $80 million, and it would be a grievous mistake to describe his candidacy as a grass-roots affair, particularly when he counts among his bundlers many of the lobbyists and political-finance pros who buttress the Clinton run.</i></p>

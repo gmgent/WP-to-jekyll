@@ -4,7 +4,7 @@ title: This Land is Your Land by Woody Guthrie
 permalink: 2009/01/this-land-is-your-land-by-woody-guthrie
 postday: 01/21 2009
 posttime: 18_58
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>This land is your land, this land is my land<br />

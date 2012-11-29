@@ -4,7 +4,7 @@ title: Room 5 again this Sunday
 permalink: 2012/03/room-5-again-this-sunday
 postday: 03/22 2012
 posttime: 16_04
-categories: [Journal, News, Saga]
+categories: [journal, news, saga]
 ---
 
 more fun with guitars and microphones.

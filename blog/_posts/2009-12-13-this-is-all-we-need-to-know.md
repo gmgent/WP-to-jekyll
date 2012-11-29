@@ -4,7 +4,7 @@ title: this is all we need to know
 permalink: 2009/12/this-is-all-we-need-to-know
 postday: 12/13 2009
 posttime: 18_37
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>'...let's cut the bullshit about the bailouts being intended to help ordinary homeowners and save auto workers. We could have paid off every subprime mortgage in America for about $1.4 trillion and instead shelled out at least ten times that to Wall Street, primarily to pay off derivative bets made by bankers on those assets.'</p>

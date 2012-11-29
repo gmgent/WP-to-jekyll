@@ -4,7 +4,7 @@ title: A Star for You
 permalink: 2003/09/a-star-for-you
 postday: 09/04 2003
 posttime: 03_22
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>What do I see now?<br />

@@ -4,7 +4,7 @@ title: things you should know about the Obama administration
 permalink: 2009/08/things-you-should-know-about-the-obama-administration
 postday: 08/06 2009
 posttime: 18_46
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>For every good thing he does, there are about 10 more things that are downright Bush-y.</p>

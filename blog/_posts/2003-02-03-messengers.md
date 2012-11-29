@@ -4,7 +4,7 @@ title: messengers
 permalink: 2003/02/messengers
 postday: 02/03 2003
 posttime: 03_16
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>I write with obscene distractions<br />

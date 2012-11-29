@@ -4,7 +4,7 @@ title: haiku one fifteen am april 2009
 permalink: 2009/04/haiku-one-fifteen-am-april-2009
 postday: 04/29 2009
 posttime: 08_16
-categories: [Poetry]
+categories: [poetry]
 ---
 
 <p>Hollywood is a<br />

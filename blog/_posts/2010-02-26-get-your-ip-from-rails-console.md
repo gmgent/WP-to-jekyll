@@ -4,7 +4,7 @@ title: get your ip from rails console
 permalink: 2010/02/get-your-ip-from-rails-console
 postday: 02/26 2010
 posttime: 18_13
-categories: [Code]
+categories: [code]
 ---
 
 <pre>

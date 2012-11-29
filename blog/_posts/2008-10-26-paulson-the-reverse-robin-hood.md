@@ -4,7 +4,7 @@ title: Paulson the Reverse Robin Hood
 permalink: 2008/10/paulson-the-reverse-robin-hood
 postday: 10/26 2008
 posttime: 20_27
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>In point of fact, the dirty little secret of the banking industry is that it has no intention of using the money to make new loans.</p>

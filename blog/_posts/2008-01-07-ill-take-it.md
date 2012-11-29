@@ -4,7 +4,7 @@ title: I'll Take It
 permalink: 2008/01/ill-take-it
 postday: 01/07 2008
 posttime: 19_44
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>You all know how hard it can be to get good press, so here's a new review posted just last month:<br />

@@ -4,7 +4,7 @@ title: get rid of the patch gem_dependency.rb:119 error
 permalink: 2011/08/get-rid-of-the-patch-gem_dependency-rb119-error
 postday: 08/02 2011
 posttime: 16_20
-categories: [Code]
+categories: [code]
 ---
 
 Hate this error?

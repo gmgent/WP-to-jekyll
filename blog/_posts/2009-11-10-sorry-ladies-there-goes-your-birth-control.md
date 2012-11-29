@@ -4,7 +4,7 @@ title: sorry ladies there goes your birth control
 permalink: 2009/11/sorry-ladies-there-goes-your-birth-control
 postday: 11/10 2009
 posttime: 22_36
-categories: [Historical]
+categories: [historical]
 ---
 
 <p><a href="http://www.thenation.com/blogs/notion/494751/" title="http://www.thenation.com/blogs/notion/494751/">http://www.thenation.com/blogs/notion/494751/</a></p>

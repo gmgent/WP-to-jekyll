@@ -4,7 +4,7 @@ title: Rahm Emanuel - Zionist Warmonger?
 permalink: 2008/11/rahm-emanuel-zionist-warmonger
 postday: 11/06 2008
 posttime: 01_19
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>In his own words:</p>

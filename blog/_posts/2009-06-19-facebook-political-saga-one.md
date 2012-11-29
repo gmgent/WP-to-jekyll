@@ -4,7 +4,7 @@ title: facebook political saga one
 permalink: 2009/06/facebook-political-saga-one
 postday: 06/19 2009
 posttime: 18_50
-categories: [Historical]
+categories: [historical]
 ---
 
 <p>This is becoming quite the regular feature. On the heels of showing you the ugly face of mindless dogma-driven religious psycho-babble, we have a great example of mindless dogma-driven political psycho-babble. It all started when a friend posted a short message about the "only sure thing in life is change".</p>

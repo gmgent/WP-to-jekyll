@@ -4,7 +4,7 @@ title: jesus rifles
 permalink: 2010/01/jesus-rifles
 postday: 01/21 2010
 posttime: 05_30
-categories: [Historical, Politics]
+categories: [historical, politics]
 ---
 
 <p>Say it isn't so! Crusades, anyone?</p>
