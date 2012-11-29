@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -77,7 +77,7 @@ she lifts my weight<br />
 I live for her<br />
 every single day</p><br />
 <br />
-<p><a href="http://kristeraxel.com/media/vault/before-we-could-fade.mp3">link</a></p><br />
+<p><audio src='http://kristeraxel.com/media/vault/before-we-could-fade.mp3' preload='auto' />
 <br />
 <p><a href="http://kristeraxel.com/media/vault/before-we-could-fade2.mp3">link</a></p><br />
 </p>
@@ -118,6 +118,11 @@ every single day</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

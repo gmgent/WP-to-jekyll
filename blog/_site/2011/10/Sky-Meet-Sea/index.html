@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -69,7 +69,7 @@
 <br />
 <p>We will be adding some electric guitar before the final mix.</p><br />
 <br />
-<p><a href="http://kristeraxel.com/media/vault/skymeetsea2.mp3">link</a></p><br />
+<p><audio src='http://kristeraxel.com/media/vault/skymeetsea2.mp3' preload='auto' />
 <br />
 <p>lyrics:</p><br />
 <br />
@@ -173,6 +173,11 @@ where the sky meets the sea</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

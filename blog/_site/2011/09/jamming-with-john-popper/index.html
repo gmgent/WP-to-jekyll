@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -121,6 +121,11 @@ Off screen: Matt Delvecchio, Adam Marcello and Joel Eckels.</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

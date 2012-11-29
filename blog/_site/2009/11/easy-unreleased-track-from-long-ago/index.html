@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 Easy - unreleased track from long ago
             </h2>
-			<p class="teaser_info"><p><a href="http://www.kristeraxel.com/media/2010-0911-e.mp3">This</a> song is an old Axel classic. I brought it back because in a few weeks we should have some pretty rocking new tunes up on this podcast, and this is a good chance to do some old/new contrasts. This was recorded in &#039;02 in Angel&#039;s apartment in Hollywood back when I was single and lived in the same building with my two buddies.</p><br />
+			<p class="teaser_info"><p><audio src='http://www.kristeraxel.com/media/2010-0911-e.mp3' preload='auto' />
 <br />
 </p>
 			<div class="post-meta">
@@ -105,6 +105,11 @@
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

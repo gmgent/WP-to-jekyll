@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 erotic blue - live at Kulaks Woodshed
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/vault/Krister_Axel-Heartbreak.mp3">link</a></p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/vault/Krister_Axel-Heartbreak.mp3' preload='auto' />
 <br />
 <br />6:09 minutes (5.63 MB)<p>We had a residency at Kulak&#039;s back in the day when I was 1/3rd of Paper Sun&#039;s writing team. Good times.</p><br />
 <br />
@@ -117,6 +117,11 @@ Written by Krister Axel.</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

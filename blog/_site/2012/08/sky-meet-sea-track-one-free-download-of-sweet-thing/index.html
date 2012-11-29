@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 Sky Meet Sea track one free download of Sweet Thing
             </h2>
-			<p class="teaser_info"><p>download the track <a href="http://kristeraxel.com/media/m/kristeraxel-SweetThing.mp3">here</a> by subscribing to the <a href="http://itunes.apple.com/us/podcast/rockstaralley-roots-music/id269041792?mt=2">podcast</a>.</p><br />
+			<p class="teaser_info"><p>download the track <audio src='http://kristeraxel.com/media/m/kristeraxel-SweetThing.mp3' preload='auto' />
 <br />
 <p>Sweet Thing</p><br />
 <br />
@@ -148,6 +148,11 @@ all you get is nothing when you put nothing in</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

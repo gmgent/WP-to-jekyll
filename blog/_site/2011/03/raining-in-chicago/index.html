@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -67,7 +67,7 @@
             </h2>
 			<p class="teaser_info"><p>need to rerecord this. Great song.</p><br />
 <br />
-<p><a href="http://kristeraxel.com/media/vault/raining.mp3">link</a></p><br />
+<p><audio src='http://kristeraxel.com/media/vault/raining.mp3' preload='auto' />
 <br />
 <p>raining in chicago</p><br />
 <br />
@@ -140,6 +140,11 @@ all night by yourself</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

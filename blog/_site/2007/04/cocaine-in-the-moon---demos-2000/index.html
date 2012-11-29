@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 cocaine in the moon - demos 2000
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/vault/07cocaineinthemoon.mp3">link</a></p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/vault/07cocaineinthemoon.mp3' preload='auto' />
 <br />
 <br />2:54 minutes (3.32 MB)<p>The original recording of this song, written soon after Princess Diana&#039;s death. I recorded it after I got to Los Angeles, but it was written in Minneapolis when I lived there briefly in the Spring of &#039;99.</p><br />
 <br />
@@ -110,6 +110,11 @@
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

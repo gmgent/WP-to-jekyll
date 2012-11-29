@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -89,7 +89,7 @@ I never knew how to keep them calling<br />
 I'm losing you know<br />
 the way I lose everyone</p><br />
 <br />
-<p><a href="http://kristeraxel.com/media/vault/places_and_things.mp3">link</a></p><br />
+<p><audio src='http://kristeraxel.com/media/vault/places_and_things.mp3' preload='auto' />
 </p>
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
@@ -128,6 +128,11 @@ the way I lose everyone</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

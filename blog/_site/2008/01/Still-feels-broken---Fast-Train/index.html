@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 Still feels broken - Fast Train
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/vault/runfromyourself.mp3">link</a></p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/vault/runfromyourself.mp3' preload='auto' />
 <br />
 <br />3:25 minutes (3.13 MB)<p>key of E - 104 bpm</p><br />
 <br />
@@ -148,6 +148,11 @@ try to be understood</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

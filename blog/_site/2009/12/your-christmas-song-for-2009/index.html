@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 your christmas song for 2009
             </h2>
-			<p class="teaser_info"><p>I&#039;m rolling out this <a href="http://www.kristeraxel.com/media/2010-0911-ycs.mp3">classic</a> again.</p><br />
+			<p class="teaser_info"><p>I&#039;m rolling out this <audio src='http://www.kristeraxel.com/media/2010-0911-ycs.mp3' preload='auto' />
 <br />
 <br />
 <p>It&#039;s still sort of a "dark horse" favorite. Stephanie Davis on the silky smooth vocals.</p><br />
@@ -108,6 +108,11 @@
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

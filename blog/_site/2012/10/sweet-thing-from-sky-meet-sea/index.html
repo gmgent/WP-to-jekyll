@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 Sweet Thing from Sky Meet Sea
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/2012-kristeraxel-SweetThing.mp3">This</a> (Sweet Thing) is my first single from the new album. I wrote it years ago but it only got produced for Sky Meet Sea so here it is finally. Buy the whole album at <a href="http://axelradio.com/album/sky-meet-sea">AxelRadio</a> for only $4.</p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/2012-kristeraxel-SweetThing.mp3' preload='auto' />
 <br />
 <p>Produced by Krister Axel, mixed by Scotty Lund. Enjoy!</p><br />
 </p>
@@ -106,6 +106,11 @@
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

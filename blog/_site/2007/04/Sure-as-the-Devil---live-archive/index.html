@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 Sure as the Devil - live archive
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/vault/05SureastheDevil.mp3">link</a></p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/vault/05SureastheDevil.mp3' preload='auto' />
 <br />
 <br />8:18 minutes (7.61 MB)<p>A very long song performed with a great band early in my career as a performer. This qualifies as one of my first Krister Axel shows. I hadn&#039;t even recorded Swexico yet. Recorded live at Genghis Cohen, 2002 (Los Angeles).</p><br />
 <br />
@@ -114,6 +114,11 @@ Adam Marcello - drums</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

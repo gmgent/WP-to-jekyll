@@ -8,7 +8,7 @@ layout: blog
         <meta charset="UTF-8" />
         <title>{{ page.title }} | Krister Axel</title>
         {% include _super_header.html %} 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -22,7 +22,7 @@ layout: blog
 			<h2 class="title">
                 {{ page.title }}
             </h2>
-			<p class="teaser_info">{{ content | newline_to_br }}</p>
+			<p class="teaser_info">{{ content | newline_to_br | add_audio_tag }}</p>
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
                 <span class="small">on</span> <abbr class="date time published">{{page.postday}} at {{page.posttime}}</abbr> 
@@ -38,6 +38,11 @@ layout: blog
 			{% include _footer.html %}
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

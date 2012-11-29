@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 My Rose - demos 2006
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/vault/myrose3_NOV2006.mp3">link</a></p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/vault/myrose3_NOV2006.mp3' preload='auto' />
 <br />
 <br />4:34 minutes (6.27 MB)<p>One of many songs written for Lavinia. A love song.</p><br />
 <br />
@@ -120,6 +120,11 @@ I know enough to know</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

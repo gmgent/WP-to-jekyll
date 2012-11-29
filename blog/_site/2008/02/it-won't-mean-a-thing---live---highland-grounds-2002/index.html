@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 it won't mean a thing - live - highland grounds 2002
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/vault/04itwontmeanathing.mp3">link</a></p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/vault/04itwontmeanathing.mp3' preload='auto' />
 <br />
 <br />4:30 minutes (5.15 MB)<p>Live from the Highland Grounds in Hollywood (November 2002).</p><br />
 <br />
@@ -116,6 +116,11 @@ Stephanie Davis - vocals</p><br />
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

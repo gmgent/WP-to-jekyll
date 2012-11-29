@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 Tragic from the Paper Sun days
             </h2>
-			<p class="teaser_info"><p><a href="http://kristeraxel.com/media/2012-kristeraxel-Tragic.mp3">This</a> (Tragic) is one of the first recordings I ever did in Los Angeles. Those were great days, Sally Jaye and Joel Eckels, Carson Cohen and Adam Marcello, and yours truly. Recorded in 2002 I think.</p><br />
+			<p class="teaser_info"><p><audio src='http://kristeraxel.com/media/2012-kristeraxel-Tragic.mp3' preload='auto' />
 </p>
 			<div class="post-meta">
                 <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
@@ -104,6 +104,11 @@
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

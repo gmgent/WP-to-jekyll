@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -75,7 +75,7 @@
 <br />
 <br />
 <p>Here are a few numbers from the show at the Hotel Cafe this weekend. We had a lot of photos being taken but I haven't seen them yet, so I'll put some up when I get them. We had a great show, a really big crowd and a lot of love... rock and roll. Thank you to everyone that was there.</p><br />
-<a href="http://kristeraxel.com/media/live/2005MAR-SouthernGirl-HotelCafe.mp3">southern girl</a><br/></p><br />
+<audio src='http://kristeraxel.com/media/live/2005MAR-SouthernGirl-HotelCafe.mp3' preload='auto' />
 <br />
 <hr><br />
 <br />
@@ -430,6 +430,11 @@ You can wake up and be at the airport in an hour, waving a cup of coffee at the 
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>

@@ -17,7 +17,7 @@
 <!-- style sheets -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
-
+        <script src="/audiojs/audio.min.js"></script>
     </head>
 
     <body>
@@ -65,7 +65,7 @@
 			<h2 class="title">
                 Somewhere
             </h2>
-			<p class="teaser_info"><p><a href="http://www.kristeraxel.com/media/2011-0203-s.mp3">This</a> was recorded at The Village in Santa Monica. Mixed by Scotty Lund. Horns by the awesome Bill Dowling and pals.</p><br />
+			<p class="teaser_info"><p><audio src='http://www.kristeraxel.com/media/2011-0203-s.mp3' preload='auto' />
 <br />
 <br />
 <p>From the album Sky Meet Sea, to be released in the summer of 2011.</p><br />
@@ -108,6 +108,11 @@
 </table>
 		</div>
 	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
 	</body>
 
 </html>
