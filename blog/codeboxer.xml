@@ -1,0 +1,22 @@
+---
+---
+
+<rss version="2.0">
+<channel>
+  <title>Codeboxer by Krister Axel</title>
+  <link>http://kristeraxel.com/</link>
+  <description>code snippets from the interwebs, sql js ruby and php</description>
+  <language>en-us</language>
+  <pubDate>{{ site.time | date_to_long_string }}</pubDate>
+    {% for post in site.posts %}
+    {% if post.category == "Code" %}
+      <item>
+        <title>{{ post.title }}</title>
+        <link>{{ post.url }}</link>
+        <description>{{ post.content | escape }}</description>
+        <pubDate>{{ post.date }}</pubDate>
+      </item>
+    {% endif %}
+    {% endfor %}
+</channel>
+</rss>
