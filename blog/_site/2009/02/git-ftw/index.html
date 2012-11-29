@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title>git ftw | Krister Axel</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<!--  Mobile viewport scale -->
+<meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"/>
+
+<!-- Custom Favicon -->
+<link rel="shortcut icon" href="http://blog.kristeraxel.com/wp-content/uploads/2012/11/favicon.ico"/>
+
+<!-- style sheets -->
+<link rel="stylesheet" type="text/css" href="/css/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css&2.9.0/build/base/base-min.css"> 
+        <script src="/audiojs/audio.min.js"></script>
+    </head>
+
+    <body>
+	<!-- the id on the containing div determines the page width. -->
+	<!-- #doc = 750px; #doc2 = 950px; #doc3 = 100%; #doc4 = 974px -->
+	<div id="doc">					
+		<div id="hd">
+			<div id="header" class="col-full">
+
+   
+   <div id="logo">
+        <a href="/" title="spotlights in the wild">
+            <img src="http://blog.kristeraxel.com/wp-content/uploads/2012/11/header11.jpg" alt="Krister Axel" />
+        </a>
+   </div><!-- /#logo -->
+   
+</div><!-- /#header -->
+<div id="navigation" class="col-full">
+	<ul id="main-nav" class="nav">
+		<li id="menu-item-1" class="menu-item">
+		    <a href="/" >the latest</a></li>
+		
+		<li id="menu-item-2" class="menu-item">
+	        <a href="/Archive/">Archive</a></li>
+	
+		<li id="menu-item-3" class="menu-item">
+		    <a href="/Info/" >Info</a></li>
+
+		<li id="menu-item-4" class="menu-item">
+            <a href="/Press/" >Press</a></li>
+
+		<li id="menu-item-5" class="menu-item">
+	        <a href="/Search/">Search</a></li>
+	
+        <li id="menu-item-6" class="menu-item">
+            <a href="/Contact/">Contact</a></li>
+
+        <li id="menu-item-7" class="menu-item">
+	        <a href="http://axelradio.com/">Music</a></li>
+        
+    </ul>	
+</div><!-- /#navigation -->
+		</div>
+		<div id="bd" class="container">
+			<h2 class="title">
+                git ftw
+            </h2>
+			<p class="teaser_info"><p>copied from:<br /><br />
+            <a href="http://www.simplisticcomplexity.com/2008/03/05/cleanly-migrate-your-subversion-repository-to-a-git-repository/" rel="bookmark" title="Permanent Link to Cleanly Migrate Your Subversion Repository To a GIT Repository">Cleanly Migrate Your Subversion Repository To a GIT Repository</a></p><br />
+<br />
+<br />
+<p>The first thing we need to do is create a <em>users</em> file that maps all your SVN users to your GIT users. Just make a file on your Desktop named &#039;users.txt&#039;. Map the users using this format:</p><br />
+<br />
+<br />
+<p>jmaddox = Jon Maddox<br /><br />
+bigpappa = Brian Biggs </p><br />
+<br />
+<br />
+<p>Simple. Now here are the commands you&#039;ll run. I&#039;ll explain them below.</p><br />
+<br />
+<br />
+<p>mkdir my_blog_tmp<br /><br />
+cd my_blog_tmp<br /><br />
+git-svn init <a href="http://code.yoursite.net/my_blog/trunk/">http://code.yoursite.net/my_blog/trunk/</a> --no-metadata<br /><br />
+git config svn.authorsfile ~/Desktop/users.txt<br /><br />
+git-svn fetch</p><br />
+<br />
+<br />
+<p>The first two are self explanatory, we&#039;re making a new directory for the temporary repository. The second command initializes the directory as a git-svn hybrid thing and points the origin at your SVN repository. The flag, --no-metadata, tells GIT to leave all the SVN details behind (not the commit log). The fourth command tells GIT to remap all the SVN users to GIT users when it sucks down the source and history. The last command actually does the fetching.</p><br />
+<br />
+<br />
+<p>Ok, so now after a few LONG minutes, your source is all there. Do a git log to see that your users have been mapped. Sweet!</p><br />
+<br />
+<br />
+<p>Now you just have one last step. You need to clone this repository. Why do we do this? When doing a normal git clone it will take everything we want from the temporary repository, while leaving behind all the SVN cruft that was there to support the git-svn stuff.</p><br />
+<br />
+<br />
+<p>git clone my_blog_tmp my_blog</p><br />
+<br />
+</p>
+			<div class="post-meta">
+                <span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://kristeraxel.com" title="Posts by Krister Axel" rel="author">Krister Axel</a></span></span> 
+                <span class="small">on</span> <abbr class="date time published">02/19 2009 at 23_00</abbr> 
+                <span class="small">in</span> 
+                <span class="categories">
+                    
+						<a href="/category/Code/">Code</a> 
+                    
+                </span>
+            </div>
+		</div>
+		<div id="ft">
+			<br/>
+<hr/>
+<table id="footer">
+	<tr>
+	  <td><span class="leftcol">
+	    <ul>
+	      <li><a href="http://www.kristeraxel.com" rel="me" title="my home page" target="_blank">kristeraxel.com</a></li>
+	      <li><a href="http://axelradio.com" rel="me" title="Download songs by Krister Axel and read the lyrics." target="_blank">Lyrics + Downloads</a></li>
+	      <li><a href="http://axel.me/mouse" rel="me" title="view my media stream at rebelmouse" target="_blank">videos</a></li>
+	    </ul>
+		</span>
+	  </td>
+	  <td><span class="midcol">
+	    <small>&copy; 29 November 2012 Krister Axel<br/>All Rights Reserved.</small>
+		</span>
+	  </td>
+	  <td><span class="rightcol">
+	    <small>designed by <a href="http://kristeraxel.com">Krister Axel</a><br/>powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a></small>
+		</span>
+	  </td>
+	</tr>
+	
+</table>
+		</div>
+	</div>
+	  <script>
+	  audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	  });
+	  </script>
+	</body>
+
+</html>

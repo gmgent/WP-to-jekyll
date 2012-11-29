@@ -1,0 +1,13 @@
+---
+layout: blog
+title: free promo track East of Hollywood by Krister Axel
+permalink: 2012/04/free-promo-track-east-of-hollywood-by-krister-axel
+postday: 04/13 2012
+posttime: 14_12
+categories: [News, Random]
+---
+
+Get your free promo download here from <strong>IODA</strong>. East of Hollywood. Representing.
+
+
+<img src="http://image.iodalliance.com/release/thumbs_60/342914-72.jpg" width="60" height="60" alt="Permanent Friday Night" align="left" style="margin-right: 4px;"><strong><a href="http://redirect.iodalliance.com/artist.php?id=C2B0F715B02236BE19FD32F36FF7D5D7B52466663A1895D94782D719EFEA4A4C" target="_new" rel="nofollow">Krister Axel</a></strong><br><em><a href="http://redirect.iodalliance.com/download_track.php?id=0D1E132601742281AEECDB7D02E4A9F06C1C5581AA83A5F4DF96297552674C6E80556FE80FCAE7B2CFFFEF172A5C82B8" target="_new" rel="nofollow"><img src="http://iodapromonet.com/img/download_icon.gif" border="0"> "East Of Hollywood"</a></em> (mp3) <br> from "Permanent Friday Night" <br><a href="http://redirect.iodalliance.com/label.php?id=85D264F566F29909485F0A33FB57A0703E2A160247423105D29B3A92E5C86995" target="_new" rel="nofollow">(RockstarAlley)</a><br clear="all"><br><img src="http://iodapromonet.com/img/service_icon_4.gif"> <strong>Buy at </strong><a href="http://redirect.iodalliance.com/buy_album.php?id=0D1E132601742281AEECDB7D02E4A9F0E042D7DAA41CB74D5F3075A41F18C62F2995382E3DA37D92929526C2F3929150" target="_blank" rel="nofollow">iTunes Music Store</a><br><img src="http://iodapromonet.com/img/service_icon_426.gif"> <strong>Buy at </strong><a href="http://redirect.iodalliance.com/buy_album.php?id=0D1E132601742281AEECDB7D02E4A9F00546ED9E29C1F5C4801255347B4B0B553E2A160247423105D29B3A92E5C86995" target="_blank" rel="nofollow">Amazon MP3</a><br><img src="http://iodapromonet.com/img/icon_landing_page.gif"> <a href="http://redirect.iodalliance.com/buy_album.php?id=0D1E132601742281AEECDB7D02E4A9F0127CBF5EF112FC75FF3237360B7CFE60F08CA75BA6D40E8B6D0FEA4C62B919B8" target="_new" rel="nofollow">More On This Album</a><br><br><img src="http://redirect.iodalliance.com/log_pageview.php?id=0D1E132601742281AEECDB7D02E4A9F06C1C5581AA83A5F4DF96297552674C6E80556FE80FCAE7B2CFFFEF172A5C82B8">
