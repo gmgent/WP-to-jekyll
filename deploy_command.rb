@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 #sync main jekyll project 
-sudo rsync --stats -tiprogl --progress /Users/theta/src/jekyll/blog/_site/ -e "ssh -i /Users/theta/src/aws/key/BlogKAkey.pem" ec2-user@107.22.165.75:/var/www/html/
+sudo rsync --stats -tiprogl --progress /FULLPATH_TO_THIS_PROJECT/blog/_site/ -e "ssh -i FULLPATH_TO_YOUR_EC2_KEY/Yourkey.pem" ec2-user@YOURIP:/var/www/html/
 
