@@ -4,7 +4,7 @@
   <link>http://kristeraxel.com/</link>
   <description>The latest news from blog.kristeraxel.com.</description>
   <language>en-us</language>
-  <pubDate>29 November 2012</pubDate>
+  <pubDate>30 November 2012</pubDate>
     
       <item>
         <title>life is a bowl of cherries</title>
@@ -33,7 +33,7 @@
         <link>Info</link>
         <description>&lt;p&gt;Blog. WP-to-Jekyll.&lt;/p&gt;
 
-&lt;p&gt;https://github.com/gmgent/WP-to-jekyll&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/gmgent/WP-to-jekyll&quot;&gt;WP-to-jekyll&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon Jan 01 00:00:00 -0800 1900</pubDate>
       </item>

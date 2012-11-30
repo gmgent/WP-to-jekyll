@@ -39,12 +39,7 @@ regex = "/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//"
         
         
         
-        re = Regexp.new regex
-        puts "strip from #{post_item["link"]}"
-        linkname = post_item["link"].to_s.scan(/[b][l][o][g].{1,}\/([a-zA-Z].{1,})\//)
-        if linkname.to_s.size == 0
-          linkname = post_item["title"].to_s.gsub!(" ", "-")
-        end
+        linkname = post_item["title"].to_s.gsub!(" ", "-")
         filename = "#{datearray[0]}/#{datearray[1]}/#{linkname}"
         
         jekyll_post_name = "#{datearray[0]}-#{datearray[1]}-#{datearray[2].to_s[0..1]}-#{linkname}"
