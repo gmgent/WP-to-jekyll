@@ -1,0 +1,28 @@
+---
+layout: blog
+title: in the words of barack obama
+permalink: 2009/08/in-the-words-of-barack-obama
+postday: 08/10 2009
+posttime: 18_33
+categories: [historical]
+---
+
+<p>This is a link to a story Barack posted on the Washington Post last month.</p>
+<p><a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/07/11/AR2009071100647.html" title="http://www.washingtonpost.com/wp-dyn/content/article/2009/07/11/AR2009071100647.html">http://www.washingtonpost.com/wp-dyn/content/article/2009/07/11/AR200907...</a></p>
+<p>I find it sort of fascinating that we have in a few short generations gone from the 'fireside chat' to the on-demand blog post. :)</p>
+<p>Although this was already news a few weeks ago I needed to show fairness because my last post was sort of critical of Barack. Just to be clear, Barack is not doing anything that Bill Clinton didn't do in the early 90s, which is to say talk 'left' and move 'center-right'. It's just that I am smarter now, or at least more informed, and if I had been quite a bit more political and maybe a little bit more sober during my early twenties I would have fought NAFTA and the School of the Americas and the tax cuts and the pardons and the financial deregulation that got us here. Anyway, that being said here is breakdown of what the Obama administration is proud of.</p>
+<p>The financial crisis - on this one I can't give him a pass. Here is what he says:</p>
+<p>The swift and aggressive action we took in those first few months has helped pull our financial system and our economy back from the brink.</p>
+<p>This I don't buy for a second. Throwing money at bad debt for your cronies in the banks without demanding they go into receivership is called sweeping the problem under the rug. Obama had a chance to hold their feet to the fire and all he said was 'psyche'.</p>
+<p><a href="http://www.breitbart.com/article.php?id=D96FH8I00&amp;show_article=1" title="http://www.breitbart.com/article.php?id=D96FH8I00&amp;show_article=1">http://www.breitbart.com/article.php?id=D96FH8I00&amp;show_article=1</a></p>
+<p>The American Recovery and Reinvestment Act - this seems like some decent legislation.</p>
+<p><a href="http://en.wikipedia.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009" title="http://en.wikipedia.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009">http://en.wikipedia.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009</a><br />
+<a href="http://market-ticker.denninger.net/archives/1294-For-Want-Of-An-Or-Else.html" title="http://market-ticker.denninger.net/archives/1294-For-Want-Of-An-Or-Else.html">http://market-ticker.denninger.net/archives/1294-For-Want-Of-An-Or-Else....</a></p>
+<p>There seems to be money for a lot of domestic programs that need help. Of course there are more tax cuts, some more bank bailout money and some other pork but for the most part this seems like smart spending. Of course the total here is about half a trillion dollars which is still less than the 700 billion in TARP money (linked here - <a href="http://www.prisonplanet.com/the-secret-history-of-tarp-how-goldman-bailed-out-goldman%E2%80%A6.html" title="http://www.prisonplanet.com/the-secret-history-of-tarp-how-goldman-bailed-out-goldman%E2%80%A6.html">http://www.prisonplanet.com/the-secret-history-of-tarp-how-goldman-baile...</a>) that we know about - so the banks get bailed out faster and bigger than the people. But at least there's something.</p>
+<p>Health Care - it's hard to give points for taking single-payer off the table, so I won't do it. Read this: <a href="http://www.adn.com/opinion/compass/story/893083.html" title="http://www.adn.com/opinion/compass/story/893083.html">http://www.adn.com/opinion/compass/story/893083.html</a></p>
+<p>And finally, we have the new college tax credit. Read here: <a href="http://collegesavings.about.com/b/2009/02/12/the-stimulus-package-and-college-costs-an-update-on-the-american-opportunity-tax-credit.htm" title="http://collegesavings.about.com/b/2009/02/12/the-stimulus-package-and-college-costs-an-update-on-the-american-opportunity-tax-credit.htm">http://collegesavings.about.com/b/2009/02/12/the-stimulus-package-and-co...</a></p>
+<p>This seems like a decent implementation of a good idea. I'm not sure how a $2,500 tax credit is going to put your kid through college but it can't hurt.</p>
+<p>So that's it - the rest of <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/07/11/AR2009071100647.html">Obama's</a> post is more or less fluff, where he says things like:</p>
+<p>Already, we're making progress on health-care reform that controls costs while ensuring choice and quality, as well as energy legislation that will make clean energy the profitable kind of energy, leading to whole new industries and jobs that cannot be outsourced. </p>
+<p>Of course there are no specifics on health care or energy legislation, so I guess we'll have to give him a pass on that for now.</p>
+<p>So, as far as I can tell that gives Barack a 2 out of 4. Thanks for playing. I suppose that's better than shrubbie would have done. :)</p>

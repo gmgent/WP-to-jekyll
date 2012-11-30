@@ -1,0 +1,40 @@
+---
+layout: blog
+title: the problem with literal theism
+permalink: 2012/02/the-problem-with-literal-theism
+postday: 02/13 2012
+posttime: 04_01
+categories: [random]
+---
+
+<a href="http://axel.me/7s" title="the original article" target="_blank">link</a> to the original article from Slate - <strong>Did Early Christians Practice Birth Control?</strong>
+
+
+So it's late, I don't feel like sleeping, and reading the comments on this one makes me want to write about it. It's a hot topic, a sensitive one, and the linked article is a good read. I can relate a little to the plight of atheists within what is quickly becoming a Christian nation, and there are many conversations to be had on this topic but I am going to try and pinpoint this issue I have with Christian literalism. Of course, I don't have to pick on the Christians - to my knowledge, Muslim culture, Jewish culture, and I'm sure many other religions I am less aware of have some element of literal belief within their faith - but I don't think it is a stretch to say, especially in light of this article, that the large group of fundamentalist Christians in this country that all believe in a literal interpretation of the bible is a unique social and political situation. We are the only advanced country with this reality. So much so that Obama had to make a concession to the churches that would not offer contraception to their employees. As smart as it is a political move, I think it is a slippery slope and we already see that it has opened the door to making the right-wing ideologues wonder how much more they can demand. So much for separation of church and state.
+
+Anyway here is what I wanted to talk about:
+
+<a href="http://blog.kristeraxel.com/wp-content/uploads/2012/02/religion.png"><img src="http://blog.kristeraxel.com/wp-content/uploads/2012/02/religion.png" alt="" title="religion" width="522" height="286" class="aligncenter size-full wp-image-1654" /></a>
+
+It is a simple forum exchange between essentially two poles, we will call them Lefty and Abe. Of course Abe gets points for quoting <strong>Ferris Bueller</strong>, and essentially he is a likable guy who will go to any length to defend his belief system. Alternately, Lefty comes across a bit harsh but is making a salient point.
+
+Before I continue, I want to mention something that this whole exchange reminded me of. Perhaps some of you remember the tsunami that hit Japan last year - there was a great story (I can't find the link right now) that told of some indigenous tribes in Japan - essentially fishermen - who saw the tsunami coming because they had a traditional song that warned of the sea levels near shore dropping quickly. Apparently, before the 'big wave', the waters recede like a super-fast low tide and these illiterate subsistence fishermen knew that because they have a song passed down through countless generations that talks about that very specifically.
+
+That, to me, is the role of religion - which I guess is similar to the role of folklore and other vocal traditions - to pass along information from generation to generation. It doesn't have to be literal - those fishermen weren't concerned about who wrote the song, or when or if there had actually been a previous 'big wave', or anything nit-picky like that. They just sang their song every weekend and one day it came in handy.
+
+Greek mythology was a lot like that, and Roman, and even Norse - those are the ones I know something about - and the angle was always the same. Address issues that man is concerned with: why the sun rises, where the seasons come from, etc.; and then wrap it in a myth that can live longer than anyone. Harvests, or medicine, or astrology, or marriage - little nuggets of the people's wisdom would become lodged in a parable about Zeus, or Cupid, or Freyja. The point was not that these figures were real in a literal sense, but that behind the veneer of fickle gods engaged in decidedly mortal pursuits was a pithy comment on the human condition. Advice, even. But never heavy-handed - the lesson was always 'ignore at your peril', as opposed to 'sign on or be excluded'.
+
+Today, we have a grown man who is clearly genuine and sane and probably a nice guy to hang out with who is defending the literal truth of the entire bible, contradictions and all - cheerfully. No irony. No sign of cognitive dissonance whatsoever. I know this is nothing new, indeed we have millions of people like that in this country, but it is no less disturbing by virtue of its own ubiquity. I think everyone needs to take a moment to think about that. It's not just the 'dumb' people, as the harshest lefty critics would say, as Lefty himself might say. Very rational and very sane people somehow manage to find a way to put their theistic views completely aside from the rest of their belief system, and proceed through life with not a inkling that their own actions are in complete contradiction with their spiritual beliefs.
+
+For example - many fundamentalists claim - quite seriously - that earth was made, by god, about 4,000 years ago. It says that in the bible, apparently, and that being the authoritative source, means that it must be true.
+
+These very same people use coal-generated power, and cell-phones made with coltan, for example - both of which are products of an earth that is (correctly) 4 billion years old. You can't make coal in 4,000 years. It won't happen.
+
+So here's the thing about essentially all of Christian dogma - it was created by politicians. I hate to break it to you. As exhibit number one, I submit to you the farce known as 'the holy trinity':
+
+The whole concept of Jesus as 'deity' and most specifically the craziness that is the holy trinity (all 3 - holy ghost, the 'father' himself, and Jesus are different but equal manifestations of the divine) was specifically designed as a power-grab wedge issue. The holy trinity was meant to alienate the Hellenists and elevate what was at one point a minority group (the nascent Christians) to a position of control. It worked incredibly well - the Hellenists were ready to play ball and share power except as devout rationalists they just would not swallow the seriousness with which the Christians were selling this whole 3-beings-as-one concept. As polytheists, they were natural compromisers - there is plenty of room for your gods too - but then as now what was to become the Catholic church would settle for nothing less than complete domination.
+Christians in the 3rd and 4th centuries were very much the Tea Party of their time, and Jesus was the 'gay marriage' or 'job-stealing-immigrant' problem of that time - meant to to alienate their political opponents into irrelevancy or subjugation at the same time that they pushed the whole concept that the Christian 'godhead' is more 'real' than other gods. At the time, that seemed like an absurd tenet to most people but over the last 1800 years everyone seems to have forgotten that the story of Jesus was either appropriated from other religions like Mithras or literally debated into existence from whole cloth at the councils of Nicaea.
+
+Jesus was one of many influential prophets at the turn on the first millennium. 200+ years later, his story was appropriated for political purposes. Ironically, they use a greek word <em>homoousian</em> to describe the controversy that would in short order relegate the Hellenists to ancient history.
+
+I have no problem with religion whatsoever. Just don't tell me it is literally true. It feels like a very small step from believing in the literal truth of the bible, to submitting that creationism should be taught in school. It's irresponsible, counter-productive, and straight-up gauche.

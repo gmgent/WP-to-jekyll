@@ -1,0 +1,21 @@
+---
+layout: blog
+title: Get back to work
+permalink: 2009/07/get-back-to-work
+postday: 07/23 2009
+posttime: 22_09
+categories: [historical]
+---
+
+<p>I am home now. I learned a few things in Europe. My wife and I had a truly amazing trip to Paris, Rome, Barcelona, San Sebastian (aka Donostia), Cahors, Annecy and then back to Paris. We tried not to take anything for granted and we truly felt completely blessed to have such a great trip with more or less awesome weather. With the exception of about 2 days in Annecy, the only thing that could be said about the weather is that it was occasionally a little TOO sunny. :)</p>
+<p>That being said, I learned a few things.</p>
+<p>1 - We should be grateful (here in the US). The rest of my comments will be more less critical of the US when compared to the above-mentioned places, but it deserves to be mentioned first that even in big cities like Paris and Rome you will find yourself waiting around a lot longer (and looking a a lot harder) than you are used to for things like breakfast, last minute booze necessities, an internet connection, or any of the many sundry things that we modern consumers look for obsessively. Now that I am home, I am within 50 steps of late night food, a Starbucks that opens at 5:30am, and a CVS that closes way later than I need it to.</p>
+<p>2 - Lunch is the day's gift to you and will be ignored or taken lightly only to your own detriment. Some of my favorite moments were in Paris and Rome and some other places where if you can find a restaurant at the optimum place in its lunch rush (too early often means bad service, so you want to get in around 2pm) you can get in and out pretty quickly and feel sort of nourished by the warm blanket of the local hustle. We always looked for places that were at 80-ish percent with people that are really eating (instead of just drinks) so that you could tell it was busy because the food was good.</p>
+<p>3 - As a correlary to two, when possible get the 'menu' or 'formule', which is basically a line-up of daily specials with an added cost savings; failing that at least get a daily special if they are available only by themselves because they are often awesome and very 'a propos' of the local region.</p>
+<p>4 - Rock the vino in the carafe. A full bottle is often too much for two people over lunch, but the 'demi' carafe is half a liter and is 2 good glasses each which is all you need. By the time you have had the obligatory espresso (skip the milk because it's expensive and pointless), the wine has worn off and you're feeling pretty good. We had a demi carafe of rose with almost every meal and it was delicious. I also suspect the wines in the carafe are more suitable for lunch because they seem to be a little lower proof (weaker by volume).</p>
+<p>5 - It's good to get around. The pure joy of travel is pretty hard to beat, as long as you're ready to roll with the punches a little bit.</p>
+<p>6 - Always ask for what you want - nicely. This is more of a life lesson, but it's good to always stay nice because you may actually get what you want (although not always) if you communicate it correctly, and if you get mean you will end up regretting it. It's also better that way for the other person. :)</p>
+<p>7 - CNN is crap - really a great big stinking propaganda turd, and although the BBC has it's own smaller problems it is generally informative and far less biased than CNN. Oh media, how far have ye fallen?</p>
+<p>8 - Rome is a sweet elixir for really anything. I have heard some criticisms about Rome, most of which I don't agree with. The only negative we found about Rome is that if you don't speak Italian a lot of the merchants/restaurants will try to price gouge you, but as long as they have printed prices you're basically ok and if they don't just be ready to haggle.</p>
+<p>So that's it for now, more later.</p>
+<p>k</p>
