@@ -20,7 +20,7 @@ your main project folder is blog/, which means that you will be cd-ing between t
 I have a few pages set up for you as samples. Go nuts. Read up on [Jekyll](https://github.com/mojombo/jekyll), the main point is that anything in the blog/ directory will get copied into the /_site/ directory when you run the server. This will write html files that you can then export via the rake command in /Rakefile. I will get into that later. Just remember that you need [front matter](https://github.com/mojombo/jekyll/wiki/yaml-front-matter) in your files if you want them to be processed by liquid. Your .xml file, for example, has blank front matter. Your .js files, for example, do not. You get the picture. Also, when building .json files, we include a null at the end to avoid some problem with a trailing comma.
 
 ## search ##
-Search is already wired up for you, nothing much to do there. It is a little bit of javascript that pols the search.json file for matches. I have a few hundred pages on my site and it runs fine, but if you have a huge amount of pages you may want a more robust search solution. For my needs this works perfectly and it is very solid if not optimized for speed per se.
+Search is already wired up for you, nothing much to do there. It is a little bit of javascript that polls the search.json file for matches. I have a few hundred pages on my site and it runs fine, but if you have a huge amount of pages you may want a more robust search solution. For my needs this works perfectly and it is very solid if not optimized for speed _per se_.
 
 ## deployment ##
 I set up a micro EC2 slice to push this to, and there is a rake command already set up to push your changes. I recommend a dedicated ip just for ease of use, but however you want to specify the host just edit the two deploy_ scripts and you will be good to go.
@@ -39,7 +39,7 @@ I encourage everyone to try this out on a micro slice from Amazon EC2. They have
 ## last things ##
 I did a hack where any pages with date 1900-01-01 will get skipped by the Archive list. This way they get generated with front matter as posts - the directory gets auto generated which saves you having the empty directories lying around the project. It's hacky but also logical in a certain way I think, so just watch out for that. I like it because you get those pages showing up in search for free, because as posts they get sucked into the search.json file with the rest of them. json files are finicky so I had to escape the crap out of the content so don't expect too much out of the search.json file - it serves the purpose of search, has a teaser included, and the link takes you to the post. Don't expect to have the whole post text in there without a lot of dashes included. Also, if the search.json liquid conversion fails the first place to look would be for special characters in the teaser. You could test that by shortening it to only one or two words and seeing if that helps.
 
-Feel free to fork and comment. I would love to hear about anyone trying out WP-to_Jekyll.
+Feel free to fork and comment. I would love to hear about anyone trying out [WP-to-Jekyll](https://github.com/gmgent/WP-to-jekyll).
 
 cheers
 
