@@ -16,4 +16,6 @@ The chameleonic sees the classic as putting the eye of perception in the wrong p
 So as a chameleonic I say - especially when I am writing - what will I be now? Sad me? Indignant me? Indie-power me? and I don't really worry about what it might mean to anyone else, because I am just stepping inside a costume. Why would you concern yourself with how you look inside a costume? That's not you, it's the clothing. Only the face is you.
 But the classic gets nervous because it feels heavy to them. There is a certain manufactured gravity that I think is the mark of a good poem, or a good anything, and it might make certain people uncomfortable.
 ## bottom line ##
-Chameleonics tend to get indignant and classics tend to get offended. This is and always will be, as far as I can tell. The important thing is to take it easy.
+Chameleonics tend to get indignant and classics tend to get offended. This is and always will be, as far as I can tell. The important thing is to take it easy. I always use the example of Randy Newman, who is such a great songwriter and he puts on all kinds of crazy hats. Like writing from the point of view of a [racist redneck](http://www.youtube.com/watch?v=2nGw_vAnqPI). No one get on his case for trying to explore that point of view. It's art after all.
+
+>It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle
