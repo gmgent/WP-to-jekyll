@@ -29,9 +29,18 @@ Deploy like this:
 from the root folder one up from blog/ (WP-to-jekyll), and you can watch rsync do its magic. If you are not using a separate script to deploy assets into the blog/ folder somewhere, then you can add back the --delete option in deploy_command.rb. It's up to you.
 
 ## audio tags ##
-I also wrote a Liquid filter to add audio tags in the blog template - so when you click through to the post detail page, any mp3 link will automatically use an audio tag and get served through the audiojs library. Disable/enable that per layout, like in this example from _layouts/single.html:
+I also wrote a Liquid filter to add audio tags in the blog template - so when you click through to the post detail page, any mp3 link will automatically use an audio tag and get served through the [audiojs](http://kolber.github.com/audiojs/) library. Disable/enable that per layout, like in this example from _layouts/single.html:
 <pre><p class="teaser_info">{{ content | newline_to_br | add_audio_tag }}</p></pre>
 
 the 'add_audio_tag' is what replaces the link. That code is in the plugins folder as content_filter.rb. from there you can write more custom filters in ruby which I enjoy so much more than php, I can't even tell you.
 
-I encourage everyone to try this out on a micro slice from Amazon EC2. They have a deal right now with the first year free if you sign up for a new account, and right now the rate would be 2 cents per hour if it wasn't already free. That adds up to 12 or 13 dollars a month which is a good price when you can host as many domains as you like. My old host charged me extra every month for every domain. Read up on that [here](/vhost)
+I encourage everyone to try this out on a micro slice from Amazon EC2. They have a deal currently with the first year free if you sign up for a new account, and right now the rate would be 2 cents per hour if it wasn't already free. That adds up to 12 or 13 dollars a month which is a good price when you can host as many domains as you like. My old host charged me extra every month for every domain. I have an example for you [here](/WP-to-jekyll/vhost) if you are curious how to do that.
+
+## last things ##
+I did a hack where any pages with date 1900-01-01 will get skipped by the Archive list. This way they get generated with front matter as posts - the directory gets auto generated which saves you having the empty directories lying around the project. It's hacky but also logical in a certain way I think, so just watch out for that. I like it because you get those pages showing up in search for free, because as posts they get sucked into the search.json file with the rest of them. json files are finicky so I had to escape the crap out of the content so don't expect too much out of the search.json file - it serves the purpose of search, has a teaser included, and the link takes you to the post. Don't expect to have the whole post text in there without a lot of dashes included. Also, if the search.json liquid conversion fails the first place to look would be for special characters in the teaser. You could test that by shortening it to only one or two words and seeing if that helps.
+
+Feel free to fork and comment. I would love to hear about anyone trying out WP-to_Jekyll.
+
+cheers
+
+[Krister Axel](http://kristeraxel.com)
