@@ -24,4 +24,4 @@ If you don’t have a file named vhost.conf, you should go ahead and create it. 
 
 I am also doing a subdomain push, so that the subdomain (u.inmusic.org) will go to the /var/www/other/ folder, while the root will still pass through to /var/www/html (the default).
 
-I'm doing this to publish many domains on the same little EC2 slice. It is a total time-saver.
+I'm doing this to publish many domains on the same little EC2 slice. It is a total time-saver. Use this as a sample.
