@@ -1,0 +1,20 @@
+<div class='contact_table_p'>
+  <table id='contact_table'>
+	<tr>
+	  <td>
+      Hello, blah blah blah. </td>
+      </tr><tr><td>
+        <p class='contact'>
+          <a title='Krister Axel on Facebook' href='https://www.facebook.com/music.krister.axel' target='_blank'>
+            <img width='30' alt='Krister Axel on Facebook' height='30' src='/img/facebook.png' /></a>
+          <a title='Krister Axel on Twitter' href='http://twitter.com/kristeraxel' target='_blank'>
+            <img width='30' alt='Krister Axel on Twitter' height='30' src='/img/twitter.png' /></a>
+          <a title='Krister Axel on iTunes' href='http://itunes.apple.com/us/artist/krister-axel/id16710514' target='_blank'>
+            <img width='30' alt='Krister Axel on iTunes' height='30' src='/img/itunes_logo-315x315.png' /></a>
+          <a title='Listen to and buy Krister Axel songs on Bandcamp' href='http://axelradio.com' target='_blank'>
+            <img width='80' alt='Listen to and buy Krister Axel songs on Bandcamp' height='30' src='/img/bandcamp2.png' /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
