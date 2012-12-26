@@ -44,3 +44,5 @@ Feel free to fork and comment. I would love to hear about anyone trying out [WP-
 cheers
 
 [Krister Axel](http://kristeraxel.com)
+
+NEXT Stop: add some tests.

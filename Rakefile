@@ -55,6 +55,23 @@ task :sync_assets do
   sh "cd #{SITEDIR}"
 end
 
+task :anew do
+  name = ENV['name']
+  filename = "#{Time.now.strftime("%Y-%m-%d")}-#{name.gsub(' ', '-')}"
+  filename_with_ext = "#{filename}.md"
+  sh "touch 'blog/_posts/#{filename_with_ext}'"
+  File.open("blog/_posts/#{filename_with_ext}", "w") do |f|
+    f.puts "---"
+    f.puts "layout: blog"
+    f.puts "title: #{name}"
+    f.puts "permalink: #{Time.now.strftime("%Y")}/#{Time.now.strftime("%m")}/#{name.gsub(' ', '-')}"
+    f.puts "postday: #{Time.now.strftime("%m/%d %Y")}"
+    f.puts "posttime: #{Time.now.strftime("%H_%M")}"
+    f.puts "comments: true"
+    f.puts "categories: [random]"
+    f.puts "---"
+  end
+end
 
 def site_files
   FileList["#{SITEDIR}/**/*"].find_all {|f| File.file? f}
